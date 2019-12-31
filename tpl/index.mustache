@@ -19,21 +19,32 @@
   <!--[if IE]>
     <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
   <![endif]-->
-  <h1>{{ site.title }}</h1>
-  <p>{{ site.subtitle }}</p>
+  <header class="header">
+    <h1 class="header-title">{{ site.title }}</h1>
+    <p class="header-desc">{{ site.subtitle }}</p>
+  </header>
   <article>
-    <ul>
+    <ul class="podcast-list">
       {{#content.podcasts}}
-        <li>
+        <li class="podcast">
           {{#basicInfo}}
-            <h1><a target="_blank" href="{{basicInfo.link}}">{{basicInfo.title}}</a></h1>
-            <p>作者: {{basicInfo.author}}, 语言: {{basicInfo.language}}, 平均时长: {{averageDuration}} 秒</p>
-            <p>关键字: {{keywords}}</p>
-            <img class="podcast-img" src="{{basicInfo.image}}"/>
-            <p>{{basicInfo.description}}</p>
-            {{#latestEpisode}}
-              <p> 最新一集: <a href="{{link}}">{{ title }}</a> 作者: {{author}}  时长: {{ itunes:duration }} </p>
-            {{/latestEpisode}}
+            <div class="podcast-img-holder">
+              <img class="podcast-img" src="{{basicInfo.image}}"/>
+            </div>
+            <div class="podcast-info">
+              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">{{basicInfo.title}}</a>
+              <p class="podcast-info-group">
+                <span class="podcast-info-author">作者: {{basicInfo.author}}</span>
+                <span class="podcast-info-lang">语言: {{basicInfo.language}}</span>
+                <span class="podcast-info-duration">平均时长: {{averageDuration}} 秒</span>
+              </p>
+              {{#keywords}}<p class="podcast-info-keywords">关键字: {{keywords}}</p>{{/keywords}}
+              
+              <p class="podcast-info-desc">{{basicInfo.description}}</p>
+              {{#latestEpisode}}
+                <p><a class="podcast-last-episode" href="{{link}}"> 最新一集: {{ title }}</a> <span class="duration">时长: {{ itunes:duration }}<span></p>
+              {{/latestEpisode}}
+            </div>
           {{/basicInfo}}
           {{^basicInfo}}
             <h1>{{config.name}} 更新失败</h1>

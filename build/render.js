@@ -48,6 +48,7 @@ async function render() {
   const content = await readContentData();
   genHtml(siteData, content);
   genReadme(siteData, content);
+  return { success: true };
 }
 
 module.exports = render;

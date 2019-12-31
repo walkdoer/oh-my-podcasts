@@ -181,91 +181,216 @@ textarea {
   clear: both;
 }
 
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+body {
+  color: #333;
+  background-color: #F5F5F5;
+}
+ul,ol,li, h1, p { margin: 0; padding: 0;}
+.header {
+  padding: 1.5rem;
+}
+.header-title {
+  font-weight: bold;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0.8rem;
+}
+.header-desc {
+  color: #333;
+  font-size: 1.2rem;
+  text-align: center;
+}
+.podcast-list {
+  display: flex;
+  flex-direction: column;
+  width: 960px;
+  margin: 1.2rem auto;
+}
+.podcast {
+  display: flex;
+  flex-direction: row;
+  background-color: #FFF;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,0.15);
+  border-radius: 2px;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.podcast-img-holder {
+  background-color: #EFEFEF;
+  width: 150px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+}
+.podcast-img {
+  width: 100%;
+}
+.podcast-info {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+.podcast-info-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.podcast-info-desc {
+  color: rgba(0, 0, 0, 0.5);
+  padding: 1rem;
+  font-size: 1rem;
+}
+.podcast-info-group {
+  display: flex;
+  flex-direction: row;
+}
+.podcast-info-keywords {
+  margin-top: 0.3rem;
+  color: #c75f8e;
+  font-size: 0.8rem;
+}
+.podcast-info-group > span {
+  background-color: #efefef;
+  padding: 0.1rem 0.5rem; 
+  margin-right: 0.5rem;
+  border-radius: 0.2rem;
+}
+.podcast-last-episode {
+  color: #cc2470;
+  font-size: 1.1rem;
+}
+.duration {
+  background-color: #efefef;
+  padding: 0.1rem 0.3rem; 
+  margin-right: 0.5rem;
+  border-radius: 0.2rem;
+  font-size: 0.8rem;
+}
+
+
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    These examples override the primary ('mobile first') styles.
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
-}
+   @media only screen and (min-width: 35em) {
+    /* Style adjustments for viewports that meet the condition */
+  }
+  
+  @media print,
+    (-webkit-min-device-pixel-ratio: 1.25),
+    (min-resolution: 1.25dppx),
+    (min-resolution: 120dpi) {
+    /* Style adjustments for high resolution devices */
+  }
 
-@media print,
-  (-webkit-min-device-pixel-ratio: 1.25),
-  (min-resolution: 1.25dppx),
-  (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */
-}
-
-/* ==========================================================================
-   Print styles.
-   Inlined to avoid the additional HTTP request:
-   https://www.phpied.com/delay-loading-your-print-css/
-   ========================================================================== */
-
-@media print {
-  *,
-  *:before,
-  *:after {
-    background: transparent !important;
-    color: #000 !important;
-    /* Black prints faster */
-    -webkit-box-shadow: none !important;
-    box-shadow: none !important;
-    text-shadow: none !important;
+  /* ipad pro */
+  @media screen and (max-width: 1024px) {
+    .podcast-list {
+      width: 700px;
+    }
   }
-  a,
-  a:visited {
-    text-decoration: underline;
+  /* ipad */
+  @media screen and (max-width: 768px) {
+    .podcast-list {
+      width: 500px;
+    }
   }
-  a[href]:after {
-    content: " (" attr(href) ")";
+  /* iphone6 7 8 plus */
+  @media screen and (max-width: 414px) {
+    .podcast-list {
+      width: 300px;
+    }
   }
-  abbr[title]:after {
-    content: " (" attr(title) ")";
+  /* iphoneX */
+  @media screen and (max-width: 375px) and (-webkit-device-pixel-ratio: 3) {
+    .podcast-list {
+      width: 300px;
+    }
   }
-  /*
-     * Don't show links that are fragment identifiers,
-     * or use the `javascript:` pseudo protocol
-     */
-  a[href^="#"]:after,
-  a[href^="javascript:"]:after {
-    content: "";
+  /* iphone6 7 8 */
+  @media screen and (max-width: 375px) and (-webkit-device-pixel-ratio: 2) {
+    .podcast-list {
+      width: 300px;
+    }
   }
-  pre {
-    white-space: pre-wrap !important;
+  /* iphone5 */
+  @media screen and (max-width: 320px) {
+    .podcast-list {
+      width: 300px;
+    }
   }
-  pre,
-  blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid;
+  
+  /* ==========================================================================
+     Print styles.
+     Inlined to avoid the additional HTTP request:
+     https://www.phpied.com/delay-loading-your-print-css/
+     ========================================================================== */
+  
+  @media print {
+    *,
+    *:before,
+    *:after {
+      background: transparent !important;
+      color: #000 !important;
+      /* Black prints faster */
+      -webkit-box-shadow: none !important;
+      box-shadow: none !important;
+      text-shadow: none !important;
+    }
+    a,
+    a:visited {
+      text-decoration: underline;
+    }
+    a[href]:after {
+      content: " (" attr(href) ")";
+    }
+    abbr[title]:after {
+      content: " (" attr(title) ")";
+    }
+    /*
+       * Don't show links that are fragment identifiers,
+       * or use the `javascript:` pseudo protocol
+       */
+    a[href^="#"]:after,
+    a[href^="javascript:"]:after {
+      content: "";
+    }
+    pre {
+      white-space: pre-wrap !important;
+    }
+    pre,
+    blockquote {
+      border: 1px solid #999;
+      page-break-inside: avoid;
+    }
+    /*
+       * Printing Tables:
+       * https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
+       */
+    thead {
+      display: table-header-group;
+    }
+    tr,
+    img {
+      page-break-inside: avoid;
+    }
+    p,
+    h2,
+    h3 {
+      orphans: 3;
+      widows: 3;
+    }
+    h2,
+    h3 {
+      page-break-after: avoid;
+    }
   }
-  /*
-     * Printing Tables:
-     * https://web.archive.org/web/20180815150934/http://css-discuss.incutio.com/wiki/Printing_Tables
-     */
-  thead {
-    display: table-header-group;
-  }
-  tr,
-  img {
-    page-break-inside: avoid;
-  }
-  p,
-  h2,
-  h3 {
-    orphans: 3;
-    widows: 3;
-  }
-  h2,
-  h3 {
-    page-break-after: avoid;
-  }
-}
-
-
-.podcast-img {
-  width: 100px;
-  height: 100px;
-}

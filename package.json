@@ -3,9 +3,21 @@
   "version": "1.0.0",
   "description": "effi template for static gallery website ",
   "main": "index.js",
+  "watch": {
+    "render": {
+      "patterns": ["tpl"],
+      "extensions": "mustache",
+      "quiet": true,
+      "legacyWatch": true,
+      "delay": 1000,
+      "runOnChangeOnly": false
+    }
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./build/main.js"
+    "build": "node ./build/main.js",
+    "render": "node ./build/main.js --renderonly",
+    "dev": "npm-watch render"
   },
   "author": "",
   "license": "MIT",
@@ -15,7 +27,8 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
-    "eslint-plugin-react-hooks": "^1.7.0"
+    "eslint-plugin-react-hooks": "^1.7.0",
+    "npm-watch": "^0.6.0"
   },
   "dependencies": {
     "axios": "^0.19.0",
