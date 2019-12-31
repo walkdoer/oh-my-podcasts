@@ -72,4 +72,40 @@ name="迟早更新"
 cate="culture"
 rss="https://feeds.fireside.fm/czgx/rss"
 
+
+[[podcasts]]
+name="硅谷早知道"
+cate="tech"
+rss="https://feeds.fireside.fm/guiguzaozhidao/rss"
+
+
+[[podcasts]]
+name="狗熊有话说"
+cate="culture"
+rss="https://feeds.fireside.fm/beartalk/rss"
+
+[[podcasts]]
+name="忽左忽右"
+cate="culture"
+rss="http://www.ximalaya.com/album/12817863.xml"
+
+[[podcasts]]
+name="声东击西"
+cate="tech"
+rss="https://feeds.fireside.fm/shengdongjixi/rss"
+
+[[podcasts]]
+name="无业游民"
+cate="culture"
+rss="https://theue.me/feed/podcast"
+
+[[podcasts]]
+name="追科技撩艺术"
+cate="tech"
+rss="https://doko.com/podcasts/feed.xml"
+
+[[podcasts]]
+name="Digital China"
+cate="tech"
+rss="https://rss.acast.com/digitallychina"
 # End of Podcasts }}}}}}}}}
