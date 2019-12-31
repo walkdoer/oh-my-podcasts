@@ -1,0 +1,16 @@
+# {{ site.title }}
+
+{{ site.subtitle }}
+
+# Podcasts
+
+{{#content.podcasts}}
+  <li>
+    {{#name}}
+      <p><strong>{{name}}</strong></p>
+    {{/name}}
+    {{#desc}}
+      <p>{{desc}}</p>
+    {{/desc}}
+  </li>
+{{/content.podcasts}}
