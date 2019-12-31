@@ -5,15 +5,25 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./build/render.js"
+    "build": "node ./build/render.js",
+    "rss": "node ./build/createList.js"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "mustache": "^3.1.0",
-    "toml": "^3.0.0"
+    "eslint": "^6.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-react": "^7.17.0",
+    "eslint-plugin-react-hooks": "^1.7.0"
   },
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.19.0",
+    "chalk": "^3.0.0",
+    "ora": "^4.0.3",
+    "xml2js": "^0.4.23",
+    "toml": "^3.0.0",
+    "mustache": "^3.1.0"
   }
 }

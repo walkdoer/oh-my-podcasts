@@ -1,0 +1,75 @@
+# Category List
+
+[[categories]]
+id = "foods"
+cn = "美食"
+en = "Foods"
+
+[[categories]]
+id = "tech"
+cn = "科技"
+en = "Tech"
+
+[[categories]]
+id = "music"
+cn = "音乐"
+en = "Music"
+
+[[categories]]
+id = "finance"
+cn = "金融"
+en = "Finance"
+
+[[categories]]
+id = "society"
+cn = "金融"
+en = "Society"
+
+[[categories]]
+id = "culture"
+cn = "文化"
+en = "Culture"
+
+[[categories]]
+id = "history"
+cn = "历史"
+en = "History"
+
+
+# End of Category List }}}}}}
+
+# Podcast List
+
+[[podcasts]]
+name="味之道"
+cate="foods"
+desc="《味之道》是由席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。"
+rss="https://feeds.fireside.fm/wzd/rsss"
+
+
+[[podcasts]]
+name="疯投圈"
+cate="tech,finance"
+desc="从投资视角探讨商业现象背后的本质。做最好的中文商业类播客"
+rss="https://crazy.capital/feed"
+
+
+[[podcasts]]
+name="博物志"
+cate="culture"
+desc="一档关于博物馆的播客"
+rss="https://feeds.fireside.fm/museelogue/rss"
+
+
+[[podcasts]]
+name="不丧"
+cate="culture"
+desc="「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。"
+rss="https://feeds.simplecast.com/_duqOpEq"
+
+[[podcasts]]
+name="迟早更新"
+cate="culture"
+rss="https://feeds.fireside.fm/czgx/rss"
+
+# End of Podcasts }}}}}}}}}
