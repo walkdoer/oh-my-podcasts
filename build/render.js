@@ -2,6 +2,8 @@ const fs = require('fs');
 const path = require('path');
 const toml = require('toml');
 const Mustache = require('mustache');
+const util = require('./utils');
+
 const currentWorkDirectory = process.cwd();
 
 function readTpl(tplName) {
@@ -15,34 +17,37 @@ function readTomlData(filePath) {
 }
 
 function readSiteData() {
-  return readTomlData('./data/site.toml');
+  return readTomlData('./config/site.toml');
 }
 
-function readContentData() {
-  return readTomlData('./data/content.toml');
+async function readContentData() {
+  return {
+    podcasts: await util.getRSSJsonList(),
+  };
 }
 
-function genHtml(siteData, listData) {
+function genHtml(siteData, content) {
   const tplPath = readTpl('index.mustache');
   const tplContent = fs.readFileSync(tplPath, 'utf-8');
-  const renderedHtml = Mustache.render(tplContent, { site: siteData, content: listData });
+  const renderedHtml = Mustache.render(tplContent, { site: siteData, content });
   // create index.html
   const indexPath = path.resolve(currentWorkDirectory, './index.html');
   fs.writeFileSync(indexPath, renderedHtml);
 }
 
-function genReadme(siteData, listData) {
+function genReadme(siteData, content) {
   const tplPath = readTpl('readme.mustache');
   const tplContent = fs.readFileSync(tplPath, 'utf-8');
-  const renderedContent = Mustache.render(tplContent, { site: siteData, content: listData });
+  const renderedContent = Mustache.render(tplContent, { site: siteData, content });
   // create readme.md
   fs.writeFileSync(path.resolve(currentWorkDirectory, './readme.md'), renderedContent);
 }
 
+async function render() {
+  const siteData = readSiteData();
+  const content = await readContentData();
+  genHtml(siteData, content);
+  genReadme(siteData, content);
+}
 
-const siteData = readSiteData();
-const content = readContentData();
-
-console.log(content);
-genHtml(siteData, content);
-genReadme(siteData, content);
+module.exports = render;

@@ -6,7 +6,10 @@ const axios = require('axios');
 
 const currentWorkDirectory = process.cwd();
 const rssDir = path.resolve(currentWorkDirectory, './rss');
+const dataDir = path.resolve(currentWorkDirectory, './data');
 const writeFilePromise = util.promisify(fs.writeFile);
+const readFilePromise = util.promisify(fs.readFile);
+const DATA_RSS_PATH = path.resolve(dataDir, 'rss.json');
 
 
 function readTomlData(filePath) {
@@ -24,8 +27,19 @@ function saveRSSToLocalFile(filename, content) {
   return writeFilePromise(writePath, content);
 }
 
+function saveRSSJsonList(content) {
+  return writeFilePromise(DATA_RSS_PATH, content);
+}
+
+function getRSSJsonList() {
+  return readFilePromise(DATA_RSS_PATH, 'utf-8').then((content) => JSON.parse(content));
+}
+
 module.exports = {
+  writeFilePromise,
   readTomlData,
   getUrl,
   saveRSSToLocalFile,
+  saveRSSJsonList,
+  getRSSJsonList,
 };

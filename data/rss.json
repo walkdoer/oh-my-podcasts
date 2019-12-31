@@ -1,0 +1,296 @@
+[
+  {
+    "config": {
+      "name": "味之道",
+      "cate": "foods",
+      "desc": "《味之道》是由席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。",
+      "rss": "https://feeds.fireside.fm/wzd/rss"
+    },
+    "lastUpdated": 1577814887238,
+    "categories": [
+      {
+        "id": "foods",
+        "cn": "美食",
+        "en": "Foods"
+      }
+    ],
+    "basicInfo": {
+      "title": "味之道",
+      "link": "http://wzd.fm",
+      "description": "《味之道》是由席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。\n",
+      "language": "zh-cn",
+      "author": "席妙雅",
+      "ituneCategory": "Arts",
+      "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/cover.jpg?v=1",
+      "episodeNumber": 120,
+      "averageDuration": 3129,
+      "latestEpisode": {
+        "title": "S02.9: NOMA 霸气回归，等了三年，终于能聊吃后感了！",
+        "link": "http://wzd.fm/120",
+        "guid": {
+          "_": "39dc77e8-c88a-4206-b066-ddedc3c1a88f",
+          "$": {
+            "isPermaLink": "false"
+          }
+        },
+        "pubDate": "Wed, 03 Jul 2019 16:00:00 +0800",
+        "author": "席妙雅",
+        "enclosure": {
+          "$": {
+            "url": "https://aphid.fireside.fm/d/1437767933/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/39dc77e8-c88a-4206-b066-ddedc3c1a88f.mp3",
+            "length": "78629840",
+            "type": "audio/mpeg"
+          }
+        },
+        "itunes:episodeType": "full",
+        "itunes:season": "2",
+        "itunes:author": "席妙雅",
+        "itunes:subtitle": "如题。",
+        "itunes:duration": "1:40:28",
+        "itunes:explicit": "no",
+        "itunes:image": {
+          "$": {
+            "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/9/9f98ad11-ba9a-4fde-8f71-68ed019ed09c/cover.jpg?v=1"
+          }
+        },
+        "description": "相关链接：\n2019 BEST 50\nhttps://www.theworlds50best.com/list/1-50-winners\n",
+        "itunes:keywords": "food",
+        "content:encoded": "\n        <p>相关链接：</p>\n\n<p>2019 BEST 50</p>\n\n<p><a href=\"https://www.theworlds50best.com/list/1-50-winners\" rel=\"nofollow\">https://www.theworlds50best.com/list/1-50-winners</a></p>\n      ",
+        "itunes:summary": "\n        <p>相关链接：</p>\n\n<p>2019 BEST 50</p>\n\n<p><a href=\"https://www.theworlds50best.com/list/1-50-winners\" rel=\"nofollow\">https://www.theworlds50best.com/list/1-50-winners</a></p>\n      "
+      }
+    }
+  },
+  {
+    "config": {
+      "name": "疯投圈",
+      "cate": "tech,finance",
+      "desc": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客",
+      "rss": "https://crazy.capital/feed"
+    },
+    "lastUpdated": 1577814887532,
+    "categories": [
+      {
+        "id": "tech",
+        "cn": "科技",
+        "en": "Tech"
+      },
+      {
+        "id": "finance",
+        "cn": "金融",
+        "en": "Finance"
+      }
+    ],
+    "basicInfo": {
+      "title": "疯投圈",
+      "link": "https://crazy.capital",
+      "description": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客。",
+      "language": "zh-CN",
+      "keywords": "风险投资,风投,VC,venture capital,疯投圈,疯投,crazy capital,crazy,capital",
+      "author": "黄海, Rio",
+      "ituneCategory": "Business",
+      "image": "https://crazy.capital/assets/icon-crazycapital-1800.png",
+      "episodeNumber": 40,
+      "averageDuration": 4236,
+      "latestEpisode": {
+        "title": "40. 疯投圈的未来",
+        "itunes:episode": "40",
+        "itunes:title": "疯投圈的未来",
+        "description": "<p>2020年新年伊始，疯投圈走入第四个年头啦！感谢朋友们一路陪我们走过整整40期节目。这几年里，我们心怀感恩与敬畏，保持低速稳定更新，批判看待热点，认知趋势变化，探究商业现象背后的逻辑。</p>\n\n<p>审视商业世界的同时，我们也不断审视自己。本期节目中我们将宣布一系列重要决定——上新小程序、知识星球长期有效、电子书增值服务、新的见面会计划等等。同时，我们也将从自身会员计划的经验出发，探讨知识付费行业近年来的新变化和新模式，微信公众号在知识付费中的角色和作用。同时对标美国知识付费行业，讨论「知识」在中美认知中的差异。</p>\n\n<p>疯投圈开始于风投与创业浪潮鼎盛之时，转眼四年，已是业界所公认的资本寒冬。值此寒冬之际，我们依旧乐于做冷静独立的思考者、积极乐观的分享者，等待新一年的春暖花开。</p>\n\n<p>疯投圈正在招募一位平面设计师加入志愿者团队，工作量大约在每个月3小时左右。如果你感兴趣，请发送作品与个人介绍至 <a href=\"mailto:hi@crazy.capital\">hi@crazy.capital</a>。如果风格合适，我们将很快与你取得联系。</p>\n\n<ul>\n<li>意见与反馈请致信 <a href=\"mailto:hi@crazy.capital\">hi@crazy.capital</a></li>\n<li>加入疯投圈知识星球获取更多会员专属私密分享与线下活动通知：微信扫码 <a href=\"https://t.zsxq.com/EIqrRju\">https://t.zsxq.com/EIqrRju</a> 手机上操作可先保存图片至系统相册，然后点击微信扫一扫右上角扫描相册内二维码</li>\n<li>使用《疯投圈》小程序在微信里收听节目：微信搜索小程序「疯投圈」或扫码 <a href=\"https://crazy.capital/assets/qrcode-wechat-miniprogram-search.png\">https://crazy.capital/assets/qrcode-wechat-miniprogram-search.png</a></li>\n<li>关注《疯投圈》微信服务号接受节目上线通知：微信搜索服务号「疯投圈」或扫码 <a href=\"https://crazy.capital/assets/qrcode_for_gh_c4b3759aba09_430.jpg\">https://crazy.capital/assets/qrcode_for_gh_c4b3759aba09_430.jpg</a></li>\n<li>关注《疯投圈》的微博 <a href=\"https://t.cn/E28sK3O\">https://t.cn/E28sK3O</a></li>\n</ul>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"https://www.vox.com/the-goods/2019/1/16/18177077/masterclass-subscription-video-serena-williams-how-to-famous\">What is masterclass selling?</a></li>\n<li><a href=\"https://www.bloomberg.com/news/articles/2018-09-06/masterclass-has-celebrity-instructors-and-136-million-will-students-show-up\">MasterClass Has Celebrity Instructors and $136 Million. Will Students Show Up?</a></li>\n<li><a href=\"https://techcrunch.com/2018/09/11/masterclass-is-mastering-scale-as-a-media-business/\">Masterclass is mastering scale as a media business</a></li>\n</ul>\n",
+        "link": "https://crazy.capital/40",
+        "guid": {
+          "_": "https://crazy.capital/40",
+          "$": {
+            "isPermaLink": "true"
+          }
+        },
+        "author": "黄海,Rio",
+        "pubDate": "Tue, 31 Dec 2019 15:00:00 +0000",
+        "enclosure": {
+          "$": {
+            "type": "audio/mpeg",
+            "length": "35884431",
+            "url": "https://crazy.capital/40/audio.mp3"
+          }
+        },
+        "itunes:duration": "4485"
+      }
+    }
+  },
+  {
+    "config": {
+      "name": "博物志",
+      "cate": "culture",
+      "desc": "一档关于博物馆的播客",
+      "rss": "https://feeds.fireside.fm/museelogue/rss"
+    },
+    "lastUpdated": 1577814888305,
+    "categories": [
+      {
+        "id": "culture",
+        "cn": "文化",
+        "en": "Culture"
+      }
+    ],
+    "basicInfo": {
+      "title": "博物志",
+      "link": "https://bowuzhi.fm",
+      "description": "bowuzhi.fm 一档关于博物馆的播客。\n",
+      "language": "zh-cn",
+      "author": "bowuzhi",
+      "ituneCategory": "Society & Culture",
+      "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c31bea1c-0034-4381-9ad0-89823ce4540b/cover.jpg?v=2",
+      "episodeNumber": 165,
+      "averageDuration": 4082,
+      "latestEpisode": {
+        "title": "#157. 圣诞闲聊与北京看展简报",
+        "link": "https://bowuzhi.fm/157",
+        "guid": {
+          "_": "1ee69b29-2d63-485e-817f-63d23b17c808",
+          "$": {
+            "isPermaLink": "false"
+          }
+        },
+        "pubDate": "Tue, 24 Dec 2019 21:45:00 +0800",
+        "author": "bowuzhi",
+        "enclosure": {
+          "$": {
+            "url": "https://aphid.fireside.fm/d/1437767933/c31bea1c-0034-4381-9ad0-89823ce4540b/1ee69b29-2d63-485e-817f-63d23b17c808.mp3",
+            "length": "20771689",
+            "type": "audio/mpeg"
+          }
+        },
+        "itunes:episodeType": "full",
+        "itunes:author": "bowuzhi",
+        "itunes:subtitle": "上期节目我们说到了在北京参观博物馆遇到的预约难的问题，本期就来具体说说都看了啥。",
+        "itunes:duration": "42:49",
+        "itunes:explicit": "yes",
+        "itunes:image": {
+          "$": {
+            "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c31bea1c-0034-4381-9ad0-89823ce4540b/cover.jpg?v=2"
+          }
+        },
+        "description": "人物\n婉莹，大黄，小爱\n简介\n上期节目我们说到了在北京参观博物馆遇到的预约难的问题，本期就来具体说说都看了啥。\n如果您喜欢《博物志》，请考虑成为会员 (https://bowuzhi.fm/member/)支持我们。\n单独购买往期通讯 (https://mianbaoduo.com/user/show/aWealms=)\n我们的微店 (https://weidian.com/?userid=1253336237&p=iphone&wfr=BuyercopyURL&share_relation=a5eeac280c36c7c2__1)\nSpotify：博物志 (https://open.spotify.com/show/6khr7eTf4mQa4SAZzH86s9)\nYoutube 频道：博物志museelogue (https://www.youtube.com/feed/subscriptions/UC6mRJmp94jsa8megdfQLV4w)\nBilibili 频道：博物志 (https://space.bilibili.com/105185560?from=search&seid=13635414942186953006)\nBilibili 直播间 (https://live.bilibili.com/21528642?from=search&seid=15255352836414836974)\n婉莹瞎唱的电报频道 (https://t.me/bbsing)\n《哈利播客》公众号 (https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0Nzk3NDk5Ng==&scene=124&#wechat_redirect)\n相关链接\n清华大学艺术博物馆 (http://www.artmuseum.tsinghua.edu.cn) \n安尼施·卡普尔个展 (https://www.cafamuseum.org/exhibit/detail/643) \n木木美术馆 (https://www.mwoods.org) \n回归之路 (http://www.chnmuseum.cn/portals/0/web/zt/20190917hgzl/) \n网站上写的开放时间就是放屁的北京大学赛克勒考古与艺术博物馆 (http://www.amsm.pku.edu.cn) \n",
+        "content:encoded": "\n        <h2>人物</h2>\n\n<p>婉莹，大黄，小爱</p>\n\n<h2>简介</h2>\n\n<p>上期节目我们说到了在北京参观博物馆遇到的预约难的问题，本期就来具体说说都看了啥。</p>\n\n<p>如果您喜欢《博物志》，请考虑成为<a href=\"https://bowuzhi.fm/member/\" rel=\"nofollow\">会员</a>支持我们。</p>\n\n<p><a href=\"https://mianbaoduo.com/user/show/aWealms=\" rel=\"nofollow\">单独购买往期通讯</a><br>\n<a href=\"https://weidian.com/?userid=1253336237&p=iphone&wfr=BuyercopyURL&share_relation=a5eeac280c36c7c2__1\" rel=\"nofollow\">我们的微店</a><br>\nSpotify：<a href=\"https://open.spotify.com/show/6khr7eTf4mQa4SAZzH86s9\" rel=\"nofollow\">博物志</a><br>\nYoutube 频道：<a href=\"https://www.youtube.com/feed/subscriptions/UC6mRJmp94jsa8megdfQLV4w\" rel=\"nofollow\">博物志museelogue</a><br>\nBilibili 频道：<a href=\"https://space.bilibili.com/105185560?from=search&seid=13635414942186953006\" rel=\"nofollow\">博物志</a><br>\n<a href=\"https://live.bilibili.com/21528642?from=search&seid=15255352836414836974\" rel=\"nofollow\">Bilibili 直播间</a><br>\n婉莹瞎唱的<a href=\"https://t.me/bbsing\" rel=\"nofollow\">电报频道</a><br>\n<a href=\"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0Nzk3NDk5Ng==&scene=124&#wechat_redirect\" rel=\"nofollow\">《哈利播客》公众号</a></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.artmuseum.tsinghua.edu.cn\" rel=\"nofollow\">清华大学艺术博物馆</a> </li>\n<li><a href=\"https://www.cafamuseum.org/exhibit/detail/643\" rel=\"nofollow\">安尼施·卡普尔个展</a> </li>\n<li><a href=\"https://www.mwoods.org\" rel=\"nofollow\">木木美术馆</a> </li>\n<li><a href=\"http://www.chnmuseum.cn/portals/0/web/zt/20190917hgzl/\" rel=\"nofollow\">回归之路</a> </li>\n<li><a href=\"http://www.amsm.pku.edu.cn\" rel=\"nofollow\">网站上写的开放时间就是放屁的北京大学赛克勒考古与艺术博物馆</a> </li>\n</ul><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>\n      ",
+        "itunes:summary": "\n        <h2>人物</h2>\n\n<p>婉莹，大黄，小爱</p>\n\n<h2>简介</h2>\n\n<p>上期节目我们说到了在北京参观博物馆遇到的预约难的问题，本期就来具体说说都看了啥。</p>\n\n<p>如果您喜欢《博物志》，请考虑成为<a href=\"https://bowuzhi.fm/member/\" rel=\"nofollow\">会员</a>支持我们。</p>\n\n<p><a href=\"https://mianbaoduo.com/user/show/aWealms=\" rel=\"nofollow\">单独购买往期通讯</a><br>\n<a href=\"https://weidian.com/?userid=1253336237&p=iphone&wfr=BuyercopyURL&share_relation=a5eeac280c36c7c2__1\" rel=\"nofollow\">我们的微店</a><br>\nSpotify：<a href=\"https://open.spotify.com/show/6khr7eTf4mQa4SAZzH86s9\" rel=\"nofollow\">博物志</a><br>\nYoutube 频道：<a href=\"https://www.youtube.com/feed/subscriptions/UC6mRJmp94jsa8megdfQLV4w\" rel=\"nofollow\">博物志museelogue</a><br>\nBilibili 频道：<a href=\"https://space.bilibili.com/105185560?from=search&seid=13635414942186953006\" rel=\"nofollow\">博物志</a><br>\n<a href=\"https://live.bilibili.com/21528642?from=search&seid=15255352836414836974\" rel=\"nofollow\">Bilibili 直播间</a><br>\n婉莹瞎唱的<a href=\"https://t.me/bbsing\" rel=\"nofollow\">电报频道</a><br>\n<a href=\"https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzU0Nzk3NDk5Ng==&scene=124&#wechat_redirect\" rel=\"nofollow\">《哈利播客》公众号</a></p>\n\n<h2>相关链接</h2>\n\n<ul>\n<li><a href=\"http://www.artmuseum.tsinghua.edu.cn\" rel=\"nofollow\">清华大学艺术博物馆</a> </li>\n<li><a href=\"https://www.cafamuseum.org/exhibit/detail/643\" rel=\"nofollow\">安尼施·卡普尔个展</a> </li>\n<li><a href=\"https://www.mwoods.org\" rel=\"nofollow\">木木美术馆</a> </li>\n<li><a href=\"http://www.chnmuseum.cn/portals/0/web/zt/20190917hgzl/\" rel=\"nofollow\">回归之路</a> </li>\n<li><a href=\"http://www.amsm.pku.edu.cn\" rel=\"nofollow\">网站上写的开放时间就是放屁的北京大学赛克勒考古与艺术博物馆</a> </li>\n</ul><p><a href=\"https://bowuzhi.fm/member\" rel=\"payment\">Support 博物志</a></p>\n      "
+      }
+    }
+  },
+  {
+    "config": {
+      "name": "不丧",
+      "cate": "culture",
+      "desc": "「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。",
+      "rss": "https://feeds.simplecast.com/_duqOpEq"
+    },
+    "lastUpdated": 1577814890362,
+    "categories": [
+      {
+        "id": "culture",
+        "cn": "文化",
+        "en": "Culture"
+      }
+    ],
+    "basicInfo": {
+      "title": "不丧",
+      "link": "https://busangpodcast.simplecast.fm",
+      "description": "「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。",
+      "language": "zh-cn",
+      "keywords": "文化，电影，音乐，读书，生活，播客",
+      "author": "好小气，乔老师",
+      "image": "https://cdn.simplecast.com/images/4122da35-393c-41d3-9acb-758e0f7ae88c/0f300841-38cb-456d-9fb8-5e771e2cdf7c/3000x3000/1517031591artwork.jpg?&aid=rss_feed",
+      "episodeNumber": 67,
+      "averageDuration": 4168,
+      "latestEpisode": {
+        "guid": {
+          "_": "25fb3da9-17f9-4468-8a3c-4a10d84b7ca3",
+          "$": {
+            "isPermaLink": "false"
+          }
+        },
+        "title": "书影音推荐第一辑——“什么是你所信奉的价值？”",
+        "description": "\n        <p>订阅听友通讯请点击<a href=\"http://busangpodcast.com/\">这里</a>。</p><p>欢迎通过微博关注我们的节目<a href=\"https://weibo.com/busangpodcast\">@不丧Podcast</a>和女主播<a href=\"https://weibo.com/constancyeee\">@constancy好小气</a>。</p><p>关于线上读书微信群：由于目前群人数超过100人，无法继续通过扫码入群。想要入群的朋友可以先加我的微信号（ID: hongming_qiao），然后再拉你入群。</p><p>我们的电报(Telegram)听友群：<a href=\"https://t.me/joinchat/Gf4mdRLXXcamBXqXJtXBvg\">不丧电报群</a></p><p>我们播客的邮箱地址：<a href=\"mailto:busangpodcast@gmail.com\">busangpodcast@gmail.com</a></p><p>节目开头配乐<i>Italian Afternoon</i> by Twin Musicom is licensed under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution</a> license, 艺术家<a href=\"http://www.twinmusicom.org/\">页面</a>。</p><h2>这集播客中提到的相关作品的介绍和链接</h2><ol><li><p><a href=\"https://www.youtube.com/user/WhereDidUGetThatNY\">YouTube频道：KarenBritChick</a></p></li><li><p><a href=\"https://book.douban.com/subject/34809446/\">Jodi Kantor & Megan Twohey, <i>She Said</i></a></p></li><li><p><a href=\"https://v.qq.com/x/cover/mzc00200viduxqe.html\">十三邀——陈冲</a></p></li><li><p><a href=\"https://www.nytimes.com/2019/11/21/books/review/by-the-book-interview-phoebe-waller-bridge.html\">By the Book: Phoebe Waller-Bridge Loves Antiheroines. Of Course.</a></p></li><li><p><a href=\"https://music.douban.com/subject/34870749/\">Motherless Brooklyn (Original Motion Picture Soundtrack)</a></p></li><li><p><a href=\"https://www.youtube.com/user/ninayu15\">YouTubeoh频道：oh no nina </a></p></li><li><p><a href=\"https://www.nytimes.com/2019/11/13/movies/tom-hanks-mister-rogers.html\">Taffy Brodesser-Akner, This Tom Hanks Story Will Help You Feel Less Bad</a></p><p><a href=\"https://movie.douban.com/subject/27615463/\">《与我为邻》(Won't You Be My Neighbor)(2018)</a></p><p><a href=\"https://movie.douban.com/subject/27073179/\">《邻里美好的一天》(A Beautiful Day in the Neighborhood)(2019)</a></p></li><li><p><a href=\"https://www.weibo.com/5515318644/IfgRSgbsz\">王瑞芸，《西方艺术三万年》</a></p></li><li><p>ClaireTrips: <a href=\"https://www.youtube.com/channel/UC7COwbN0rNIeLLn97jXGY0g\">YouTube频道</a><a href=\"https://www.bilibili.com/video/av75569279\">Bilibili</a></p></li><li><p><a href=\"https://book.douban.com/subject/3888123/\">斯蒂芬·金，《写作这回事：创作生涯回忆录》</a></p></li></ol><h2>如何收听「不丧」</h2><ul><li><p>任何设备都可以通过访问「不丧」的<a href=\"http://busangpodcast.simplecast.fm/\">网站</a>在线收听</p></li><li><p>我们推荐使用泛用型播客客户端收听「不丧」</p></li></ul><p>泛用型播客客户端直接通过播客上传者提供的RSS向用户提供播客内容和信息，不会有第三方的干涉；并且只要上传者更新了Feed，就能在客户端上收听到节目。</p><p>iOS平台上我们推荐使用<a href=\"https://geo.itunes.apple.com/ca/podcast/feed/id1341496069?at=11lLuB\">Podcast</a>（苹果预装播客客户端），<a href=\"https://castro.fm/podcast/12334330-7aee-40a8-8588-c0ebd802a635\">Castro</a>，<a href=\"https://overcast.fm/itunes1341496069\">Overcast</a>和<a href=\"http://pca.st/itunes/1341496069\">Pocket Casts</a>。</p><p>Android平台上收听方式可以参照<a href=\"https://subscribeonandroid.com/rss.simplecast.com/podcasts/4335/rss\">这里</a>。</p><p>macOS和Windows平台可以通过<a href=\"https://itunes.apple.com/us/podcast/%E4%B8%8D%E4%B8%A7/id1341496069\">iTunes</a>收听。</p><p>现在你也已经可以在<a href=\"https://open.spotify.com/show/0BKsGhcF6uR9S9lganYNI0?si=e4fy0vIDSYylHM32q4tgEw\">Spotify</a>和<a href=\"https://play.google.com/music/m/Ins5gmchyrgehuxwudefbxx3xbq\">Google Podcast</a>平台上收听我们的节目。</p>\n\n      ",
+        "pubDate": "Mon, 9 Dec 2019 03:40:25 +0000",
+        "author": "busangpodcast@gmail.com (好小气，乔老师)",
+        "link": "https://busangpodcast.simplecast.com/episodes/recommendation-episode-1-9v533sQp",
+        "content:encoded": "\n        <p>订阅听友通讯请点击<a href=\"http://busangpodcast.com/\">这里</a>。</p><p>欢迎通过微博关注我们的节目<a href=\"https://weibo.com/busangpodcast\">@不丧Podcast</a>和女主播<a href=\"https://weibo.com/constancyeee\">@constancy好小气</a>。</p><p>关于线上读书微信群：由于目前群人数超过100人，无法继续通过扫码入群。想要入群的朋友可以先加我的微信号（ID: hongming_qiao），然后再拉你入群。</p><p>我们的电报(Telegram)听友群：<a href=\"https://t.me/joinchat/Gf4mdRLXXcamBXqXJtXBvg\">不丧电报群</a></p><p>我们播客的邮箱地址：<a href=\"mailto:busangpodcast@gmail.com\">busangpodcast@gmail.com</a></p><p>节目开头配乐<i>Italian Afternoon</i> by Twin Musicom is licensed under a <a href=\"https://creativecommons.org/licenses/by/4.0/\">Creative Commons Attribution</a> license, 艺术家<a href=\"http://www.twinmusicom.org/\">页面</a>。</p><h2>这集播客中提到的相关作品的介绍和链接</h2><ol><li><p><a href=\"https://www.youtube.com/user/WhereDidUGetThatNY\">YouTube频道：KarenBritChick</a></p></li><li><p><a href=\"https://book.douban.com/subject/34809446/\">Jodi Kantor & Megan Twohey, <i>She Said</i></a></p></li><li><p><a href=\"https://v.qq.com/x/cover/mzc00200viduxqe.html\">十三邀——陈冲</a></p></li><li><p><a href=\"https://www.nytimes.com/2019/11/21/books/review/by-the-book-interview-phoebe-waller-bridge.html\">By the Book: Phoebe Waller-Bridge Loves Antiheroines. Of Course.</a></p></li><li><p><a href=\"https://music.douban.com/subject/34870749/\">Motherless Brooklyn (Original Motion Picture Soundtrack)</a></p></li><li><p><a href=\"https://www.youtube.com/user/ninayu15\">YouTubeoh频道：oh no nina </a></p></li><li><p><a href=\"https://www.nytimes.com/2019/11/13/movies/tom-hanks-mister-rogers.html\">Taffy Brodesser-Akner, This Tom Hanks Story Will Help You Feel Less Bad</a></p><p><a href=\"https://movie.douban.com/subject/27615463/\">《与我为邻》(Won't You Be My Neighbor)(2018)</a></p><p><a href=\"https://movie.douban.com/subject/27073179/\">《邻里美好的一天》(A Beautiful Day in the Neighborhood)(2019)</a></p></li><li><p><a href=\"https://www.weibo.com/5515318644/IfgRSgbsz\">王瑞芸，《西方艺术三万年》</a></p></li><li><p>ClaireTrips: <a href=\"https://www.youtube.com/channel/UC7COwbN0rNIeLLn97jXGY0g\">YouTube频道</a><a href=\"https://www.bilibili.com/video/av75569279\">Bilibili</a></p></li><li><p><a href=\"https://book.douban.com/subject/3888123/\">斯蒂芬·金，《写作这回事：创作生涯回忆录》</a></p></li></ol><h2>如何收听「不丧」</h2><ul><li><p>任何设备都可以通过访问「不丧」的<a href=\"http://busangpodcast.simplecast.fm/\">网站</a>在线收听</p></li><li><p>我们推荐使用泛用型播客客户端收听「不丧」</p></li></ul><p>泛用型播客客户端直接通过播客上传者提供的RSS向用户提供播客内容和信息，不会有第三方的干涉；并且只要上传者更新了Feed，就能在客户端上收听到节目。</p><p>iOS平台上我们推荐使用<a href=\"https://geo.itunes.apple.com/ca/podcast/feed/id1341496069?at=11lLuB\">Podcast</a>（苹果预装播客客户端），<a href=\"https://castro.fm/podcast/12334330-7aee-40a8-8588-c0ebd802a635\">Castro</a>，<a href=\"https://overcast.fm/itunes1341496069\">Overcast</a>和<a href=\"http://pca.st/itunes/1341496069\">Pocket Casts</a>。</p><p>Android平台上收听方式可以参照<a href=\"https://subscribeonandroid.com/rss.simplecast.com/podcasts/4335/rss\">这里</a>。</p><p>macOS和Windows平台可以通过<a href=\"https://itunes.apple.com/us/podcast/%E4%B8%8D%E4%B8%A7/id1341496069\">iTunes</a>收听。</p><p>现在你也已经可以在<a href=\"https://open.spotify.com/show/0BKsGhcF6uR9S9lganYNI0?si=e4fy0vIDSYylHM32q4tgEw\">Spotify</a>和<a href=\"https://play.google.com/music/m/Ins5gmchyrgehuxwudefbxx3xbq\">Google Podcast</a>平台上收听我们的节目。</p>\n\n      ",
+        "enclosure": {
+          "$": {
+            "length": "55052892",
+            "type": "audio/mpeg",
+            "url": "https://cdn.simplecast.com/audio/4122da/4122da35-393c-41d3-9acb-758e0f7ae88c/7d3c3090-6246-4e79-81bd-68f3b4ddb0b4/episode-67_tc.mp3?&aid=rss_feed"
+          }
+        },
+        "itunes:title": "书影音推荐第一辑——“什么是你所信奉的价值？”",
+        "itunes:author": "好小气，乔老师",
+        "itunes:duration": "00:57:21",
+        "itunes:summary": "这一期是我们第一次把之前的推荐环节汇总起来制作成单独的节目，以后的更新频率会是每个月一期的样子。",
+        "itunes:subtitle": "这一期是我们第一次把之前的推荐环节汇总起来制作成单独的节目，以后的更新频率会是每个月一期的样子。",
+        "itunes:keywords": "西方艺术三万年, 十三邀, shesaid, 写作这回事, karenbirtchick, 推荐, 王瑞芸, 陈冲",
+        "itunes:explicit": "no",
+        "itunes:episodeType": "full",
+        "itunes:episode": "67"
+      }
+    }
+  },
+  {
+    "config": {
+      "name": "迟早更新",
+      "cate": "culture",
+      "rss": "https://feeds.fireside.fm/czgx/rss"
+    },
+    "lastUpdated": 1577814890605,
+    "categories": [
+      {
+        "id": "culture",
+        "cn": "文化",
+        "en": "Culture"
+      }
+    ],
+    "basicInfo": {
+      "title": "迟早更新",
+      "link": "https://podcast.weareones.com",
+      "description": "这是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。\n",
+      "language": "zh-cn",
+      "keywords": "迟早更新,迟早,更新,科技,人文,艺术,互联网,社科,杂谈",
+      "author": "ONES Ventures",
+      "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c7bd2b24-9119-4399-8943-ecdbdef8d646/cover.jpg?v=2",
+      "episodeNumber": 120,
+      "averageDuration": 3833,
+      "latestEpisode": {
+        "title": "Episode 120: 「这是一种夺权还是赋能？」",
+        "link": "https://podcast.weareones.com/120",
+        "guid": {
+          "_": "f8b30c4c-adfc-4b5d-9308-dc807f5e66c3",
+          "$": {
+            "isPermaLink": "false"
+          }
+        },
+        "pubDate": "Fri, 27 Dec 2019 17:30:00 +0800",
+        "author": "ONES Ventures",
+        "enclosure": {
+          "$": {
+            "url": "https://chtbl.com/track/G1147/aphid.fireside.fm/d/1437767933/c7bd2b24-9119-4399-8943-ecdbdef8d646/f8b30c4c-adfc-4b5d-9308-dc807f5e66c3.mp3",
+            "length": "40883145",
+            "type": "audio/mp3"
+          }
+        },
+        "itunes:episode": "120",
+        "itunes:title": "「这是一种夺权还是赋能？」",
+        "itunes:episodeType": "full",
+        "itunes:author": "ONES Ventures",
+        "itunes:subtitle": "时能看到有人感叹目前 iPhone 算力过剩。但这多余部分或许正可为日后的 AR 设备「中间件」普及提供可能性。私下聊时，彦昕笑称他从事的是「夕阳产业」——但当下的 AR/VR 可能更像极昼：太阳没有高高升起，亦不沉入地平线。",
+        "itunes:duration": "56:30",
+        "itunes:explicit": "no",
+        "itunes:image": {
+          "$": {
+            "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c7bd2b24-9119-4399-8943-ecdbdef8d646/cover.jpg?v=2"
+          }
+        },
+        "description": "本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！\n在支付宝生活号搜索「内啥」，点击左下角小机器人图标选择「留言」，输入「迟早更新」即可一元换购三天金卡会员福利并领取两张五十元代金券。\n时能看到有人感叹目前 iPhone 算力过剩。但这多余部分或许正可为日后的 AR 设备「中间件」普及提供可能性。私下聊时，彦昕笑称他从事的是「夕阳产业」——但当下的 AR/VR 可能更像极昼：太阳没有高高升起，亦不沉入地平线。\nShow Notes:\n* Sandman Studios (http://www.sandmanvr.com)\n* 砂之盒沉浸影像展（Sandbox Immersive Festival） (http://www.sandboxif.com)\n* 中国青岛国际虚拟现实创新大会 (http://vr-worldconference.com)\n* 王雅莉的文章《〈浮生一刻〉：参与沉浸式VR戏剧是种什么体验？》 (https://new.qq.com/omn/20190913/20190913A0DI9Q00.html)\n* 带嗅觉维度的 FeelReal VR Mask (https://feelreal.com)\n* Steph Yin 的文章《In Virtual Reality, How Much Body Do You Need?》 (https://www.nytimes.com/2018/05/17/science/virtual-reality-body.html)\n* Jon Favreau 的 VR 模拟作品《Gnomes & Goblins》 (https://www.gnomesandgoblins.com)\n* Nick Summers 的文章《Inside the virtual production of ‘The Lion King’》 (https://www.engadget.com/2019/07/29/lion-king-remake-vfx-mpc-interview)\n* Robert Rodriguez 导演的 VR 短片《THE LIMIT》 (https://www.thelimitvr.com)\n* 小岛秀夫工作室的游戏《死亡搁浅》（Death Stranding） (http://www.kojimaproductions.jp/en/death_stranding.html)\n* 《Detroit: Become Human》的制作公司 Quantic Dream (https://www.quanticdream.com)\n* Eliza McNitt 的 VR 电影《Spheres》 (https://www.imdb.com/title/tt7918178)\n* MacWorld 对苹果 AR 相关新闻的聚合页面 (https://www.macworld.co.uk/news/apple/ar-glasses-3601447/#toc-3601447-10)\n* Edoardo Maggio 的文章《Apple Ceo Tim Cook is so Excited About Augmented Reality That He Wants to 'Yell Out and Scream’》 (https://www.insider.com/apple-ceo-tim-cook-is-so-excited-about-augmented-reality-he-wants-to-yell-out-and-scream-2017-6)\n* Jack Purcher 的文章《Apple Invents a Version of Apple Watch that is able to Understand Hand Gestures in VR Games & More》 (https://www.patentlyapple.com/patently-apple/2019/04/apple-invents-a-version-of-apple-watch-that-is-able-to-understand-hand-gestures-in-vr-games-more.html)\n* Lucas Matney 的文章《Why are People Still Giving Magic Leap Money?》 (https://techcrunch.com/2019/04/26/why-are-people-still-giving-magic-leap-money)\n* VR 主题播客《Voices of VR》 (https://voicesofvr.com)\n* 《Voice of VR》主播 Kent Bye 的个人网站 (http://kentbye.com)\n主播：任宁\n嘉宾：楼彦昕\n「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。\n官网：https://podcast.weareones.com\n微博：http://weibo.com/chizaogengxin\n如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。 \n",
+        "itunes:keywords": "VR, AR, 内容创作",
+        "content:encoded": "\n        <p>本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！</p>\n\n<p>在支付宝生活号搜索「内啥」，点击左下角小机器人图标选择「留言」，输入「迟早更新」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<hr>\n\n<p>时能看到有人感叹目前 iPhone 算力过剩。但这多余部分或许正可为日后的 AR 设备「中间件」普及提供可能性。私下聊时，彦昕笑称他从事的是「夕阳产业」——但当下的 AR/VR 可能更像极昼：太阳没有高高升起，亦不沉入地平线。</p>\n\n<p>Show Notes:</p>\n\n<ul>\n<li><a href=\"http://www.sandmanvr.com\" rel=\"nofollow\">Sandman Studios</a></li>\n<li><a href=\"http://www.sandboxif.com\" rel=\"nofollow\">砂之盒沉浸影像展（Sandbox Immersive Festival）</a></li>\n<li><a href=\"http://vr-worldconference.com\" rel=\"nofollow\">中国青岛国际虚拟现实创新大会</a></li>\n<li><a href=\"https://new.qq.com/omn/20190913/20190913A0DI9Q00.html\" rel=\"nofollow\">王雅莉的文章《〈浮生一刻〉：参与沉浸式VR戏剧是种什么体验？》</a></li>\n<li><a href=\"https://feelreal.com\" rel=\"nofollow\">带嗅觉维度的 FeelReal VR Mask</a></li>\n<li><a href=\"https://www.nytimes.com/2018/05/17/science/virtual-reality-body.html\" rel=\"nofollow\">Steph Yin 的文章《In Virtual Reality, How Much Body Do You Need?》</a></li>\n<li><a href=\"https://www.gnomesandgoblins.com\" rel=\"nofollow\">Jon Favreau 的 VR 模拟作品《Gnomes &amp; Goblins》</a></li>\n<li><a href=\"https://www.engadget.com/2019/07/29/lion-king-remake-vfx-mpc-interview\" rel=\"nofollow\">Nick Summers 的文章《Inside the virtual production of ‘The Lion King’》</a></li>\n<li><a href=\"https://www.thelimitvr.com\" rel=\"nofollow\">Robert Rodriguez 导演的 VR 短片《THE LIMIT》</a></li>\n<li><a href=\"http://www.kojimaproductions.jp/en/death_stranding.html\" rel=\"nofollow\">小岛秀夫工作室的游戏《死亡搁浅》（Death Stranding）</a></li>\n<li><a href=\"https://www.quanticdream.com\" rel=\"nofollow\">《Detroit: Become Human》的制作公司 Quantic Dream</a></li>\n<li><a href=\"https://www.imdb.com/title/tt7918178\" rel=\"nofollow\">Eliza McNitt 的 VR 电影《Spheres》</a></li>\n<li><a href=\"https://www.macworld.co.uk/news/apple/ar-glasses-3601447/#toc-3601447-10\" rel=\"nofollow\">MacWorld 对苹果 AR 相关新闻的聚合页面</a></li>\n<li><a href=\"https://www.insider.com/apple-ceo-tim-cook-is-so-excited-about-augmented-reality-he-wants-to-yell-out-and-scream-2017-6\" rel=\"nofollow\">Edoardo Maggio 的文章《Apple Ceo Tim Cook is so Excited About Augmented Reality That He Wants to &#39;Yell Out and Scream’》</a></li>\n<li><a href=\"https://www.patentlyapple.com/patently-apple/2019/04/apple-invents-a-version-of-apple-watch-that-is-able-to-understand-hand-gestures-in-vr-games-more.html\" rel=\"nofollow\">Jack Purcher 的文章《Apple Invents a Version of Apple Watch that is able to Understand Hand Gestures in VR Games &amp; More》</a></li>\n<li><a href=\"https://techcrunch.com/2019/04/26/why-are-people-still-giving-magic-leap-money\" rel=\"nofollow\">Lucas Matney 的文章《Why are People Still Giving Magic Leap Money?》</a></li>\n<li><a href=\"https://voicesofvr.com\" rel=\"nofollow\">VR 主题播客《Voices of VR》</a></li>\n<li><a href=\"http://kentbye.com\" rel=\"nofollow\">《Voice of VR》主播 Kent Bye 的个人网站</a></li>\n</ul>\n\n<p>主播：任宁<br>\n嘉宾：楼彦昕</p>\n\n<hr>\n\n<p>「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。</p>\n\n<p>官网：<a href=\"https://podcast.weareones.com\" rel=\"nofollow\">https://podcast.weareones.com</a><br>\n微博：<a href=\"http://weibo.com/chizaogengxin\" rel=\"nofollow\">http://weibo.com/chizaogengxin</a></p>\n\n<p>如果有任何问题或反馈，欢迎发电子邮件至 <a href=\"mailto:embrace@weareones.com\" rel=\"nofollow\">embrace@weareones.com</a>。</p>\n      ",
+        "itunes:summary": "\n        <p>本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！</p>\n\n<p>在支付宝生活号搜索「内啥」，点击左下角小机器人图标选择「留言」，输入「迟早更新」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<hr>\n\n<p>时能看到有人感叹目前 iPhone 算力过剩。但这多余部分或许正可为日后的 AR 设备「中间件」普及提供可能性。私下聊时，彦昕笑称他从事的是「夕阳产业」——但当下的 AR/VR 可能更像极昼：太阳没有高高升起，亦不沉入地平线。</p>\n\n<p>Show Notes:</p>\n\n<ul>\n<li><a href=\"http://www.sandmanvr.com\" rel=\"nofollow\">Sandman Studios</a></li>\n<li><a href=\"http://www.sandboxif.com\" rel=\"nofollow\">砂之盒沉浸影像展（Sandbox Immersive Festival）</a></li>\n<li><a href=\"http://vr-worldconference.com\" rel=\"nofollow\">中国青岛国际虚拟现实创新大会</a></li>\n<li><a href=\"https://new.qq.com/omn/20190913/20190913A0DI9Q00.html\" rel=\"nofollow\">王雅莉的文章《〈浮生一刻〉：参与沉浸式VR戏剧是种什么体验？》</a></li>\n<li><a href=\"https://feelreal.com\" rel=\"nofollow\">带嗅觉维度的 FeelReal VR Mask</a></li>\n<li><a href=\"https://www.nytimes.com/2018/05/17/science/virtual-reality-body.html\" rel=\"nofollow\">Steph Yin 的文章《In Virtual Reality, How Much Body Do You Need?》</a></li>\n<li><a href=\"https://www.gnomesandgoblins.com\" rel=\"nofollow\">Jon Favreau 的 VR 模拟作品《Gnomes &amp; Goblins》</a></li>\n<li><a href=\"https://www.engadget.com/2019/07/29/lion-king-remake-vfx-mpc-interview\" rel=\"nofollow\">Nick Summers 的文章《Inside the virtual production of ‘The Lion King’》</a></li>\n<li><a href=\"https://www.thelimitvr.com\" rel=\"nofollow\">Robert Rodriguez 导演的 VR 短片《THE LIMIT》</a></li>\n<li><a href=\"http://www.kojimaproductions.jp/en/death_stranding.html\" rel=\"nofollow\">小岛秀夫工作室的游戏《死亡搁浅》（Death Stranding）</a></li>\n<li><a href=\"https://www.quanticdream.com\" rel=\"nofollow\">《Detroit: Become Human》的制作公司 Quantic Dream</a></li>\n<li><a href=\"https://www.imdb.com/title/tt7918178\" rel=\"nofollow\">Eliza McNitt 的 VR 电影《Spheres》</a></li>\n<li><a href=\"https://www.macworld.co.uk/news/apple/ar-glasses-3601447/#toc-3601447-10\" rel=\"nofollow\">MacWorld 对苹果 AR 相关新闻的聚合页面</a></li>\n<li><a href=\"https://www.insider.com/apple-ceo-tim-cook-is-so-excited-about-augmented-reality-he-wants-to-yell-out-and-scream-2017-6\" rel=\"nofollow\">Edoardo Maggio 的文章《Apple Ceo Tim Cook is so Excited About Augmented Reality That He Wants to &#39;Yell Out and Scream’》</a></li>\n<li><a href=\"https://www.patentlyapple.com/patently-apple/2019/04/apple-invents-a-version-of-apple-watch-that-is-able-to-understand-hand-gestures-in-vr-games-more.html\" rel=\"nofollow\">Jack Purcher 的文章《Apple Invents a Version of Apple Watch that is able to Understand Hand Gestures in VR Games &amp; More》</a></li>\n<li><a href=\"https://techcrunch.com/2019/04/26/why-are-people-still-giving-magic-leap-money\" rel=\"nofollow\">Lucas Matney 的文章《Why are People Still Giving Magic Leap Money?》</a></li>\n<li><a href=\"https://voicesofvr.com\" rel=\"nofollow\">VR 主题播客《Voices of VR》</a></li>\n<li><a href=\"http://kentbye.com\" rel=\"nofollow\">《Voice of VR》主播 Kent Bye 的个人网站</a></li>\n</ul>\n\n<p>主播：任宁<br>\n嘉宾：楼彦昕</p>\n\n<hr>\n\n<p>「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。</p>\n\n<p>官网：<a href=\"https://podcast.weareones.com\" rel=\"nofollow\">https://podcast.weareones.com</a><br>\n微博：<a href=\"http://weibo.com/chizaogengxin\" rel=\"nofollow\">http://weibo.com/chizaogengxin</a></p>\n\n<p>如果有任何问题或反馈，欢迎发电子邮件至 <a href=\"mailto:embrace@weareones.com\" rel=\"nofollow\">embrace@weareones.com</a>。</p>\n      "
+      }
+    }
+  }
+]

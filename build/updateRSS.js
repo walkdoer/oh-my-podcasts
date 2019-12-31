@@ -4,7 +4,6 @@ const chalk = require('chalk');
 const utils = require('./utils');
 
 const findCategory = (categories, id) => categories.find((cate) => cate.id === id);
-
 async function readRSS(rssUrl) {
   return utils.getUrl(rssUrl);
 }
@@ -74,10 +73,11 @@ function extractBasicInfo(rssObj) {
 }
 
 
-async function mainProcess() {
+async function updateRSS() {
   const content = utils.readTomlData('./config/content.toml');
   const { podcasts = [], categories } = content;
   const failed = [];
+  const result = [];
   for (let i = 0; i < podcasts.length; i += 1) {
     const podcast = podcasts[i];
     const podcastCategoryIds = podcast.cate.split(',');
@@ -86,6 +86,7 @@ async function mainProcess() {
 
     // read rss content from rss feed
     const spinner = ora(prefix('loading RSS')).start();
+    let jsonObj = { config: podcast };
     let rssResult;
     let rssXml;
     try {
@@ -95,51 +96,39 @@ async function mainProcess() {
       failed.push(podcast);
       spinner.fail(prefix(chalk.red(`Read From RSS feed Failed. Detail: ${err.message}`)));
       // eslint-disable-next-line no-continue
-      continue;
     }
 
+    if (rssXml) {
+      // parsing xml to json
+      spinner.text = prefix('Parsing RSS xml file to json');
+      try {
+        const originRssObj = await xml2js.parseStringPromise(rssXml, { explicitArray: false });
+        jsonObj = {
+          ...jsonObj,
+          lastUpdated: Date.now(),
+          categories: fullCategories,
+          basicInfo: extractBasicInfo(originRssObj.rss),
+        };
+      } catch (err) {
+        failed.push(podcast);
+        spinner.fail(prefix(chalk.red(`Parsing RSS xml feed Failed. Detail: ${err.message}`)));
+      }
 
-    // parsing xml to json
-    let jsonObj;
-    spinner.text = prefix('Parsing RSS xml file to json');
-    try {
-      const originRssObj = await xml2js.parseStringPromise(rssXml, { explicitArray: false });
-      jsonObj = {
-        lastUpdated: Date.now(),
-        categories: fullCategories,
-        basicInfo: extractBasicInfo(originRssObj.rss),
-        originRssObj,
-      };
-    } catch (err) {
-      failed.push(podcast);
-      spinner.fail(prefix(chalk.red(`Parsing RSS xml feed Failed. Detail: ${err.message}`)));
-      continue;
+      try {
+        // writing to local file system
+        spinner.text = prefix('writeing RSS xml file');
+        await utils.saveRSSToLocalFile(`${podcast.name}.xml`, rssXml);
+        await utils.saveRSSToLocalFile(`${podcast.name}.json`, JSON.stringify(jsonObj, null, 2));
+      } catch (err) {
+        failed.push(podcast);
+        spinner.fail(prefix(chalk.red(`Write to local file failed. Detail: ${err.message}`)));
+      }
     }
 
-    try {
-      // writing to local file system
-      spinner.text = prefix('writeing RSS xml file');
-      await utils.saveRSSToLocalFile(`${podcast.name}.xml`, rssXml);
-      await utils.saveRSSToLocalFile(`${podcast.name}.json`, JSON.stringify(jsonObj, null, 2));
-    } catch (err) {
-      failed.push(podcast);
-      spinner.fail(prefix(chalk.red(`Write to local file failed. Detail: ${err.message}`)));
-      continue;
-    }
-
+    result.push(jsonObj);
     spinner.succeed(prefix('updated'));
   }
-  return { podcasts, failed };
+  return { podcasts: result, failed };
 }
 
-mainProcess()
-  .then((result) => {
-    console.log(`
-  ${chalk.green.bold('Success')}: ${result.podcasts.length - result.failed.length}
-  ${chalk.red.bold('Failed')}: ${result.failed.length}
-    `);
-  })
-  .catch((err) => {
-    console.error(err);
-    process.exit(-1);
-  });
+module.exports = updateRSS;

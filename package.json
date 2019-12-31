@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node ./build/render.js",
-    "rss": "node ./build/createList.js"
+    "build": "node ./build/main.js"
   },
   "author": "",
   "license": "MIT",
