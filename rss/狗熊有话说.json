@@ -1,0 +1,57 @@
+{
+  "config": {
+    "name": "狗熊有话说",
+    "cate": "culture",
+    "rss": "https://feeds.fireside.fm/beartalk/rss"
+  },
+  "lastUpdated": 1577821606274,
+  "categories": [
+    {
+      "id": "culture",
+      "cn": "文化",
+      "en": "Culture"
+    }
+  ],
+  "basicInfo": {
+    "title": "狗熊有话说",
+    "link": "http://voice.beartalking.com",
+    "description": "An iTunes award-winning tech podcast since 2012.\n「狗熊有话说」播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、旅行、科技和个人成长为主要话题内容，是 iTunes 中国区长期推荐的节目，并被 iTunes 评选为“ 2013 年度精选最佳社会与文化播客 ”。\nBearTalk Podcast is a Chinese podcast shares technology insights, book reviews, and personal improvement tips since 2012. BearTalk Podcast was the Editor's Choice of the iTunes China in 2013, which has more than 60,000 listeners.\n",
+    "language": "zh-cn",
+    "author": "大狗熊",
+    "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70239f1d-0209-4f95-b12c-4168bb8912df/cover.jpg?v=1",
+    "episodeNumber": 337,
+    "averageDuration": 2888,
+    "latestEpisode": {
+      "title": "337期 / 2019年读完的9000页英文书 - Read 9000 pages in 2019",
+      "link": "http://voice.beartalking.com/bt337",
+      "guid": {
+        "_": "f1676984-6a41-4f0b-af27-74ee1a33691d",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Sun, 22 Dec 2019 23:00:00 +1300",
+      "author": "大狗熊",
+      "enclosure": {
+        "$": {
+          "url": "https://chtbl.com/track/GD281/aphid.fireside.fm/d/1437767933/70239f1d-0209-4f95-b12c-4168bb8912df/f1676984-6a41-4f0b-af27-74ee1a33691d.mp3",
+          "length": "79296925",
+          "type": "audio/mp3"
+        }
+      },
+      "itunes:episodeType": "full",
+      "itunes:author": "大狗熊",
+      "itunes:subtitle": "来聊聊这35本英文书给我带来的收获，选出这一年的10佳书目，总结一下阅读的目标与收获。狗熊有话说 - voice.beartalking.com",
+      "itunes:duration": "1:21:19",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "$": {
+          "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70239f1d-0209-4f95-b12c-4168bb8912df/episodes/f/f1676984-6a41-4f0b-af27-74ee1a33691d/cover.jpg?v=1"
+        }
+      },
+      "description": "本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！在支付宝生活号搜索「内啥」，输入口令「狗熊」即可一元换购三天金卡会员福利并领取两张五十元代金券。\n2019年，大狗熊阅读了35本英文书，大约有9000页左右的篇幅。这期节目，我们来聊聊这35本英文书给我带来的收获，选出这一年的10佳书目，总结一下阅读的目标与收获，更关键的：和你分享如何培养高效阅读英文书的习惯，如何免费阅读全球顶尖水平的英文书，等等。\n每年一期，干货十足，下载/收听/分享/推荐，动起来！\nI read 35 books this year. Not as many as a few years ago, but still a great achievement for me: all of them are in English, which is my second language. I'll review all these books, select the top 10 of them, and share my tips and tricks of reading books efficiently in this podcast.\nBearbig’s  read-in-2019  books on Goodreads  35 books  https://i.imgur.com/3H8LyAB.jpg\nAll about books:\n2019阅读花絮\n最短的书：Learn vs Agile vs Design Thinking by Jeff Gothelf, 44页\n最长的书：Shoe Dog by Phil Knight, 400页\n最畅销的：The Subtle Art of Not Giving a F*ck，39万人喜欢\n最小众的：Win Fast by Siimon Reynalds，7个人喜欢\n个人10佳\nEverything is Fucked\nThe Art of Doing Twice the Work in Half the Time\nShoe Dog\nGreat At Work\nShow Your Work\nMake Time\nLean UX\nMan's Search for Meaning\nPrinciples\nAtomic Habits\n最想要整理与分享的书\nGreat At Work\nThe Pleasure of Finding Things Out\nHooked\nThe Tipping Point\nAtomic Habits\n2020年的阅读方向\n作者：\nJocko Willink\nMalcolm Gladwell\nNassim Taleb\n类别：\nBiography\nDesign\nHistorical\nSci-Fi\n2020年的阅读目标\nShare more, share better\n40 English books a year = 3.33/month\n关于：\n【狗熊有话说】播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、科技、旅行和个人成长为主要话题内容，是 iTunes 中国区长期推荐播客，被苹果 iTunes 评选为「2013 年度精选最佳社会与文化播客」。\n收听：\n在苹果 Podcasts、Spotify、新浪播客、网易云音乐 、喜马拉雅FM 和 荔枝FM 等音频播客平台中可以搜索\"狗熊有话说\"并关注收听；\n直接于【狗熊有话说】播客官网 voice.beartalking.com (http://voice.beartalking.com)在线收听；\n在微信公号文章中可以直接点击音频按钮收听（微信中只能加入 30 分钟以内的音频，完整版请于上面的途径收听）；\n支持：\n如果你认可大狗熊的节目，请向朋友们推荐这档节目，邀请朋友们关注公众号“狗熊有话说”；\n您可以订阅大狗熊的邮件 (https://tinyletter.com/Beartalk)，不定期收获好书解析、学习经验分享。\n联系：\n微 信：bearbigtalk（公众号）\n网 站：beartalking.com (http://www.beartalking.com)\n邮 箱：bear@beartalking.com (mailto:bear@beartalking.com)\n微 博：@i大狗熊 (http://www.weibo.com/bearbig) \n",
+      "content:encoded": "\n        <hr>\n\n<p>本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！在支付宝生活号搜索「内啥」，输入口令「狗熊」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<hr>\n\n<p>2019年，大狗熊阅读了35本英文书，大约有9000页左右的篇幅。这期节目，我们来聊聊这35本英文书给我带来的收获，选出这一年的10佳书目，总结一下阅读的目标与收获，更关键的：和你分享如何培养高效阅读英文书的习惯，如何免费阅读全球顶尖水平的英文书，等等。</p>\n\n<p>每年一期，干货十足，下载/收听/分享/推荐，动起来！</p>\n\n<p>I read 35 books this year. Not as many as a few years ago, but still a great achievement for me: all of them are in English, which is my second language. I&#39;ll review all these books, select the top 10 of them, and share my tips and tricks of reading books efficiently in this podcast.</p>\n\n<p><img src=\"https://i.imgur.com/3H8LyAB.jpg\" alt=\"Bearbig’s  read-in-2019  books on Goodreads  35 books \"></p>\n\n<hr>\n\n<h2>All about books:</h2>\n\n<h3>2019阅读花絮</h3>\n\n<ul>\n<li>最短的书：Learn vs Agile vs Design Thinking by Jeff Gothelf, 44页</li>\n<li>最长的书：Shoe Dog by Phil Knight, 400页</li>\n<li>最畅销的：The Subtle Art of Not Giving a F*ck，39万人喜欢</li>\n<li>最小众的：Win Fast by Siimon Reynalds，7个人喜欢</li>\n</ul>\n\n<h3>个人10佳</h3>\n\n<ol>\n<li>Everything is Fucked</li>\n<li>The Art of Doing Twice the Work in Half the Time</li>\n<li>Shoe Dog</li>\n<li>Great At Work</li>\n<li>Show Your Work</li>\n<li>Make Time</li>\n<li>Lean UX</li>\n<li>Man&#39;s Search for Meaning</li>\n<li>Principles</li>\n<li>Atomic Habits</li>\n</ol>\n\n<h3>最想要整理与分享的书</h3>\n\n<ul>\n<li>Great At Work</li>\n<li>The Pleasure of Finding Things Out</li>\n<li>Hooked</li>\n<li>The Tipping Point</li>\n<li>Atomic Habits</li>\n</ul>\n\n<h3>2020年的阅读方向</h3>\n\n<h4>作者：</h4>\n\n<ul>\n<li>Jocko Willink</li>\n<li>Malcolm Gladwell</li>\n<li>Nassim Taleb</li>\n</ul>\n\n<h4>类别：</h4>\n\n<ul>\n<li>Biography</li>\n<li>Design</li>\n<li>Historical</li>\n<li>Sci-Fi</li>\n</ul>\n\n<h3>2020年的阅读目标</h3>\n\n<ul>\n<li>Share more, share better</li>\n<li>40 English books a year = 3.33/month</li>\n</ul>\n\n<hr>\n\n<h3>关于：</h3>\n\n<p>【狗熊有话说】播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、科技、旅行和个人成长为主要话题内容，是 iTunes 中国区长期推荐播客，被苹果 iTunes 评选为「2013 年度精选最佳社会与文化播客」。</p>\n\n<h3>收听：</h3>\n\n<ul>\n<li>在苹果 Podcasts、Spotify、新浪播客、网易云音乐 、喜马拉雅FM 和 荔枝FM 等音频播客平台中可以搜索&quot;狗熊有话说&quot;并关注收听；</li>\n<li>直接于【狗熊有话说】播客官网 <a href=\"http://voice.beartalking.com\" rel=\"nofollow\">voice.beartalking.com</a>在线收听；</li>\n<li>在微信公号文章中可以直接点击音频按钮收听（微信中只能加入 30 分钟以内的音频，完整版请于上面的途径收听）；</li>\n</ul>\n\n<h3>支持：</h3>\n\n<ul>\n<li>如果你认可大狗熊的节目，请向朋友们推荐这档节目，邀请朋友们关注公众号“狗熊有话说”；</li>\n<li>您可以<a href=\"https://tinyletter.com/Beartalk\" rel=\"nofollow\">订阅大狗熊的邮件</a>，不定期收获好书解析、学习经验分享。</li>\n</ul>\n\n<h3>联系：</h3>\n\n<ul>\n<li>微 信：bearbigtalk（公众号）</li>\n<li>网 站：<a href=\"http://www.beartalking.com\" rel=\"nofollow\">beartalking.com</a></li>\n<li>邮 箱：<a href=\"mailto:bear@beartalking.com\" rel=\"nofollow\">bear@beartalking.com</a></li>\n<li>微 博：<a href=\"http://www.weibo.com/bearbig\" rel=\"nofollow\">@i大狗熊</a></li>\n</ul><p>Sponsored By:</p><ul><li><a href=\"http://neisha.cc\" rel=\"nofollow\">内啥</a>: <a href=\"http://neisha.cc\" rel=\"nofollow\">本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！\r\n\r\n在支付宝生活号搜索「内啥」，输入口令「狗熊」即可一元换购三天金卡会员福利并领取两张五十元代金券。</a> Promo Code: 狗熊</li></ul>\n      ",
+      "itunes:summary": "\n        <hr>\n\n<p>本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！在支付宝生活号搜索「内啥」，输入口令「狗熊」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<hr>\n\n<p>2019年，大狗熊阅读了35本英文书，大约有9000页左右的篇幅。这期节目，我们来聊聊这35本英文书给我带来的收获，选出这一年的10佳书目，总结一下阅读的目标与收获，更关键的：和你分享如何培养高效阅读英文书的习惯，如何免费阅读全球顶尖水平的英文书，等等。</p>\n\n<p>每年一期，干货十足，下载/收听/分享/推荐，动起来！</p>\n\n<p>I read 35 books this year. Not as many as a few years ago, but still a great achievement for me: all of them are in English, which is my second language. I&#39;ll review all these books, select the top 10 of them, and share my tips and tricks of reading books efficiently in this podcast.</p>\n\n<p><img src=\"https://i.imgur.com/3H8LyAB.jpg\" alt=\"Bearbig’s  read-in-2019  books on Goodreads  35 books \"></p>\n\n<hr>\n\n<h2>All about books:</h2>\n\n<h3>2019阅读花絮</h3>\n\n<ul>\n<li>最短的书：Learn vs Agile vs Design Thinking by Jeff Gothelf, 44页</li>\n<li>最长的书：Shoe Dog by Phil Knight, 400页</li>\n<li>最畅销的：The Subtle Art of Not Giving a F*ck，39万人喜欢</li>\n<li>最小众的：Win Fast by Siimon Reynalds，7个人喜欢</li>\n</ul>\n\n<h3>个人10佳</h3>\n\n<ol>\n<li>Everything is Fucked</li>\n<li>The Art of Doing Twice the Work in Half the Time</li>\n<li>Shoe Dog</li>\n<li>Great At Work</li>\n<li>Show Your Work</li>\n<li>Make Time</li>\n<li>Lean UX</li>\n<li>Man&#39;s Search for Meaning</li>\n<li>Principles</li>\n<li>Atomic Habits</li>\n</ol>\n\n<h3>最想要整理与分享的书</h3>\n\n<ul>\n<li>Great At Work</li>\n<li>The Pleasure of Finding Things Out</li>\n<li>Hooked</li>\n<li>The Tipping Point</li>\n<li>Atomic Habits</li>\n</ul>\n\n<h3>2020年的阅读方向</h3>\n\n<h4>作者：</h4>\n\n<ul>\n<li>Jocko Willink</li>\n<li>Malcolm Gladwell</li>\n<li>Nassim Taleb</li>\n</ul>\n\n<h4>类别：</h4>\n\n<ul>\n<li>Biography</li>\n<li>Design</li>\n<li>Historical</li>\n<li>Sci-Fi</li>\n</ul>\n\n<h3>2020年的阅读目标</h3>\n\n<ul>\n<li>Share more, share better</li>\n<li>40 English books a year = 3.33/month</li>\n</ul>\n\n<hr>\n\n<h3>关于：</h3>\n\n<p>【狗熊有话说】播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、科技、旅行和个人成长为主要话题内容，是 iTunes 中国区长期推荐播客，被苹果 iTunes 评选为「2013 年度精选最佳社会与文化播客」。</p>\n\n<h3>收听：</h3>\n\n<ul>\n<li>在苹果 Podcasts、Spotify、新浪播客、网易云音乐 、喜马拉雅FM 和 荔枝FM 等音频播客平台中可以搜索&quot;狗熊有话说&quot;并关注收听；</li>\n<li>直接于【狗熊有话说】播客官网 <a href=\"http://voice.beartalking.com\" rel=\"nofollow\">voice.beartalking.com</a>在线收听；</li>\n<li>在微信公号文章中可以直接点击音频按钮收听（微信中只能加入 30 分钟以内的音频，完整版请于上面的途径收听）；</li>\n</ul>\n\n<h3>支持：</h3>\n\n<ul>\n<li>如果你认可大狗熊的节目，请向朋友们推荐这档节目，邀请朋友们关注公众号“狗熊有话说”；</li>\n<li>您可以<a href=\"https://tinyletter.com/Beartalk\" rel=\"nofollow\">订阅大狗熊的邮件</a>，不定期收获好书解析、学习经验分享。</li>\n</ul>\n\n<h3>联系：</h3>\n\n<ul>\n<li>微 信：bearbigtalk（公众号）</li>\n<li>网 站：<a href=\"http://www.beartalking.com\" rel=\"nofollow\">beartalking.com</a></li>\n<li>邮 箱：<a href=\"mailto:bear@beartalking.com\" rel=\"nofollow\">bear@beartalking.com</a></li>\n<li>微 博：<a href=\"http://www.weibo.com/bearbig\" rel=\"nofollow\">@i大狗熊</a></li>\n</ul><p>Sponsored By:</p><ul><li><a href=\"http://neisha.cc\" rel=\"nofollow\">内啥</a>: <a href=\"http://neisha.cc\" rel=\"nofollow\">本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！\r\n\r\n在支付宝生活号搜索「内啥」，输入口令「狗熊」即可一元换购三天金卡会员福利并领取两张五十元代金券。</a> Promo Code: 狗熊</li></ul>\n      "
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "config": {
+    "name": "追科技撩艺术",
+    "cate": "tech",
+    "rss": "https://doko.com/podcasts/feed.xml"
+  },
+  "lastUpdated": 1577821607938,
+  "categories": [
+    {
+      "id": "tech",
+      "cn": "科技",
+      "en": "Tech"
+    }
+  ],
+  "basicInfo": {
+    "title": "追科技撩艺术",
+    "link": "http://www.doko.com/podcasts/",
+    "description": "2019 Apple 最佳播客\n海内外华人科学家、开发者、艺术家等创造创新人士带来的有趣视角、观点和趋势。听听激发你思考的诙谐对话。",
+    "language": "zh",
+    "author": "doko.com",
+    "image": "http://doko.com/podcasts/doko-podcast_cn.png",
+    "episodeNumber": 42,
+    "averageDuration": 2151,
+    "latestEpisode": {
+      "itunes:episodeType": "full",
+      "itunes:title": "iOS 11 中 3 个被忽略的颠覆性功能",
+      "itunes:episode": "1",
+      "title": "001 - iOS 11 中 3 个被忽略的颠覆性功能",
+      "itunes:author": "doko.com",
+      "itunes:subtitle": "",
+      "itunes:summary": "iOS 11 中相机、 Apple Pay 和 Siri 的颠覆性功能，听听看，不升级你会错过几个亿。\n获取这集播客详情和所有提到的链接，立即点击下方单集网页",
+      "description": "iOS 11 中相机、 Apple Pay 和 Siri 的颠覆性功能，听听看，不升级你会错过几个亿。\n获取这集播客详情和所有提到的链接，立即点击下方单集网页",
+      "content:encoded": "<p>iOS 11 中相机、 Apple Pay 和 Siri 的颠覆性功能，听听看，不升级你会错过几个亿。</p> <p>获取这集播客详情和所有提到的链接，<a href=\"https://www.doko.com/podcasts/001/ios11-tips.php\">立即点击单集网页</a></p>.",
+      "link": "https://www.doko.com/podcasts/001/ios11-tips.php",
+      "itunes:image": {
+        "$": {
+          "href": "http://doko.com/podcasts/001/images/doko-podcast-1-audio_cn.png"
+        }
+      },
+      "enclosure": {
+        "$": {
+          "url": "http://doko.com/podcasts/001/ios11-tips.mp3",
+          "length": "2762935",
+          "type": "audio/mpeg"
+        }
+      },
+      "guid": "http://doko.com/podcasts/001/ios11-tips.mp3",
+      "pubDate": "Fri, 6 Oct 2017 07:10:00 +0800",
+      "itunes:duration": "6:58",
+      "itunes:explicit": "No"
+    }
+  }
+}

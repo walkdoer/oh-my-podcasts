@@ -1,0 +1,61 @@
+{
+  "config": {
+    "name": "Digital China",
+    "cate": "tech",
+    "rss": "https://rss.acast.com/digitallychina"
+  },
+  "lastUpdated": 1577821609370,
+  "categories": [
+    {
+      "id": "tech",
+      "cn": "科技",
+      "en": "Tech"
+    }
+  ],
+  "basicInfo": {
+    "title": "Digitally China",
+    "link": "https://play.acast.com/s/digitallychina",
+    "description": "<p>A podcast about the Chinese tech industry by Tom Xiong, Eva Xiao and Jacob Loven. Created together with RADII (radiichina.com), an independent media platform about today's China and its next generation.</p><p><br></p><p>Digitally China is a bi-weekly podcast where we together with experts discuss the fascinating stories from the Chinese tech industry from a Chinese and global perspective. New trends and technology will change our world - Digitally China wants to deliver a fresh perspective on how tech will impact both our today and tomorrow.</p><p><br></p><p>Digitally China is co-hosted by Tom Xiong (founder of the startup Move Shanghai in China), Eva Xiao (an established China-based reporter) and Jacob Lovén (10+ years experience of successful Internet companies).</p><p><br></p><p>All the music in the episodes is licensed.</p>",
+    "language": "en",
+    "keywords": "",
+    "author": "Jacob Loven, Tom Xiong and Eva Xiao",
+    "image": "https://thumborcdn.acast.com/uFuGOcJX_bEWNo2kimggbuRyl5Q=/1500x1500/https://mediacdn.acast.com/assets/112c7e19-0a68-4c63-b167-178e7880e7ed/-jnajoc62-digitallychina-transparent.png",
+    "episodeNumber": 28,
+    "averageDuration": 1911,
+    "latestEpisode": {
+      "title": "BRB (and what's to Come on Season 2)",
+      "acast:episodeId": "992ecb0f-d2d1-4730-a07d-fd1c8e110359",
+      "acast:episodeUrl": "brb-andwhatstocomeonseason2-",
+      "itunes:subtitle": "We need your help to create Season 2 of Digitally China!\nJust got a few short questions for you here: https://radiichina.com/digitally-china-2019-wrap/\n\n\nAs many of our loyal listeners might have felt, Digitally China has been taking a short break. But...",
+      "itunes:summary": "We need your help to create Season 2 of Digitally China!\nJust got a few short questions for you here: https://radiichina.com/digitally-china-2019-wrap/\n\n\nAs many of our loyal listeners might have felt, Digitally China has been taking a short break. But don’t worry, we’ll be coming back with Season 2 in no time.\n\n\nThroughout&nbsp;the 26 episodes of Season 1&nbsp;we’ve really appreciated all the support and feedback from our fantastic listeners who have tuned in to the bi-weekly series. Thanks to this feedback,&nbsp;Season 2 of Digitally China will see a few changes. We will fine-tune the format a bit and use each episode to deep-dive even more into the exciting Chinese tech ecosystem.\n\n\nIf you’ve listened to the “The War of a Thousand Groupons” or “From 8 to 800 Million Internet Users,” these episodes give you an idea of the direction we want to take for the new Season 2 — but we still want to hear your thoughts and ideas on what topics to cover and how we can do better.  For information regarding your data privacy, visit <a href=\"https://www.acast.com/privacy\">acast.com/privacy</a>",
+      "guid": {
+        "_": "992ecb0f-d2d1-4730-a07d-fd1c8e110359",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Mon, 30 Dec 2019 11:07:07 GMT",
+      "itunes:duration": "00:10:48",
+      "itunes:keywords": "",
+      "itunes:explicit": "no",
+      "itunes:episodeType": "full",
+      "itunes:season": "1",
+      "itunes:episode": "25",
+      "itunes:image": {
+        "$": {
+          "href": "https://thumborcdn.acast.com/hZhInazC3m3ElLvXb4YxQH07wL4=/3000x3000/https://mediacdn.acast.com/assets/992ecb0f-d2d1-4730-a07d-fd1c8e110359/cover-image-k4sc9jzz-digitallychina-opaque_itunes.png"
+        }
+      },
+      "description": "<p>We need your help to create Season 2 of Digitally China!</p><p>Just got a few short questions for you here: <a href=\"https://radiichina.com/digitally-china-2019-wrap/\" rel=\"noopener noreferrer\" target=\"_blank\">https://radiichina.com/digitally-china-2019-wrap/</a></p><p><br></p><p>As many of our loyal listeners might have felt, Digitally China has been taking a short break. But don’t worry, we’ll be coming back with Season 2 in no time.</p><p><br></p><p>Throughout&nbsp;<a href=\"https://radiichina.com/author/digitally-china/\" rel=\"noopener noreferrer\" target=\"_blank\">the 26 episodes of Season 1</a>&nbsp;we’ve really appreciated all the support and feedback from our fantastic listeners who have tuned in to the bi-weekly series. Thanks to this feedback,&nbsp;Season 2 of Digitally China will see a few changes. We will fine-tune the format a bit and use each episode to deep-dive even more into the exciting Chinese tech ecosystem.</p><p><br></p><p>If you’ve listened to the “<a href=\"https://radiichina.com/groupon-super-app-china/\" rel=\"noopener noreferrer\" target=\"_blank\">The War of a Thousand Groupons</a>” or “<a href=\"https://radiichina.com/digitally-china-inside-story-alibaba/\" rel=\"noopener noreferrer\" target=\"_blank\">From 8 to 800 Million Internet Users</a>,” these episodes give you an idea of the direction we want to take for the new Season 2 — but we still want to hear your thoughts and ideas on what topics to cover and how we can do better.</p>  For information regarding your data privacy, visit <a href=\"https://www.acast.com/privacy\">acast.com/privacy</a>",
+      "acast:settings": "kVnM81o1RrDPvefDI3wO0oUZs+P6QeX2Oo6IlL/5FCpc4qrRhjRONoOc4HR5i9ddjiURI978j4cBsDRZebE4hL11ibGE0N9HXU8fds6uupzHOy54xTQFJ5i1/zLUi4F4aZYuodFv9RTjGhvsE+x8ExIw4UuXrgTPqcMEmnkWSddJ7Z09SPf70BH4eYhBGcA6h2pTIjMZPUAHKSwmFNV/oexezGD/kod4XpzfIp62V0tob+jb6lgkSGWkEh0updCfEiaESID7IxNsulF11n6YE4EZu1bSNIP8BQg6t7ojnTJpfImgoxUFpmZMR5IGeEyguUK4Uwdrt7O9lHHdt9LkKoIJ1FDLBDUAlzecxsP29zhaKQ9rorGElNpc+bRxEsN5RLC/XKUcGbxFMoIb7YJq2rmgFl2WH7h5zBVprVrTcgxR5PwOKqCgPPvjJKduZ1LEXU8QhSCggMGVCiOM1YE46A5jCTICdfPQGGSx6Iy8zDEmnyAIBLjVWOCS9cirGGE/Pim8Rcts3ccD1xhWLJu1RVNULKa/35uBm3L6tatpZCU0joANB3IGMvf+xJLZqBaQaqGXeIzgcuaUNbn1bl10G4BCWfRKe3ct4tsmcL+yrHg4lYU0uOhFglKBZ9l6cycLU8ypUsHIkg2q5xd9DBC08w==",
+      "link": "https://play.acast.com/s/digitallychina/brb-andwhatstocomeonseason2-",
+      "enclosure": {
+        "$": {
+          "url": "https://media.acast.com/digitallychina/brb-andwhatstocomeonseason2-/media.mp3",
+          "length": "20765802",
+          "type": "audio/mpeg"
+        }
+      }
+    }
+  }
+}

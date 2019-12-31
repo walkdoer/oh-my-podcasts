@@ -1,0 +1,3619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
+  <channel>
+    <fireside:hostname>feed01.fireside.fm</fireside:hostname>
+    <fireside:genDate>Sun, 29 Dec 2019 21:13:51 -0600</fireside:genDate>
+    <generator>Fireside (https://fireside.fm)</generator>
+    <title>硅谷早知道</title>
+    <link>http://shengfm.cn</link>
+    <pubDate>Mon, 30 Dec 2019 03:12:39 -0000</pubDate>
+    <description>「硅谷早知道」是由资深商业记者，七年硅谷驻站记者徐涛为您带来的节目，让你与全球创新第一时间同步。更新时间，每周五中午。欢迎在微信群中和我们讨论，添加微信号 shengfm1 入群。「硅谷早知道」为「声动活泼」传媒旗下节目。
+</description>
+    <language>zh-cn</language>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>硅谷早知道</itunes:subtitle>
+    <itunes:author>声动活泼</itunes:author>
+    <itunes:summary>「硅谷早知道」是由资深商业记者，七年硅谷驻站记者徐涛为您带来的节目，让你与全球创新第一时间同步。更新时间，每周五中午。欢迎在微信群中和我们讨论，添加微信号 shengfm1 入群。「硅谷早知道」为「声动活泼」传媒旗下节目。
+</itunes:summary>
+    <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/cover.jpg?v=3"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>声动活泼</itunes:name>
+      <itunes:email>admin@sheng.fm</itunes:email>
+    </itunes:owner>
+<itunes:category text="Business"/>
+<itunes:category text="Technology"/>
+    <item>
+      <title>我们的年终盘点和推荐，第四季2020年见！</title>
+      <link>http://shengfm.cn/s3e40</link>
+      <guid isPermaLink="false">4923fc5a-1075-4d89-bf11-bec12cc248a7</guid>
+      <pubDate>Fri, 27 Dec 2019 10:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4923fc5a-1075-4d89-bf11-bec12cc248a7.mp3" length="30024173" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>硅谷早知道第四期将在2020年2月上线，敬请期待！</itunes:subtitle>
+      <itunes:duration>35:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/4/4923fc5a-1075-4d89-bf11-bec12cc248a7/cover.jpg?v=1"/>
+      <description>主播丨徐涛   嘉宾丨李蓉慧
+后期制作丨迪卡普里鑫
+又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。
+那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。
+另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。
+另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。
+本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！
+在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。
+2019「硅谷早知道」总结关键句
+李蓉慧
+国内对硅谷的关注开始降温
+植根于硅谷的生活方式在影响着很多的地方
+硅谷的创业环境已不是那么独一无二
+徐涛
+快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；
+硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；
+尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。
+2019 各大媒体总结传送门
+The New York Times (文章) The Decade Tech Lost Its Way——An oral history of the 2010s (https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html)
+THE VERGE (文章) THE VERGE’S GADGETS OF THE DECADE  (https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&amp;isappinstalled=0)定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。
+The Wired (文章) The 10 Tech Products That Defined This Decade (https://www.wired.com/story/top-10-tech-products-of-the-decade/)
+YouTube (视频) YouTube Rewind 2019: For the Record (https://www.youtube.com/watch?v=2lAe1cqCOXo)
+Google (视频) Google — Year in Search 2019 (https://www.youtube.com/watch?v=ZRCdORJiUgU)
+The Journal (播客) A Year in the Middle of a Trade War
+The Economist (文章) 2019 in review: United States (https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states) ；2019 in review: Europe’s fragmentation and fightback (https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback)  
+2019好剧/电影/书推荐
+The Morning Show  (https://www.imdb.com/title/tt7203552/)（电视剧）
+Watchmen (https://en.wikipedia.org/wiki/Watchmen_(TV_series))（电视剧）
+Russian Doll Season（电视剧）
+The Irishman（电影）
+Marriage Story（电影）
+The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power (https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&amp;rlz=1C5CHFA_enUS720US720&amp;oq=The+Age+of+Surveillance+Capitalism&amp;aqs=chrome..69i57.271j0j1&amp;sourceid=chrome&amp;ie=UTF-8)，监视资本主义时代（书）
+访谈中提及名词
+GADGETS，英文翻译为器具，但通常指新奇的、高科技的玩意。
+Allbirds，一家美国环保概念鞋履品牌
+西南偏南，South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。
+BGM
+Back to the Old House - White Bones（片头片尾曲）
+Heartache in Heaven - Marc Torch （节目插曲）
+Christmas Memories (Instrumental Version) - Loving Caliber（节目插曲）
+Let You Go (Daxten Remix)  - Conditional（节目插曲）
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛   <strong>嘉宾丨</strong>李蓉慧</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。</p>
+
+<p>那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。</p>
+
+<p>另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。</p>
+
+<p>另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p>本期节目由数码产品租赁平台<strong>「内啥」</strong>赞助播出。上内啥，免押金租到全世界好玩的东西！</p>
+
+<p>在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>
+
+<h3>2019「硅谷早知道」总结关键句</h3>
+
+<blockquote>
+<p>李蓉慧</p>
+
+<p>国内对硅谷的关注开始降温</p>
+
+<p>植根于硅谷的生活方式在影响着很多的地方</p>
+
+<p>硅谷的创业环境已不是那么独一无二</p>
+
+<p>徐涛</p>
+
+<p>快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；</p>
+
+<p>硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；</p>
+
+<p>尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。</p>
+</blockquote>
+
+<h3>2019 各大媒体总结传送门</h3>
+
+<ul>
+<li>The New York Times (文章) <a href="https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html" rel="nofollow">The Decade Tech Lost Its Way——An oral history of the 2010s</a></li>
+<li>THE VERGE (文章) <a href="https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&isappinstalled=0" rel="nofollow">THE VERGE’S GADGETS OF THE DECADE </a>定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。</li>
+<li>The Wired (文章) <a href="https://www.wired.com/story/top-10-tech-products-of-the-decade/" rel="nofollow">The 10 Tech Products That Defined This Decade</a></li>
+<li>YouTube (视频) <a href="https://www.youtube.com/watch?v=2lAe1cqCOXo" rel="nofollow">YouTube Rewind 2019: For the Record</a></li>
+<li>Google (视频) Google — <a href="https://www.youtube.com/watch?v=ZRCdORJiUgU" rel="nofollow">Year in Search 2019</a></li>
+<li>The Journal (播客) A Year in the Middle of a Trade War</li>
+<li>The Economist (文章) <a href="https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states" rel="nofollow">2019 in review: United States</a> ；<a href="https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback" rel="nofollow">2019 in review: Europe’s fragmentation and fightback</a><br></li>
+</ul>
+
+<h3>2019好剧/电影/书推荐</h3>
+
+<ul>
+<li><a href="https://www.imdb.com/title/tt7203552/" rel="nofollow">The Morning Show </a>（电视剧）</li>
+<li><a href="https://en.wikipedia.org/wiki/Watchmen_(TV_series)" rel="nofollow">Watchmen</a>（电视剧）</li>
+<li>Russian Doll Season（电视剧）</li>
+<li>The Irishman（电影）</li>
+<li>Marriage Story（电影）</li>
+<li>The Age of Surveillance Capitalism: <a href="https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&rlz=1C5CHFA_enUS720US720&oq=The+Age+of+Surveillance+Capitalism&aqs=chrome..69i57.271j0j1&sourceid=chrome&ie=UTF-8" rel="nofollow">The Fight for a Human Future at the New Frontier of Power</a>，监视资本主义时代（书）</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li><strong>GADGETS，</strong>英文翻译为器具，但通常指新奇的、高科技的玩意。</li>
+<li><strong>Allbirds，</strong>一家美国环保概念鞋履品牌</li>
+<li><strong>西南偏南，</strong>South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。</li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>Back to the Old House - White Bones（片头片尾曲）</li>
+<li>Heartache in Heaven - Marc Torch （节目插曲）</li>
+<li>Christmas Memories (Instrumental Version) - Loving Caliber（节目插曲）</li>
+<li>Let You Go (Daxten Remix)  - Conditional（节目插曲）</li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛   <strong>嘉宾丨</strong>李蓉慧</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。</p>
+
+<p>那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。</p>
+
+<p>另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。</p>
+
+<p>另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p>本期节目由数码产品租赁平台<strong>「内啥」</strong>赞助播出。上内啥，免押金租到全世界好玩的东西！</p>
+
+<p>在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>
+
+<h3>2019「硅谷早知道」总结关键句</h3>
+
+<blockquote>
+<p>李蓉慧</p>
+
+<p>国内对硅谷的关注开始降温</p>
+
+<p>植根于硅谷的生活方式在影响着很多的地方</p>
+
+<p>硅谷的创业环境已不是那么独一无二</p>
+
+<p>徐涛</p>
+
+<p>快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；</p>
+
+<p>硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；</p>
+
+<p>尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。</p>
+</blockquote>
+
+<h3>2019 各大媒体总结传送门</h3>
+
+<ul>
+<li>The New York Times (文章) <a href="https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html" rel="nofollow">The Decade Tech Lost Its Way——An oral history of the 2010s</a></li>
+<li>THE VERGE (文章) <a href="https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&isappinstalled=0" rel="nofollow">THE VERGE’S GADGETS OF THE DECADE </a>定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。</li>
+<li>The Wired (文章) <a href="https://www.wired.com/story/top-10-tech-products-of-the-decade/" rel="nofollow">The 10 Tech Products That Defined This Decade</a></li>
+<li>YouTube (视频) <a href="https://www.youtube.com/watch?v=2lAe1cqCOXo" rel="nofollow">YouTube Rewind 2019: For the Record</a></li>
+<li>Google (视频) Google — <a href="https://www.youtube.com/watch?v=ZRCdORJiUgU" rel="nofollow">Year in Search 2019</a></li>
+<li>The Journal (播客) A Year in the Middle of a Trade War</li>
+<li>The Economist (文章) <a href="https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states" rel="nofollow">2019 in review: United States</a> ；<a href="https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback" rel="nofollow">2019 in review: Europe’s fragmentation and fightback</a><br></li>
+</ul>
+
+<h3>2019好剧/电影/书推荐</h3>
+
+<ul>
+<li><a href="https://www.imdb.com/title/tt7203552/" rel="nofollow">The Morning Show </a>（电视剧）</li>
+<li><a href="https://en.wikipedia.org/wiki/Watchmen_(TV_series)" rel="nofollow">Watchmen</a>（电视剧）</li>
+<li>Russian Doll Season（电视剧）</li>
+<li>The Irishman（电影）</li>
+<li>Marriage Story（电影）</li>
+<li>The Age of Surveillance Capitalism: <a href="https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&rlz=1C5CHFA_enUS720US720&oq=The+Age+of+Surveillance+Capitalism&aqs=chrome..69i57.271j0j1&sourceid=chrome&ie=UTF-8" rel="nofollow">The Fight for a Human Future at the New Frontier of Power</a>，监视资本主义时代（书）</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li><strong>GADGETS，</strong>英文翻译为器具，但通常指新奇的、高科技的玩意。</li>
+<li><strong>Allbirds，</strong>一家美国环保概念鞋履品牌</li>
+<li><strong>西南偏南，</strong>South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。</li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>Back to the Old House - White Bones（片头片尾曲）</li>
+<li>Heartache in Heaven - Marc Torch （节目插曲）</li>
+<li>Christmas Memories (Instrumental Version) - Loving Caliber（节目插曲）</li>
+<li>Let You Go (Daxten Remix)  - Conditional（节目插曲）</li>
+</ul>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>当马斯克把科幻战车变成现实，有人看到了当年乔布斯的样子</title>
+      <link>http://shengfm.cn/s3e39</link>
+      <guid isPermaLink="false">d8a964e1-6edf-4e03-b7c6-f0797bcbf902</guid>
+      <pubDate>Fri, 20 Dec 2019 11:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d8a964e1-6edf-4e03-b7c6-f0797bcbf902.mp3" length="32872758" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>卡车已经一百年来没有发生变化了,直到马斯克出现。</itunes:subtitle>
+      <itunes:duration>45:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/d/d8a964e1-6edf-4e03-b7c6-f0797bcbf902/cover.jpg?v=1"/>
+      <description>主播丨刘泓君  **  嘉宾丨 赵哲伦
+**后期制作丨迪卡普里鑫
+上个月，特斯拉在洛杉矶发布了一台造型奇特的皮卡车 CyberTruck（朋克皮卡）
+这是特斯拉在轿车与 SUV 的电动车后，推出的第一款皮卡类电动车型。这款车灵感来自于电影《银翼杀手》，没有后视镜、没有雨刷，看起来是一辆概念型装甲车，前卫的设计，创新的交互，技术粉则从马斯克身上看到了当年乔布斯的影子。而它将在2021年量产。
+本期做客「硅谷早知道」节目的嘉宾是** 赵哲伦**，他是公众号 [42号车库] 联合创始人，长期跟踪电动车的记者，也是一名特斯拉车主。他会和客座主播刘泓君一起来聊聊这款夺人眼球的 CyberTruck 皮卡车。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：
+国内用户 「冲呀 」 (www.chongya.com/@shengfm/) ，「爱发电」 (https://afdian.net/@shengfm)
+国外用户「patreon」 (https://www.patreon.com/shengfm)
+本期主播
+刘泓君，原《财经》硅谷记者
+本期嘉宾
+赵哲伦，公众号 [42号车库] 联合创始人
+The takeaway
+汽车控制设置成触屏有几点好处，第一是它可以根据用户习惯去积累和升级，用户越用越方便；第二触屏可以一键触达，原来要四五节菜单才能完成了一个设置，现在很方便就能找到；最后触屏对于手机使用习惯来讲，几乎是无缝切换。
+马斯克当年推动电动车非常不易，当时的电池成本很高，采购电池组成本已达好几万美金，一定程度上阻碍了电动汽车真正的量产。但是马斯克用第一性原理思考，电池的镍钴铝的成本其实并没有那么高，然后他从源头做起，做规模化降低成本，最后把 Model S 推出。
+本期讨论的主要问题
+CyberTruck发布现场回顾
+公众对 CyberTruck 的接受度
+CyberTruck 的实际驾驶感和设计细节
+CyberTruck  为什么没有雨刷和后视镜
+马斯克是当年的乔布斯吗
+特斯拉每款产品的创新之处和缺点
+CyberTruck  对美国卡市场的影响
+为什么马斯克能造出来CyberTruck
+访谈中提及名词
+Tesla Roadster，基于莲花Elise的双门双座电动跑车，2008年面世，2012年停产。
+Tesla Model S，一款高性能电动汽车，2012年开始交车。
+Tesla Model X，一款7座休旅车，2015年开始交车。
+林肯领航员 (Navigator) ，福特汽车公司生产的全尺寸SUV。
+丰田红杉（Toyota Sequoia），丰田汽车公司制造的全尺寸 SUV。
+理想ONE ，理想汽车于2018年10发布的首款增程式智能电动车，预计2020年交付。
+宁德时代，成立于2011年的中国电池制造商和技术公司，主要生产用于电动汽车电池系统和储能系统。
+BGM
+ES_Black Hole - Tommy Ljungberg
+Back to the Old House - White Bones
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>硅谷早知道, 科技, Tesla, 特斯拉, cybertruck, 刘泓君, 赵哲伦, 电动车</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君  **  嘉宾丨 <strong>赵哲伦<br>
+**后期制作丨</strong>迪卡普里鑫</p>
+
+<p>上个月，特斯拉在洛杉矶发布了一台造型奇特的皮卡车 CyberTruck（朋克皮卡）</p>
+
+<p>这是特斯拉在轿车与 SUV 的电动车后，推出的第一款皮卡类电动车型。这款车灵感来自于电影《银翼杀手》，没有后视镜、没有雨刷，看起来是一辆概念型装甲车，前卫的设计，创新的交互，技术粉则从马斯克身上看到了当年乔布斯的影子。而它将在2021年量产。</p>
+
+<p>本期做客「硅谷早知道」节目的嘉宾是** 赵哲伦**，他是公众号 [42号车库] 联合创始人，长期跟踪电动车的记者，也是一名特斯拉车主。他会和客座主播刘泓君一起来聊聊这款夺人眼球的 CyberTruck 皮卡车。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：<br>
+国内用户 [「冲呀 」](<a href="http://www.chongya.com/@shengfm/" rel="nofollow">www.chongya.com/@shengfm/</a>) ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a><br>
+国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>刘泓君，原《财经》硅谷记者</p>
+
+<h3>本期嘉宾</h3>
+
+<p>赵哲伦，公众号 [42号车库] 联合创始人</p>
+
+<h3>The takeaway</h3>
+
+<p>汽车控制设置成触屏有几点好处，第一是它可以根据用户习惯去积累和升级，用户越用越方便；第二触屏可以一键触达，原来要四五节菜单才能完成了一个设置，现在很方便就能找到；最后触屏对于手机使用习惯来讲，几乎是无缝切换。<br>
+马斯克当年推动电动车非常不易，当时的电池成本很高，采购电池组成本已达好几万美金，一定程度上阻碍了电动汽车真正的量产。但是马斯克用第一性原理思考，电池的镍钴铝的成本其实并没有那么高，然后他从源头做起，做规模化降低成本，最后把 Model S 推出。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>CyberTruck发布现场回顾</li>
+<li>公众对 CyberTruck 的接受度</li>
+<li>CyberTruck 的实际驾驶感和设计细节</li>
+<li>CyberTruck  为什么没有雨刷和后视镜</li>
+<li>马斯克是当年的乔布斯吗</li>
+<li>特斯拉每款产品的创新之处和缺点</li>
+<li>CyberTruck  对美国卡市场的影响</li>
+<li>为什么马斯克能造出来CyberTruck</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li>Tesla Roadster，基于莲花Elise的双门双座电动跑车，2008年面世，2012年停产。</li>
+<li>Tesla Model S，一款高性能电动汽车，2012年开始交车。</li>
+<li>Tesla Model X，一款7座休旅车，2015年开始交车。</li>
+<li>林肯领航员 (Navigator) ，福特汽车公司生产的全尺寸SUV。</li>
+<li>丰田红杉（Toyota Sequoia），丰田汽车公司制造的全尺寸 SUV。</li>
+<li>理想ONE ，理想汽车于2018年10发布的首款增程式智能电动车，预计2020年交付。</li>
+<li>宁德时代，成立于2011年的中国电池制造商和技术公司，主要生产用于电动汽车电池系统和储能系统。</li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>ES_Black Hole - Tommy Ljungberg</li>
+<li>Back to the Old House - White Bones</li>
+</ul>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君  **  嘉宾丨 <strong>赵哲伦<br>
+**后期制作丨</strong>迪卡普里鑫</p>
+
+<p>上个月，特斯拉在洛杉矶发布了一台造型奇特的皮卡车 CyberTruck（朋克皮卡）</p>
+
+<p>这是特斯拉在轿车与 SUV 的电动车后，推出的第一款皮卡类电动车型。这款车灵感来自于电影《银翼杀手》，没有后视镜、没有雨刷，看起来是一辆概念型装甲车，前卫的设计，创新的交互，技术粉则从马斯克身上看到了当年乔布斯的影子。而它将在2021年量产。</p>
+
+<p>本期做客「硅谷早知道」节目的嘉宾是** 赵哲伦**，他是公众号 [42号车库] 联合创始人，长期跟踪电动车的记者，也是一名特斯拉车主。他会和客座主播刘泓君一起来聊聊这款夺人眼球的 CyberTruck 皮卡车。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：<br>
+国内用户 [「冲呀 」](<a href="http://www.chongya.com/@shengfm/" rel="nofollow">www.chongya.com/@shengfm/</a>) ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a><br>
+国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>刘泓君，原《财经》硅谷记者</p>
+
+<h3>本期嘉宾</h3>
+
+<p>赵哲伦，公众号 [42号车库] 联合创始人</p>
+
+<h3>The takeaway</h3>
+
+<p>汽车控制设置成触屏有几点好处，第一是它可以根据用户习惯去积累和升级，用户越用越方便；第二触屏可以一键触达，原来要四五节菜单才能完成了一个设置，现在很方便就能找到；最后触屏对于手机使用习惯来讲，几乎是无缝切换。<br>
+马斯克当年推动电动车非常不易，当时的电池成本很高，采购电池组成本已达好几万美金，一定程度上阻碍了电动汽车真正的量产。但是马斯克用第一性原理思考，电池的镍钴铝的成本其实并没有那么高，然后他从源头做起，做规模化降低成本，最后把 Model S 推出。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>CyberTruck发布现场回顾</li>
+<li>公众对 CyberTruck 的接受度</li>
+<li>CyberTruck 的实际驾驶感和设计细节</li>
+<li>CyberTruck  为什么没有雨刷和后视镜</li>
+<li>马斯克是当年的乔布斯吗</li>
+<li>特斯拉每款产品的创新之处和缺点</li>
+<li>CyberTruck  对美国卡市场的影响</li>
+<li>为什么马斯克能造出来CyberTruck</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li>Tesla Roadster，基于莲花Elise的双门双座电动跑车，2008年面世，2012年停产。</li>
+<li>Tesla Model S，一款高性能电动汽车，2012年开始交车。</li>
+<li>Tesla Model X，一款7座休旅车，2015年开始交车。</li>
+<li>林肯领航员 (Navigator) ，福特汽车公司生产的全尺寸SUV。</li>
+<li>丰田红杉（Toyota Sequoia），丰田汽车公司制造的全尺寸 SUV。</li>
+<li>理想ONE ，理想汽车于2018年10发布的首款增程式智能电动车，预计2020年交付。</li>
+<li>宁德时代，成立于2011年的中国电池制造商和技术公司，主要生产用于电动汽车电池系统和储能系统。</li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>ES_Black Hole - Tommy Ljungberg</li>
+<li>Back to the Old House - White Bones</li>
+</ul>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>外卖行业还能怎么演化？劳动力稀少的硅谷正在探索</title>
+      <link>http://shengfm.cn/s3e38</link>
+      <guid isPermaLink="false">07f45111-09bf-430c-b72c-c6e34c44e364</guid>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/07f45111-09bf-430c-b72c-c6e34c44e364.mp3" length="30269339" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>41:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/0/07f45111-09bf-430c-b72c-c6e34c44e364/cover.jpg?v=1"/>
+      <description>主播丨丁教 , 嘉宾丨 Connie Xu
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+在日常生活中，我们每个人都会时不时叫外卖。我们可能会默认，外卖行业已成熟，并呈现一种比较稳定的业态。
+但这个行业还会有不一样的演化方向，呈现不一样的业态吗？
+在这种商业模式发源的硅谷，我们能观察到一些不一样的现象。尽管 Uber，DoorDash 是最早推动这些商业模式的公司，但由于美国劳动力稀缺，法律对劳动力保护的演化更快，所以这些公司比他们的中国同行遇到了更多问题。
+今年9月，加州通过了一项法律，要求共享经济平台的合同制劳工不应被视为临时工，而应获得和公司内部员工一样的各种保险和福利。也因此，这些公司不得不寻求不太一样的方式来解决成本上升的问题。
+对于中国而言，尽管短时间内依然会有着充沛廉价的人力，也不会有美国那么严苛的法律保护；但人口红利的消退和法律的进步，都会让中国公司在未来的某个时间点，遇到现在硅谷所面临的问题。
+因此，现在就看看硅谷公司们遇到了什么问题，又是怎么解决的，是个不错的视角。
+本期做客「硅谷早知道」节目的嘉宾是 Connie ，智能外送平台 Sweet A Little 的创始人，
+她今天会和我们的客座主播丁教一起聊聊美国的外卖平台，例如Ubereats和 DoorDash为何还亏损如此严重；新的法案对整个行业有什么冲击；以及这些公司又在为此做哪些新尝试。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：
+国内用户 「冲呀 」 (https://www.chongya.com/@shengfm)  ，「爱发电」 (https://afdian.net/@shengfm)
+国外用户「patreon」 (https://www.patreon.com/shengfm)
+本期主播
+丁教,「声动活泼」联合创始人，投资人
+本期嘉宾：
+Connie Xu, 徐聪，Sweet A Little 创始人
+The takeaway：
+这个商业模式其实非常非常烧钱，而且资本运作效率并不是非常高。我们做了金融模型，把最新的数据扔进去，发现融资规模必须达到 5 亿美元或者更多。另外我们还发现，使用兼职的人其实效率是非常低的。
+ 如果一直依赖人海战术，而且人海战术还在供给端，虽然体量可以很大，但盈利会很少。
+ 用户希望得到的是好的产品和服务，因此不是有了技术就可以把公司做大，比如麦当劳和星巴克，没有特别顶尖的技术，但可以做得非常大，这是因为有好的产品来驱动。
+用户端的需求起伏非常剧烈，如果公司不管用不用人都要付给他们工资的话，用户端肯定要承受很多成本，价格就会大幅度的提高；企业端的话，如果成本很难再往下压，就开始减少店铺的数量，尝试类似于移动厨房的这些业务，所以这个法案对提供服务的公司和普通的消费者都会造成冲击。
+本期讨论的主要问题：
+作为投资人，为什么会觉得外卖行业市场巨大？
+ 从投资人转型成了外卖行业但从业者后，发现 Doordash等公司的商业模式问题在哪里？
+ 加州法案对行业有哪些冲击？
+ 整个行业在做哪些新的尝试？
+访谈中提及名词：
+Ubereats，Uber 推出的一项餐饮外送服务，它与世界各地城市的当地餐厅合作，并让使用者可以使用手机应用程序在线上订餐，在几十分钟内提供餐饮外送服务。
+ DoorDash ，总部位于美国加州的餐饮配送服务公司，由 Stanley Tang、Andy Fang、及 Tony Xu 三位华裔创立，定位是物流+技术。对饭店的餐品准备时间有良好的把握，保证送餐人员能在恰到好处的时间范围内到达饭店领取餐点；在配送上，DoorDash 提供了自动路线规划算法，能选取更快捷的路线。《 2019 胡润全球独角兽榜》中，DoorDash 排名 19 位。
+ Grubhub，提供餐厅外送中介服务的公司，最初以校园学生为服务对象，后来经过快速发展，于 2013 年 5 月和外卖送餐服务公司 Seamless 合并。合作餐厅超过 30000 家，业务遍布英国、美国、加拿大的 600 多个城市。
+ CrunchBase，一家属于 TechCrunch 的创业公司数据库，可以在上面查询到创始人，关键员工，公司财务状况，收购新闻等信息。
+相关阅读：
+硅谷的Uber们2019扎堆上市，会重现中国公司的“流血”史吗 (https://36kr.com/p/5168107)
+创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？ (https://36kr.com/p/5209943)
+California Bill Makes App-Based Companies Treat Workers as Employees (正确链接：https://www.nytimes.com/2019/09/11/technology/california-gig-economy-bill.html)
+BGM：
+Back to the Old House - White Bones
+The Clue's in the Name - Alfie-Jay Winters
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>硅谷, 外卖, 零工经济, 加州, 共享经济, 劳工, 临时工, Uber</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>丁教 <strong>, 嘉宾丨</strong> Connie Xu</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>在日常生活中，我们每个人都会时不时叫外卖。我们可能会默认，外卖行业已成熟，并呈现一种比较稳定的业态。</p>
+
+<p>但这个行业还会有不一样的演化方向，呈现不一样的业态吗？</p>
+
+<p>在这种商业模式发源的硅谷，我们能观察到一些不一样的现象。尽管 Uber，DoorDash 是最早推动这些商业模式的公司，但由于美国劳动力稀缺，法律对劳动力保护的演化更快，所以这些公司比他们的中国同行遇到了更多问题。</p>
+
+<p>今年9月，加州通过了一项法律，要求共享经济平台的合同制劳工不应被视为临时工，而应获得和公司内部员工一样的各种保险和福利。也因此，这些公司不得不寻求不太一样的方式来解决成本上升的问题。</p>
+
+<p>对于中国而言，尽管短时间内依然会有着充沛廉价的人力，也不会有美国那么严苛的法律保护；但人口红利的消退和法律的进步，都会让中国公司在未来的某个时间点，遇到现在硅谷所面临的问题。</p>
+
+<p>因此，现在就看看硅谷公司们遇到了什么问题，又是怎么解决的，是个不错的视角。</p>
+
+<p>本期做客「硅谷早知道」节目的嘉宾是 Connie ，智能外送平台 Sweet A Little 的创始人，</p>
+
+<p>她今天会和我们的客座主播丁教一起聊聊美国的外卖平台，例如Ubereats和 DoorDash为何还亏损如此严重；新的法案对整个行业有什么冲击；以及这些公司又在为此做哪些新尝试。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>丁教,「声动活泼」联合创始人，投资人</p>
+
+<h3>本期嘉宾：</h3>
+
+<p>Connie Xu, 徐聪，Sweet A Little 创始人</p>
+
+<h3>The takeaway：</h3>
+
+<blockquote>
+<p>这个商业模式其实非常非常烧钱，而且资本运作效率并不是非常高。我们做了金融模型，把最新的数据扔进去，发现融资规模必须达到 5 亿美元或者更多。另外我们还发现，使用兼职的人其实效率是非常低的。</p>
+
+<p>如果一直依赖人海战术，而且人海战术还在供给端，虽然体量可以很大，但盈利会很少。</p>
+
+<p>用户希望得到的是好的产品和服务，因此不是有了技术就可以把公司做大，比如麦当劳和星巴克，没有特别顶尖的技术，但可以做得非常大，这是因为有好的产品来驱动。</p>
+
+<p>用户端的需求起伏非常剧烈，如果公司不管用不用人都要付给他们工资的话，用户端肯定要承受很多成本，价格就会大幅度的提高；企业端的话，如果成本很难再往下压，就开始减少店铺的数量，尝试类似于移动厨房的这些业务，所以这个法案对提供服务的公司和普通的消费者都会造成冲击。</p>
+</blockquote>
+
+<h3>本期讨论的主要问题：</h3>
+
+<ul>
+<li>作为投资人，为什么会觉得外卖行业市场巨大？</li>
+<li> 从投资人转型成了外卖行业但从业者后，发现 Doordash等公司的商业模式问题在哪里？</li>
+<li> 加州法案对行业有哪些冲击？</li>
+<li> 整个行业在做哪些新的尝试？</li>
+</ul>
+
+<h3>访谈中提及名词：</h3>
+
+<ul>
+<li>Ubereats，Uber 推出的一项餐饮外送服务，它与世界各地城市的当地餐厅合作，并让使用者可以使用手机应用程序在线上订餐，在几十分钟内提供餐饮外送服务。</li>
+<li> DoorDash ，总部位于美国加州的餐饮配送服务公司，由 Stanley Tang、Andy Fang、及 Tony Xu 三位华裔创立，定位是物流+技术。对饭店的餐品准备时间有良好的把握，保证送餐人员能在恰到好处的时间范围内到达饭店领取餐点；在配送上，DoorDash 提供了自动路线规划算法，能选取更快捷的路线。《 2019 胡润全球独角兽榜》中，DoorDash 排名 19 位。</li>
+<li> Grubhub，提供餐厅外送中介服务的公司，最初以校园学生为服务对象，后来经过快速发展，于 2013 年 5 月和外卖送餐服务公司 Seamless 合并。合作餐厅超过 30000 家，业务遍布英国、美国、加拿大的 600 多个城市。</li>
+<li> CrunchBase，一家属于 TechCrunch 的创业公司数据库，可以在上面查询到创始人，关键员工，公司财务状况，收购新闻等信息。</li>
+</ul>
+
+<h3>相关阅读：</h3>
+
+<ul>
+<li><a href="https://36kr.com/p/5168107" rel="nofollow">硅谷的Uber们2019扎堆上市，会重现中国公司的“流血”史吗</a></li>
+<li><a href="https://36kr.com/p/5209943" rel="nofollow">创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？</a></li>
+<li>[California Bill Makes App-Based Companies Treat Workers as Employees](正确链接：<a href="https://www.nytimes.com/2019/09/11/technology/california-gig-economy-bill.html" rel="nofollow">https://www.nytimes.com/2019/09/11/technology/california-gig-economy-bill.html</a>)</li>
+</ul>
+
+<h3>BGM：</h3>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>The Clue&#39;s in the Name - Alfie-Jay Winters</li>
+</ul>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>丁教 <strong>, 嘉宾丨</strong> Connie Xu</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>在日常生活中，我们每个人都会时不时叫外卖。我们可能会默认，外卖行业已成熟，并呈现一种比较稳定的业态。</p>
+
+<p>但这个行业还会有不一样的演化方向，呈现不一样的业态吗？</p>
+
+<p>在这种商业模式发源的硅谷，我们能观察到一些不一样的现象。尽管 Uber，DoorDash 是最早推动这些商业模式的公司，但由于美国劳动力稀缺，法律对劳动力保护的演化更快，所以这些公司比他们的中国同行遇到了更多问题。</p>
+
+<p>今年9月，加州通过了一项法律，要求共享经济平台的合同制劳工不应被视为临时工，而应获得和公司内部员工一样的各种保险和福利。也因此，这些公司不得不寻求不太一样的方式来解决成本上升的问题。</p>
+
+<p>对于中国而言，尽管短时间内依然会有着充沛廉价的人力，也不会有美国那么严苛的法律保护；但人口红利的消退和法律的进步，都会让中国公司在未来的某个时间点，遇到现在硅谷所面临的问题。</p>
+
+<p>因此，现在就看看硅谷公司们遇到了什么问题，又是怎么解决的，是个不错的视角。</p>
+
+<p>本期做客「硅谷早知道」节目的嘉宾是 Connie ，智能外送平台 Sweet A Little 的创始人，</p>
+
+<p>她今天会和我们的客座主播丁教一起聊聊美国的外卖平台，例如Ubereats和 DoorDash为何还亏损如此严重；新的法案对整个行业有什么冲击；以及这些公司又在为此做哪些新尝试。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>丁教,「声动活泼」联合创始人，投资人</p>
+
+<h3>本期嘉宾：</h3>
+
+<p>Connie Xu, 徐聪，Sweet A Little 创始人</p>
+
+<h3>The takeaway：</h3>
+
+<blockquote>
+<p>这个商业模式其实非常非常烧钱，而且资本运作效率并不是非常高。我们做了金融模型，把最新的数据扔进去，发现融资规模必须达到 5 亿美元或者更多。另外我们还发现，使用兼职的人其实效率是非常低的。</p>
+
+<p>如果一直依赖人海战术，而且人海战术还在供给端，虽然体量可以很大，但盈利会很少。</p>
+
+<p>用户希望得到的是好的产品和服务，因此不是有了技术就可以把公司做大，比如麦当劳和星巴克，没有特别顶尖的技术，但可以做得非常大，这是因为有好的产品来驱动。</p>
+
+<p>用户端的需求起伏非常剧烈，如果公司不管用不用人都要付给他们工资的话，用户端肯定要承受很多成本，价格就会大幅度的提高；企业端的话，如果成本很难再往下压，就开始减少店铺的数量，尝试类似于移动厨房的这些业务，所以这个法案对提供服务的公司和普通的消费者都会造成冲击。</p>
+</blockquote>
+
+<h3>本期讨论的主要问题：</h3>
+
+<ul>
+<li>作为投资人，为什么会觉得外卖行业市场巨大？</li>
+<li> 从投资人转型成了外卖行业但从业者后，发现 Doordash等公司的商业模式问题在哪里？</li>
+<li> 加州法案对行业有哪些冲击？</li>
+<li> 整个行业在做哪些新的尝试？</li>
+</ul>
+
+<h3>访谈中提及名词：</h3>
+
+<ul>
+<li>Ubereats，Uber 推出的一项餐饮外送服务，它与世界各地城市的当地餐厅合作，并让使用者可以使用手机应用程序在线上订餐，在几十分钟内提供餐饮外送服务。</li>
+<li> DoorDash ，总部位于美国加州的餐饮配送服务公司，由 Stanley Tang、Andy Fang、及 Tony Xu 三位华裔创立，定位是物流+技术。对饭店的餐品准备时间有良好的把握，保证送餐人员能在恰到好处的时间范围内到达饭店领取餐点；在配送上，DoorDash 提供了自动路线规划算法，能选取更快捷的路线。《 2019 胡润全球独角兽榜》中，DoorDash 排名 19 位。</li>
+<li> Grubhub，提供餐厅外送中介服务的公司，最初以校园学生为服务对象，后来经过快速发展，于 2013 年 5 月和外卖送餐服务公司 Seamless 合并。合作餐厅超过 30000 家，业务遍布英国、美国、加拿大的 600 多个城市。</li>
+<li> CrunchBase，一家属于 TechCrunch 的创业公司数据库，可以在上面查询到创始人，关键员工，公司财务状况，收购新闻等信息。</li>
+</ul>
+
+<h3>相关阅读：</h3>
+
+<ul>
+<li><a href="https://36kr.com/p/5168107" rel="nofollow">硅谷的Uber们2019扎堆上市，会重现中国公司的“流血”史吗</a></li>
+<li><a href="https://36kr.com/p/5209943" rel="nofollow">创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？</a></li>
+<li>[California Bill Makes App-Based Companies Treat Workers as Employees](正确链接：<a href="https://www.nytimes.com/2019/09/11/technology/california-gig-economy-bill.html" rel="nofollow">https://www.nytimes.com/2019/09/11/technology/california-gig-economy-bill.html</a>)</li>
+</ul>
+
+<h3>BGM：</h3>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>The Clue&#39;s in the Name - Alfie-Jay Winters</li>
+</ul>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Google的理想主义都终结了，我们还能期待别的大公司怎样？</title>
+      <link>http://shengfm.cn/s3e37</link>
+      <guid isPermaLink="false">cbc33c27-4c66-49e1-992a-edd512741471</guid>
+      <pubDate>Thu, 05 Dec 2019 13:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cbc33c27-4c66-49e1-992a-edd512741471.mp3" length="44143335" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>再没有公司可以喊出，don't be evil！</itunes:subtitle>
+      <itunes:duration>45:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/c/cbc33c27-4c66-49e1-992a-edd512741471/cover.jpg?v=1"/>
+      <description>主播丨徐涛  *嘉宾丨 *李蓉慧
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+Google 两位联合创始人 Larry Page 和 Sergey Brin 在美国时间 12 月 3 日下午，宣布辞任 Google 母公司 Alphabet 的 CEO。
+我们都知道这一刻迟早会到来，但为什么是在现在？
+这不是一个好时机，你甚至可以说 Google 面临内忧外患。
+在内部，Google 管理层和员工之间正经历着愈演愈重的不信任危机 ；在外界，Google 过去「印钞机一般的商业模式」也正受到来自竞争对手、转向 AI 需要商业化的挑战。
+制作本期节目都时候，两位创始人辞任都消息还没有发布。但我们已经观察到了一些让人不安的端倪：Google 在 11 月已经对外透露即将改变 TGIF 活动， 改为每月举行一次，并且只专注于「产品和商业战略」——这是最能代表 Google 企业文化的活动之一，它的变化意味着什么？
+今天我们请到了原《第一财经周刊》驻硅谷记者李蓉慧来聊聊这个话题：我们梳理这家曾是世界上「最让人快乐的」科技公司近年来发生的事情，你会理解为什么我们说 Google 正面临挑战，又为什么说硅谷的理想主义正在消散。
+近两年，不论是 Google 的高管性丑闻、信息泄露、员工维权，还是被取消的与美国国防部订单，这家曾经代表着平等开放、理想主义的企业，似乎逐渐背离了「Don't Be Evil，不作恶」的初衷，加上其他公司的种种负面新闻，逐渐让很多人意识到过去对硅谷的科技公司抱有过高的幻想和期望，忽略了它们本质上是商业公司。TGIF 的变化反映了过去几年里左派右派的矛盾、社会思潮斗争在 Google 内部引起的矛盾和无法解决的无奈，也暴露了硅谷的开放文化在当下的社会语境里被挑战，以及当公司面临商业转型时，企业文化也会随着变化相应的被调整。
+对 Larry Page 和 Sergey Brin 个人而言，不参与 Google 未来可能遇到的质疑和难堪，也许是一种最好的安排；但对于 Google，以及喜欢和偏爱 Google 对人而言，只能叹息一个时代的终结。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：
+国内用户 「冲呀 」 (https://www.chongya.com/@shengfm)  ，「爱发电」 (https://afdian.net/@shengfm)
+国外用户「patreon」 (https://www.patreon.com/shengfm)
+本期主播
+徐涛,「声动活泼」创始人/制作人
+本期嘉宾
+李蓉慧, 原《第一财经周刊》驻硅谷记者
+The takeaway
+以 Google 为代表的硅谷的科技公司，它们支持言论自由、要把这个世界变得更好、要帮助人类的所谓的开放文化 ，其实掩盖了一个根本事实：他们都是商业公司。当他们对媒体讲「科技让世界更美好」时，科技当然应该让世界更美好，但如果认为这些科技公司的责任是做慈善，这是错误的理解。
+「All hands meeting」其实创造了一个公共空间。在这个公共空间里，大家有一致的目标，在这个目标下可以暂时放下彼此的不同。但是当环境发生变化，当公司必须面对很多跟政治、意识形态、社会舆论相关的话题冲突时候， 「All hands meeting」就从最开始大家一起庆祝这一周的工作，慢慢变成公司的管理层要回答大家的问题，再变成了公司处理内部冲突的一个公开场所。它的变化带来的一个很明显的负面反应就是公共空间变得越来越小，必须站队，必须选择一边。
+现在在硅谷，大家虽然觉得 Facebook、Google 更酷，更倡导透明，苹果特别严苛。但其实在 1980 年代，苹果那个标志性的广告片（女孩把大锤子砸向屏幕和人），它也是作为一个具有反叛象征的代表。所以，可能公司最开始的时候是以反叛者的角色出现，但是随着发展壮大会难以避免的背离自己。
+本期讨论的主要问题
+Google 的 TGIF 全员大会的由来及传统
+TGIF 全员大会遇到了什么挑战，为什么取消
+Google 发展中遇到的内部、外部问题
+硅谷科技公司的本质其实还是商业公司
+访谈中提及名词
+All hands meeting，起始于硅谷科技公司的全员大会，它作为一个内部的公开平台，每周召开一次，并且任何员工都可以提问题，并与管理层自由开放地讨论话题。
+TGIF， Thank God It's Friday 的缩写；之后成为 Google 全员大会的代称。
+桑达尔·皮查伊（Sundar Pichai），节目中提及的「劈柴哥」 ，曾是 Google 的产品负责人，2015 年任职谷歌 CEO ，今年 11 月他在一封发给员工的电子邮件中表示，将把「TGIF」 缩短至每月一次。
+20/80，谷歌联合创始人拉里·佩奇（Larry Page）和谢尔盖·布林（Sergey Brin）曾提出，谷歌鼓励员工每周利用 20% 规定的工作时间（如 5 天工作日中的 1 天）去做非官方立项的项目。它也是 Google 开放文化的象征之一，Google 早期有一些知名产品都来自员工在 20% 时间的创造。
+The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。最近苹果在内部召开会议谈论 AR 项目计划，The Information 独家披露了这次内部会议的内容。
+The Verge , 成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。今年 Facebook 的一次全员大会，The Verge 获得独家爆料披露了扎克伯格的内部讲话，随后 Facebook 选择在线直播全员大会来防止「泄密」。
+相关阅读
+Google Hires Firm Known for Anti-Union Efforts - The New York Times (https://www.nytimes.com/2019/11/20/technology/Google-union-consultant.html)
+Three Years of Misery Inside Google, the Happiest Company in Tech (https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
+硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个“美国工厂”？ (https://36kr.com/p/5254129)
+BGM
+Back to the Old House - White Bones
+Happy Without You - Wildson
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>科技，硅谷，Google</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  *<em>嘉宾丨 *</em>李蓉慧</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>Google 两位联合创始人 Larry Page 和 Sergey Brin 在美国时间 12 月 3 日下午，宣布辞任 Google 母公司 Alphabet 的 CEO。</p>
+
+<p>我们都知道这一刻迟早会到来，但为什么是在现在？</p>
+
+<p>这不是一个好时机，你甚至可以说 Google 面临内忧外患。</p>
+
+<p>在内部，Google 管理层和员工之间正经历着愈演愈重的不信任危机 ；在外界，Google 过去「印钞机一般的商业模式」也正受到来自竞争对手、转向 AI 需要商业化的挑战。</p>
+
+<p>制作本期节目都时候，两位创始人辞任都消息还没有发布。但我们已经观察到了一些让人不安的端倪：Google 在 11 月已经对外透露即将改变 TGIF 活动， 改为每月举行一次，并且只专注于「产品和商业战略」——这是最能代表 Google 企业文化的活动之一，它的变化意味着什么？</p>
+
+<p>今天我们请到了原《第一财经周刊》驻硅谷记者李蓉慧来聊聊这个话题：我们梳理这家曾是世界上「最让人快乐的」科技公司近年来发生的事情，你会理解为什么我们说 Google 正面临挑战，又为什么说硅谷的理想主义正在消散。</p>
+
+<p>近两年，不论是 Google 的高管性丑闻、信息泄露、员工维权，还是被取消的与美国国防部订单，这家曾经代表着平等开放、理想主义的企业，似乎逐渐背离了「Don&#39;t Be Evil，不作恶」的初衷，加上其他公司的种种负面新闻，逐渐让很多人意识到过去对硅谷的科技公司抱有过高的幻想和期望，忽略了它们本质上是商业公司。TGIF 的变化反映了过去几年里左派右派的矛盾、社会思潮斗争在 Google 内部引起的矛盾和无法解决的无奈，也暴露了硅谷的开放文化在当下的社会语境里被挑战，以及当公司面临商业转型时，企业文化也会随着变化相应的被调整。</p>
+
+<p>对 Larry Page 和 Sergey Brin 个人而言，不参与 Google 未来可能遇到的质疑和难堪，也许是一种最好的安排；但对于 Google，以及喜欢和偏爱 Google 对人而言，只能叹息一个时代的终结。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<h3>本期嘉宾</h3>
+
+<p>李蓉慧, 原《第一财经周刊》驻硅谷记者</p>
+
+<h3>The takeaway</h3>
+
+<p>以 Google 为代表的硅谷的科技公司，它们支持言论自由、要把这个世界变得更好、要帮助人类的所谓的开放文化 ，其实掩盖了一个根本事实：他们都是商业公司。当他们对媒体讲「科技让世界更美好」时，科技当然应该让世界更美好，但如果认为这些科技公司的责任是做慈善，这是错误的理解。</p>
+
+<p>「All hands meeting」其实创造了一个公共空间。在这个公共空间里，大家有一致的目标，在这个目标下可以暂时放下彼此的不同。但是当环境发生变化，当公司必须面对很多跟政治、意识形态、社会舆论相关的话题冲突时候， 「All hands meeting」就从最开始大家一起庆祝这一周的工作，慢慢变成公司的管理层要回答大家的问题，再变成了公司处理内部冲突的一个公开场所。它的变化带来的一个很明显的负面反应就是公共空间变得越来越小，必须站队，必须选择一边。</p>
+
+<p>现在在硅谷，大家虽然觉得 Facebook、Google 更酷，更倡导透明，苹果特别严苛。但其实在 1980 年代，苹果那个标志性的广告片（女孩把大锤子砸向屏幕和人），它也是作为一个具有反叛象征的代表。所以，可能公司最开始的时候是以反叛者的角色出现，但是随着发展壮大会难以避免的背离自己。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>Google 的 TGIF 全员大会的由来及传统</li>
+<li>TGIF 全员大会遇到了什么挑战，为什么取消</li>
+<li>Google 发展中遇到的内部、外部问题</li>
+<li>硅谷科技公司的本质其实还是商业公司</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<p>All hands meeting，起始于硅谷科技公司的全员大会，它作为一个内部的公开平台，每周召开一次，并且任何员工都可以提问题，并与管理层自由开放地讨论话题。</p>
+
+<p>TGIF， Thank God It&#39;s Friday 的缩写；之后成为 Google 全员大会的代称。</p>
+
+<p>桑达尔·皮查伊（Sundar Pichai），节目中提及的「劈柴哥」 ，曾是 Google 的产品负责人，2015 年任职谷歌 CEO ，今年 11 月他在一封发给员工的电子邮件中表示，将把「TGIF」 缩短至每月一次。</p>
+
+<p>20/80，谷歌联合创始人拉里·佩奇（Larry Page）和谢尔盖·布林（Sergey Brin）曾提出，谷歌鼓励员工每周利用 20% 规定的工作时间（如 5 天工作日中的 1 天）去做非官方立项的项目。它也是 Google 开放文化的象征之一，Google 早期有一些知名产品都来自员工在 20% 时间的创造。</p>
+
+<p>The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。最近苹果在内部召开会议谈论 AR 项目计划，The Information 独家披露了这次内部会议的内容。</p>
+
+<p>The Verge , 成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。今年 Facebook 的一次全员大会，The Verge 获得独家爆料披露了扎克伯格的内部讲话，随后 Facebook 选择在线直播全员大会来防止「泄密」。</p>
+
+<h3>相关阅读</h3>
+
+<p><a href="https://www.nytimes.com/2019/11/20/technology/Google-union-consultant.html" rel="nofollow">Google Hires Firm Known for Anti-Union Efforts - The New York Times</a></p>
+
+<p><a href="https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/" rel="nofollow">Three Years of Misery Inside Google, the Happiest Company in Tech</a></p>
+
+<p><a href="https://36kr.com/p/5254129" rel="nofollow">硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个“美国工厂”？</a></p>
+
+<h3>BGM</h3>
+
+<p>Back to the Old House - White Bones</p>
+
+<p>Happy Without You - Wildson</p>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  *<em>嘉宾丨 *</em>李蓉慧</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>Google 两位联合创始人 Larry Page 和 Sergey Brin 在美国时间 12 月 3 日下午，宣布辞任 Google 母公司 Alphabet 的 CEO。</p>
+
+<p>我们都知道这一刻迟早会到来，但为什么是在现在？</p>
+
+<p>这不是一个好时机，你甚至可以说 Google 面临内忧外患。</p>
+
+<p>在内部，Google 管理层和员工之间正经历着愈演愈重的不信任危机 ；在外界，Google 过去「印钞机一般的商业模式」也正受到来自竞争对手、转向 AI 需要商业化的挑战。</p>
+
+<p>制作本期节目都时候，两位创始人辞任都消息还没有发布。但我们已经观察到了一些让人不安的端倪：Google 在 11 月已经对外透露即将改变 TGIF 活动， 改为每月举行一次，并且只专注于「产品和商业战略」——这是最能代表 Google 企业文化的活动之一，它的变化意味着什么？</p>
+
+<p>今天我们请到了原《第一财经周刊》驻硅谷记者李蓉慧来聊聊这个话题：我们梳理这家曾是世界上「最让人快乐的」科技公司近年来发生的事情，你会理解为什么我们说 Google 正面临挑战，又为什么说硅谷的理想主义正在消散。</p>
+
+<p>近两年，不论是 Google 的高管性丑闻、信息泄露、员工维权，还是被取消的与美国国防部订单，这家曾经代表着平等开放、理想主义的企业，似乎逐渐背离了「Don&#39;t Be Evil，不作恶」的初衷，加上其他公司的种种负面新闻，逐渐让很多人意识到过去对硅谷的科技公司抱有过高的幻想和期望，忽略了它们本质上是商业公司。TGIF 的变化反映了过去几年里左派右派的矛盾、社会思潮斗争在 Google 内部引起的矛盾和无法解决的无奈，也暴露了硅谷的开放文化在当下的社会语境里被挑战，以及当公司面临商业转型时，企业文化也会随着变化相应的被调整。</p>
+
+<p>对 Larry Page 和 Sergey Brin 个人而言，不参与 Google 未来可能遇到的质疑和难堪，也许是一种最好的安排；但对于 Google，以及喜欢和偏爱 Google 对人而言，只能叹息一个时代的终结。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期 Demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<h3>本期嘉宾</h3>
+
+<p>李蓉慧, 原《第一财经周刊》驻硅谷记者</p>
+
+<h3>The takeaway</h3>
+
+<p>以 Google 为代表的硅谷的科技公司，它们支持言论自由、要把这个世界变得更好、要帮助人类的所谓的开放文化 ，其实掩盖了一个根本事实：他们都是商业公司。当他们对媒体讲「科技让世界更美好」时，科技当然应该让世界更美好，但如果认为这些科技公司的责任是做慈善，这是错误的理解。</p>
+
+<p>「All hands meeting」其实创造了一个公共空间。在这个公共空间里，大家有一致的目标，在这个目标下可以暂时放下彼此的不同。但是当环境发生变化，当公司必须面对很多跟政治、意识形态、社会舆论相关的话题冲突时候， 「All hands meeting」就从最开始大家一起庆祝这一周的工作，慢慢变成公司的管理层要回答大家的问题，再变成了公司处理内部冲突的一个公开场所。它的变化带来的一个很明显的负面反应就是公共空间变得越来越小，必须站队，必须选择一边。</p>
+
+<p>现在在硅谷，大家虽然觉得 Facebook、Google 更酷，更倡导透明，苹果特别严苛。但其实在 1980 年代，苹果那个标志性的广告片（女孩把大锤子砸向屏幕和人），它也是作为一个具有反叛象征的代表。所以，可能公司最开始的时候是以反叛者的角色出现，但是随着发展壮大会难以避免的背离自己。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>Google 的 TGIF 全员大会的由来及传统</li>
+<li>TGIF 全员大会遇到了什么挑战，为什么取消</li>
+<li>Google 发展中遇到的内部、外部问题</li>
+<li>硅谷科技公司的本质其实还是商业公司</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<p>All hands meeting，起始于硅谷科技公司的全员大会，它作为一个内部的公开平台，每周召开一次，并且任何员工都可以提问题，并与管理层自由开放地讨论话题。</p>
+
+<p>TGIF， Thank God It&#39;s Friday 的缩写；之后成为 Google 全员大会的代称。</p>
+
+<p>桑达尔·皮查伊（Sundar Pichai），节目中提及的「劈柴哥」 ，曾是 Google 的产品负责人，2015 年任职谷歌 CEO ，今年 11 月他在一封发给员工的电子邮件中表示，将把「TGIF」 缩短至每月一次。</p>
+
+<p>20/80，谷歌联合创始人拉里·佩奇（Larry Page）和谢尔盖·布林（Sergey Brin）曾提出，谷歌鼓励员工每周利用 20% 规定的工作时间（如 5 天工作日中的 1 天）去做非官方立项的项目。它也是 Google 开放文化的象征之一，Google 早期有一些知名产品都来自员工在 20% 时间的创造。</p>
+
+<p>The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。最近苹果在内部召开会议谈论 AR 项目计划，The Information 独家披露了这次内部会议的内容。</p>
+
+<p>The Verge , 成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。今年 Facebook 的一次全员大会，The Verge 获得独家爆料披露了扎克伯格的内部讲话，随后 Facebook 选择在线直播全员大会来防止「泄密」。</p>
+
+<h3>相关阅读</h3>
+
+<p><a href="https://www.nytimes.com/2019/11/20/technology/Google-union-consultant.html" rel="nofollow">Google Hires Firm Known for Anti-Union Efforts - The New York Times</a></p>
+
+<p><a href="https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/" rel="nofollow">Three Years of Misery Inside Google, the Happiest Company in Tech</a></p>
+
+<p><a href="https://36kr.com/p/5254129" rel="nofollow">硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个“美国工厂”？</a></p>
+
+<h3>BGM</h3>
+
+<p>Back to the Old House - White Bones</p>
+
+<p>Happy Without You - Wildson</p>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>泄密还是公关？ 苹果预计 2022 年发布 AR 眼镜</title>
+      <link>http://shengfm.cn/s3e36</link>
+      <guid isPermaLink="false">d11d7e1f-94ce-45f0-934c-58c072222b7f</guid>
+      <pubDate>Fri, 29 Nov 2019 14:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d11d7e1f-94ce-45f0-934c-58c072222b7f.mp3" length="35997664" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>在苹果还未发布增强现实产品前，其他公司可能只是在玩游戏。</itunes:subtitle>
+      <itunes:duration>37:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/d/d11d7e1f-94ce-45f0-934c-58c072222b7f/cover.jpg?v=1"/>
+      <description>主播丨李蓉慧  *嘉宾丨 *张煜南
+后期制作丨迪卡普里鑫
+_（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+_
+自从2012年谷歌公布 AR 眼镜 Google Glass 以来，基于 AR/VR 的设备相继出现，这两个不同的方向总是被捆绑在一起被讨论。大公司也相继进入赛道，科技公司如Facebook 有 Oculus，微软有 HoloLens，Snapchat 有 Spectacles，MagicLeap 有 One。老牌公司的索尼有 PS4 VR，任天堂有 Switch VR 。
+究竟是 VR 还是 AR？经过一轮行业洗牌，Facebook 仍在坚持对 VR 进行投资，微软选择 VR+AR 的混合现实路线。Snapchat 的 CEO 则在最近的财报会议上公开表示，Snapchat 将在未来十年继续加码 AR。
+真正会让这个行业发生质变的因素是什么呢？不久前，苹果内部传出消息，计划在 2022 年推出一款增强现实头盔，2023 年推出一款增强现实眼镜。苹果高管十分看好 AR 设备的前景，甚至认为AR 眼镜有望在十年内替代 iPhone 需求。
+硅谷科技媒体 The Information 发布了关于这次泄密的独家报道，引起关注。本期节目我们请来了The Information 的记者 yunan , 一起聊一聊 AR/VR 、目前的技术发展瓶颈，以及苹果泄露的这款产品会不会成为下一个 iPhone。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：
+国内用户 「冲呀 」 (https://www.chongya.com/@shengfm)  ，「爱发电」 (https://afdian.net/@shengfm)
+国外用户「patreon」 (https://www.patreon.com/shengfm)
+本期主播
+李蓉慧, 原《第一财经周刊》驻硅谷记者
+本期嘉宾
+张煜南，The Information 记者
+*The takeaway *
+在苹果还没正式发布产品之前，其他公司可能都只是在「play around」，大家还是会以苹果在做什么来对标。
+AR 眼镜的挑战主要有三部分：一部分是镜片，镜片发展不遵从摩尔定律，而是遵循物理的规律和原则；第二是算力问题；第三部分则是电池（散热）。如何能让VR 眼镜算力足够大、效果足够好、可视足够清晰，同时产品又不会非常笨重、不舒适，其实目前还挺难在中间找到一个平衡。
+Snapchat 发布他们的 AR 产品有两个目的：第一个是从内容上来说，让他们的用户觉得更有意思和参与感，从而留存的时间增长；另外是能让他们的广告主赚钱，广告更软一些，且不伤害用户体验。
+这些大公司都加入竞争还是很有意义的，这个行业还有很多没解决的问题，这些不会是某一家公司投入很多钱和人就可以得出解决方案的。因为它不太是那种只拼效率和烧钱就能得到快速发展的产业。
+本期讨论的主要问题
+苹果召开 AR/VR 的大会背景及产品方向
+苹果 AR/VR 产品和 iPhone 的关系
+现阶段 AR 眼镜遇到的问题和挑战
+大厂的 AR/VR 产品（Google 、Microsoft、Snapchat）
+创业企业的 AR/VR 产品（Magic Leap）
+AR/VR 行业对未来产业及消费者的影响
+探讨科技公司的研发周期
+访谈中提及名词
+The Information，总部位于旧金山的数字媒体公司，订阅用户分布在 84 个国家/地区。
+Google Glass，Google 2012 年开发的智能眼镜，透过自然语言语音指令与互联网服务联系沟通。2015 年停止生产。2019 年 5 月发布第二代企业版谷歌眼镜，售价 999 美元。
+Oculus VR，从事虚拟现实硬件和软件产品的美国公司，2014 年被 Facebook 以 20 亿美元收购。产品包括：Oculus Rift S，Oculus Go 和 Oculus Quest。
+Microsoft Hololens，微软在 2015 年发布的混合现实头盔。主要是为企业提供混合现实解决方案，应用于建筑行业等领域，Hololens 2 企业版于 2019 年发行，售价 3500 美元。
+Spectacles，Snapchat 于 2016 年发布的增强现实智能眼镜。眼镜上的摄像头能记录短视频并可同步上传到用户平台。第三代产品 Spectacles 3 于 2019 年 8 月发布，售价 380 美元。
+Magic Leap，2010 年成立、2017 年推出旗下第一款虚拟现实头盔 Magic Leap One，售价 2295 美元。
+Google Lens，Google 在 2017 年发布的一款应用程序，旨在通过视觉分析检索信息。
+Verizon ，美国主要的电信公司之一，主要业务为语音通话、固定宽带和无线通信。
+相关阅读
+The_Information：Apple Eyes 2022 Release for AR Headset, 2023 for Glasses    (https://www.theinformation.com/articles/apple-eyes-2022-release-for-ar-headset-2023-for-glasses)
+硅谷早知道第三季丨S3E34：硅谷科技媒体群雄风云传   (https://36kr.com/p/5266122) 
+BGM
+Back to the Old House - White Bones
+Nickel - Farrell Wooten
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>AR, VR, 硅谷, 科技</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>李蓉慧  *<em>嘉宾丨 *</em>张煜南</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>_（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）<br>
+_<br>
+自从2012年谷歌公布 AR 眼镜 Google Glass 以来，基于 AR/VR 的设备相继出现，这两个不同的方向总是被捆绑在一起被讨论。大公司也相继进入赛道，科技公司如Facebook 有 Oculus，微软有 HoloLens，Snapchat 有 Spectacles，MagicLeap 有 One。老牌公司的索尼有 PS4 VR，任天堂有 Switch VR 。</p>
+
+<p>究竟是 VR 还是 AR？经过一轮行业洗牌，Facebook 仍在坚持对 VR 进行投资，微软选择 VR+AR 的混合现实路线。Snapchat 的 CEO 则在最近的财报会议上公开表示，Snapchat 将在未来十年继续加码 AR。</p>
+
+<p>真正会让这个行业发生质变的因素是什么呢？不久前，苹果内部传出消息，计划在 2022 年推出一款增强现实头盔，2023 年推出一款增强现实眼镜。苹果高管十分看好 AR 设备的前景，甚至认为AR 眼镜有望在十年内替代 iPhone 需求。</p>
+
+<p>硅谷科技媒体 The Information 发布了关于这次泄密的独家报道，引起关注。本期节目我们请来了The Information 的记者 yunan , 一起聊一聊 AR/VR 、目前的技术发展瓶颈，以及苹果泄露的这款产品会不会成为下一个 iPhone。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：</p>
+
+<p>国内用户<a href="https://www.chongya.com/@shengfm" rel="nofollow"> 「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<p><strong>本期主播</strong></p>
+
+<p>李蓉慧, 原《第一财经周刊》驻硅谷记者</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>张煜南，The Information 记者</p>
+
+<p>*<em>The takeaway *</em></p>
+
+<p>在苹果还没正式发布产品之前，其他公司可能都只是在「play around」，大家还是会以苹果在做什么来对标。</p>
+
+<p>AR 眼镜的挑战主要有三部分：一部分是镜片，镜片发展不遵从摩尔定律，而是遵循物理的规律和原则；第二是算力问题；第三部分则是电池（散热）。如何能让VR 眼镜算力足够大、效果足够好、可视足够清晰，同时产品又不会非常笨重、不舒适，其实目前还挺难在中间找到一个平衡。</p>
+
+<p>Snapchat 发布他们的 AR 产品有两个目的：第一个是从内容上来说，让他们的用户觉得更有意思和参与感，从而留存的时间增长；另外是能让他们的广告主赚钱，广告更软一些，且不伤害用户体验。</p>
+
+<p>这些大公司都加入竞争还是很有意义的，这个行业还有很多没解决的问题，这些不会是某一家公司投入很多钱和人就可以得出解决方案的。因为它不太是那种只拼效率和烧钱就能得到快速发展的产业。</p>
+
+<p><strong>本期讨论的主要问题</strong></p>
+
+<ul>
+<li>苹果召开 AR/VR 的大会背景及产品方向</li>
+<li>苹果 AR/VR 产品和 iPhone 的关系</li>
+<li>现阶段 AR 眼镜遇到的问题和挑战</li>
+<li>大厂的 AR/VR 产品（Google 、Microsoft、Snapchat）</li>
+<li>创业企业的 AR/VR 产品（Magic Leap）</li>
+<li>AR/VR 行业对未来产业及消费者的影响</li>
+<li>探讨科技公司的研发周期</li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li>The Information，总部位于旧金山的数字媒体公司，订阅用户分布在 84 个国家/地区。</li>
+<li>Google Glass，Google 2012 年开发的智能眼镜，透过自然语言语音指令与互联网服务联系沟通。2015 年停止生产。2019 年 5 月发布第二代企业版谷歌眼镜，售价 999 美元。</li>
+<li>Oculus VR，从事虚拟现实硬件和软件产品的美国公司，2014 年被 Facebook 以 20 亿美元收购。产品包括：Oculus Rift S，Oculus Go 和 Oculus Quest。</li>
+<li>Microsoft Hololens，微软在 2015 年发布的混合现实头盔。主要是为企业提供混合现实解决方案，应用于建筑行业等领域，Hololens 2 企业版于 2019 年发行，售价 3500 美元。</li>
+<li>Spectacles，Snapchat 于 2016 年发布的增强现实智能眼镜。眼镜上的摄像头能记录短视频并可同步上传到用户平台。第三代产品 Spectacles 3 于 2019 年 8 月发布，售价 380 美元。</li>
+<li>Magic Leap，2010 年成立、2017 年推出旗下第一款虚拟现实头盔 Magic Leap One，售价 2295 美元。</li>
+<li>Google Lens，Google 在 2017 年发布的一款应用程序，旨在通过视觉分析检索信息。</li>
+<li>Verizon ，美国主要的电信公司之一，主要业务为语音通话、固定宽带和无线通信。</li>
+</ul>
+
+<p><strong>相关阅读</strong></p>
+
+<p><a href="https://www.theinformation.com/articles/apple-eyes-2022-release-for-ar-headset-2023-for-glasses" rel="nofollow">The_Information：Apple Eyes 2022 Release for AR Headset, 2023 for Glasses   </a></p>
+
+<p><a href="https://36kr.com/p/5266122" rel="nofollow">硅谷早知道第三季丨S3E34：硅谷科技媒体群雄风云传  </a> </p>
+
+<p><strong>BGM</strong></p>
+
+<p>Back to the Old House - White Bones</p>
+
+<p>Nickel - Farrell Wooten</p>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>李蓉慧  *<em>嘉宾丨 *</em>张煜南</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>_（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）<br>
+_<br>
+自从2012年谷歌公布 AR 眼镜 Google Glass 以来，基于 AR/VR 的设备相继出现，这两个不同的方向总是被捆绑在一起被讨论。大公司也相继进入赛道，科技公司如Facebook 有 Oculus，微软有 HoloLens，Snapchat 有 Spectacles，MagicLeap 有 One。老牌公司的索尼有 PS4 VR，任天堂有 Switch VR 。</p>
+
+<p>究竟是 VR 还是 AR？经过一轮行业洗牌，Facebook 仍在坚持对 VR 进行投资，微软选择 VR+AR 的混合现实路线。Snapchat 的 CEO 则在最近的财报会议上公开表示，Snapchat 将在未来十年继续加码 AR。</p>
+
+<p>真正会让这个行业发生质变的因素是什么呢？不久前，苹果内部传出消息，计划在 2022 年推出一款增强现实头盔，2023 年推出一款增强现实眼镜。苹果高管十分看好 AR 设备的前景，甚至认为AR 眼镜有望在十年内替代 iPhone 需求。</p>
+
+<p>硅谷科技媒体 The Information 发布了关于这次泄密的独家报道，引起关注。本期节目我们请来了The Information 的记者 yunan , 一起聊一聊 AR/VR 、目前的技术发展瓶颈，以及苹果泄露的这款产品会不会成为下一个 iPhone。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：</p>
+
+<p>国内用户<a href="https://www.chongya.com/@shengfm" rel="nofollow"> 「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<p><strong>本期主播</strong></p>
+
+<p>李蓉慧, 原《第一财经周刊》驻硅谷记者</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>张煜南，The Information 记者</p>
+
+<p>*<em>The takeaway *</em></p>
+
+<p>在苹果还没正式发布产品之前，其他公司可能都只是在「play around」，大家还是会以苹果在做什么来对标。</p>
+
+<p>AR 眼镜的挑战主要有三部分：一部分是镜片，镜片发展不遵从摩尔定律，而是遵循物理的规律和原则；第二是算力问题；第三部分则是电池（散热）。如何能让VR 眼镜算力足够大、效果足够好、可视足够清晰，同时产品又不会非常笨重、不舒适，其实目前还挺难在中间找到一个平衡。</p>
+
+<p>Snapchat 发布他们的 AR 产品有两个目的：第一个是从内容上来说，让他们的用户觉得更有意思和参与感，从而留存的时间增长；另外是能让他们的广告主赚钱，广告更软一些，且不伤害用户体验。</p>
+
+<p>这些大公司都加入竞争还是很有意义的，这个行业还有很多没解决的问题，这些不会是某一家公司投入很多钱和人就可以得出解决方案的。因为它不太是那种只拼效率和烧钱就能得到快速发展的产业。</p>
+
+<p><strong>本期讨论的主要问题</strong></p>
+
+<ul>
+<li>苹果召开 AR/VR 的大会背景及产品方向</li>
+<li>苹果 AR/VR 产品和 iPhone 的关系</li>
+<li>现阶段 AR 眼镜遇到的问题和挑战</li>
+<li>大厂的 AR/VR 产品（Google 、Microsoft、Snapchat）</li>
+<li>创业企业的 AR/VR 产品（Magic Leap）</li>
+<li>AR/VR 行业对未来产业及消费者的影响</li>
+<li>探讨科技公司的研发周期</li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li>The Information，总部位于旧金山的数字媒体公司，订阅用户分布在 84 个国家/地区。</li>
+<li>Google Glass，Google 2012 年开发的智能眼镜，透过自然语言语音指令与互联网服务联系沟通。2015 年停止生产。2019 年 5 月发布第二代企业版谷歌眼镜，售价 999 美元。</li>
+<li>Oculus VR，从事虚拟现实硬件和软件产品的美国公司，2014 年被 Facebook 以 20 亿美元收购。产品包括：Oculus Rift S，Oculus Go 和 Oculus Quest。</li>
+<li>Microsoft Hololens，微软在 2015 年发布的混合现实头盔。主要是为企业提供混合现实解决方案，应用于建筑行业等领域，Hololens 2 企业版于 2019 年发行，售价 3500 美元。</li>
+<li>Spectacles，Snapchat 于 2016 年发布的增强现实智能眼镜。眼镜上的摄像头能记录短视频并可同步上传到用户平台。第三代产品 Spectacles 3 于 2019 年 8 月发布，售价 380 美元。</li>
+<li>Magic Leap，2010 年成立、2017 年推出旗下第一款虚拟现实头盔 Magic Leap One，售价 2295 美元。</li>
+<li>Google Lens，Google 在 2017 年发布的一款应用程序，旨在通过视觉分析检索信息。</li>
+<li>Verizon ，美国主要的电信公司之一，主要业务为语音通话、固定宽带和无线通信。</li>
+</ul>
+
+<p><strong>相关阅读</strong></p>
+
+<p><a href="https://www.theinformation.com/articles/apple-eyes-2022-release-for-ar-headset-2023-for-glasses" rel="nofollow">The_Information：Apple Eyes 2022 Release for AR Headset, 2023 for Glasses   </a></p>
+
+<p><a href="https://36kr.com/p/5266122" rel="nofollow">硅谷早知道第三季丨S3E34：硅谷科技媒体群雄风云传  </a> </p>
+
+<p><strong>BGM</strong></p>
+
+<p>Back to the Old House - White Bones</p>
+
+<p>Nickel - Farrell Wooten</p>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>软银14年来最差季度财报，硅谷同行怎么看孙正义？</title>
+      <link>http://shengfm.cn/s3e35</link>
+      <guid isPermaLink="false">57cb145b-6bd4-4e03-92a1-7d4131ea8fc5</guid>
+      <pubDate>Fri, 22 Nov 2019 11:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/57cb145b-6bd4-4e03-92a1-7d4131ea8fc5.mp3" length="32048955" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>44:14</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/5/57cb145b-6bd4-4e03-92a1-7d4131ea8fc5/cover.jpg?v=1"/>
+      <description>主播丨刘泓君  **  嘉宾丨 **陈瑜  孟瑶
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+「孙正义轮」，世界各地创业者都梦寐以求自己公司能得到这样一轮融资：这意味着前所未有充沛的资金，以及丰富的人脉资源。
+也正是因此，在募集起一支规模千亿美金的「愿景基金」后，孙正义被称为“硅谷最有权势的人”。「愿景基金」在短短三年里，投资了近 850 亿美元，投资包括 Uber、滴滴出行、Cruise、Wework 等70多家世界知名公司。这样的规模，在风险投资行业史无前例。
+但随着 Uber 股价大跌、Wework 估值从470亿美元降到80亿美元，软银二季度的财报出现了14年以来的首次季度亏损。面对这样一份难堪的业绩，孙正义不得不在发布会上公开承认，自己的投资判断力在很多方面都很差，目前正在深刻反省。
+本期节目，我们请来了两位资深投资人，聊一下神秘的软银「愿景基金」是如何运作的；以及，经历了互联网泡沫的投资教父孙正义，能否再坐上时光机，重回万人敬仰的神坛之上。
+另外「声动活泼」 (http://shengfm.cn/)正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：
+国内用户 「冲呀 」 (https://www.chongya.com/@shengfm)  ，「爱发电」 (https://afdian.net/@shengfm)
+国外用户「patreon」 (https://www.patreon.com/shengfm)
+本期主播
+刘泓君，「财经」杂志 (https://magazine.caijing.com.cn/)与「晚点LatePost」 (https://wemp.app/accounts/7dd49276-9769-47ac-92f4-a196250ae659)硅谷驻站记者
+本期嘉宾
+陈瑜（Christina Chen），「亚马逊」 创业公司业务拓展
+孟瑶， 「歌斐」硅谷投资总监
+The takeaway
+ 软银对创业企业的投资都是一亿美金，这些企业一上来就成为了独角兽，创始团队很长一段时间不需要再去融资，这很容易让创业公司放松。而且软银有个投资特点，它投了第一轮之后，接下来每轮都会加码，所以被投公司会觉得自己有铁饭碗了。
+对 CEO 来说，把一个公司从零做到一百万和从一百万做到一个亿要求完全不一样。公司的创始人很多时候不一定适合做上市后的 CEO。
+近几年硅谷的估值泡沫就是因为烧钱速度太快，没有理性。市场充斥了大量的资金，好的项目又不是随手可见，现在年轻创业者也没有经历过当年（互联网泡沫）惨痛的教训，导致当初犯过的错误现在好像又重走一遍。
+比如亚马逊，股票真正起来是到了17年，从几百块变成了几千块，在此之前股票都是缓慢增长。那现在亚马逊也不盈利，为什么能得到华尔街认可？因为把亚马逊早期投入非常大，现在的AWS云高利润业务就是在收获果实的时候。
+本期讨论的主要问题
+嘉宾对软银和愿景基金的看法
+软银投资 Wework 的问题出在哪 
+为什么投资相同的公司 Benchmark 是赚钱的 
+软银的互联网思维和烧钱换增长是否还可行
+软银对风险投资的上下游产生了哪些影响
+Wework 事件让软银走下了神坛吗
+访谈中提及名词
+Door Dash，美国外卖初创公司，从软银和红杉资本等募集到约20亿美元资金。
+Ola，印度共享出行公司，获得软银约合2.5亿美元投资。
+EBITDA，税息折旧及摊销前利润，用以计算公司经营业绩。
+S1，美国注册公司招股说明书，它包含了公司IPO所需提交的一切材料。
+Benchmark，美国风险投资公司，2011年，它投资1200万美元购买了Uber 11％的股份，2019年价值70亿美元。
+彼得·蒂尔(Peter Thiel），PayPal创始人，《从0到1》的作者。
+光速创投（Lightspeed Venture Partners），一家美国风险投资公司，致力于早期投资。投资企业包括Snapchat，DoubleClick，AppDynamics等。
+Founders fund，一家美国风险投资公司。投资企业包括Airbnb，Lyft，Spotify等。
+玛丽·米克（Mary Meeker），美国风险资本家，曾任华尔街证券分析师，Bond Capital 的创始人。
+凯鹏华盈（KPCB），1972年创立的美国风险投资公司，投资企业包括美国在线、亚马逊、谷歌等。
+亚马逊AWS，亚马逊2006年推出的专业云计算服务，以Web服务的形式向企业提供IT基础设施服务。
+相关阅读
+到海外去 | S1E17 时光机理论有时会不灵吗？ (https://36kr.com/p/5263631)
+买不起的孙正义：谁能消化软银的大体量资本游戏？ |《财经》封面 (https://mp.weixin.qq.com/s/yNnv1jMeCnMhwv18zSiQdQ)
+BGM
+Back to the Old House - White Bones
+I Feel Changes - Dvine
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>孙正义，远景基金，基金，风投，VC，软银</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君  **  嘉宾丨 **陈瑜  孟瑶</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>「孙正义轮」，世界各地创业者都梦寐以求自己公司能得到这样一轮融资：这意味着前所未有充沛的资金，以及丰富的人脉资源。</p>
+
+<p>也正是因此，在募集起一支规模千亿美金的「愿景基金」后，孙正义被称为“硅谷最有权势的人”。「愿景基金」在短短三年里，投资了近 850 亿美元，投资包括 Uber、滴滴出行、Cruise、Wework 等70多家世界知名公司。这样的规模，在风险投资行业史无前例。</p>
+
+<p>但随着 Uber 股价大跌、Wework 估值从470亿美元降到80亿美元，软银二季度的财报出现了14年以来的首次季度亏损。面对这样一份难堪的业绩，孙正义不得不在发布会上公开承认，自己的投资判断力在很多方面都很差，目前正在深刻反省。</p>
+
+<p>本期节目，我们请来了两位资深投资人，聊一下神秘的软银「愿景基金」是如何运作的；以及，经历了互联网泡沫的投资教父孙正义，能否再坐上时光机，重回万人敬仰的神坛之上。</p>
+
+<p>另外<a href="http://shengfm.cn/" rel="nofollow">「声动活泼」</a>正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>刘泓君，<a href="https://magazine.caijing.com.cn/" rel="nofollow">「财经」杂志</a>与<a href="https://wemp.app/accounts/7dd49276-9769-47ac-92f4-a196250ae659" rel="nofollow">「晚点LatePost」</a>硅谷驻站记者</p>
+
+<h3>本期嘉宾</h3>
+
+<p>陈瑜（Christina Chen），「亚马逊」 创业公司业务拓展</p>
+
+<p>孟瑶， 「歌斐」硅谷投资总监</p>
+
+<h3>The takeaway</h3>
+
+<p>软银对创业企业的投资都是一亿美金，这些企业一上来就成为了独角兽，创始团队很长一段时间不需要再去融资，这很容易让创业公司放松。而且软银有个投资特点，它投了第一轮之后，接下来每轮都会加码，所以被投公司会觉得自己有铁饭碗了。</p>
+
+<p>对 CEO 来说，把一个公司从零做到一百万和从一百万做到一个亿要求完全不一样。公司的创始人很多时候不一定适合做上市后的 CEO。</p>
+
+<p>近几年硅谷的估值泡沫就是因为烧钱速度太快，没有理性。市场充斥了大量的资金，好的项目又不是随手可见，现在年轻创业者也没有经历过当年（互联网泡沫）惨痛的教训，导致当初犯过的错误现在好像又重走一遍。</p>
+
+<p>比如亚马逊，股票真正起来是到了17年，从几百块变成了几千块，在此之前股票都是缓慢增长。那现在亚马逊也不盈利，为什么能得到华尔街认可？因为把亚马逊早期投入非常大，现在的AWS云高利润业务就是在收获果实的时候。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>嘉宾对软银和愿景基金的看法</li>
+<li>软银投资 Wework 的问题出在哪 </li>
+<li>为什么投资相同的公司 Benchmark 是赚钱的 </li>
+<li>软银的互联网思维和烧钱换增长是否还可行</li>
+<li>软银对风险投资的上下游产生了哪些影响</li>
+<li>Wework 事件让软银走下了神坛吗</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li>Door Dash，美国外卖初创公司，从软银和红杉资本等募集到约20亿美元资金。</li>
+<li>Ola，印度共享出行公司，获得软银约合2.5亿美元投资。</li>
+<li>EBITDA，税息折旧及摊销前利润，用以计算公司经营业绩。</li>
+<li>S1，美国注册公司招股说明书，它包含了公司IPO所需提交的一切材料。</li>
+<li>Benchmark，美国风险投资公司，2011年，它投资1200万美元购买了Uber 11％的股份，2019年价值70亿美元。</li>
+<li>彼得·蒂尔(Peter Thiel），PayPal创始人，《从0到1》的作者。</li>
+<li>光速创投（Lightspeed Venture Partners），一家美国风险投资公司，致力于早期投资。投资企业包括Snapchat，DoubleClick，AppDynamics等。</li>
+<li>Founders fund，一家美国风险投资公司。投资企业包括Airbnb，Lyft，Spotify等。</li>
+<li>玛丽·米克（Mary Meeker），美国风险资本家，曾任华尔街证券分析师，Bond Capital 的创始人。</li>
+<li>凯鹏华盈（KPCB），1972年创立的美国风险投资公司，投资企业包括美国在线、亚马逊、谷歌等。</li>
+<li>亚马逊AWS，亚马逊2006年推出的专业云计算服务，以Web服务的形式向企业提供IT基础设施服务。</li>
+</ul>
+
+<h3>相关阅读</h3>
+
+<ul>
+<li><a href="https://36kr.com/p/5263631" rel="nofollow">到海外去 | S1E17 时光机理论有时会不灵吗？</a></li>
+<li><a href="https://mp.weixin.qq.com/s/yNnv1jMeCnMhwv18zSiQdQ" rel="nofollow">买不起的孙正义：谁能消化软银的大体量资本游戏？ |《财经》封面</a></li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>I Feel Changes - Dvine</li>
+</ul>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君  **  嘉宾丨 **陈瑜  孟瑶</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>「孙正义轮」，世界各地创业者都梦寐以求自己公司能得到这样一轮融资：这意味着前所未有充沛的资金，以及丰富的人脉资源。</p>
+
+<p>也正是因此，在募集起一支规模千亿美金的「愿景基金」后，孙正义被称为“硅谷最有权势的人”。「愿景基金」在短短三年里，投资了近 850 亿美元，投资包括 Uber、滴滴出行、Cruise、Wework 等70多家世界知名公司。这样的规模，在风险投资行业史无前例。</p>
+
+<p>但随着 Uber 股价大跌、Wework 估值从470亿美元降到80亿美元，软银二季度的财报出现了14年以来的首次季度亏损。面对这样一份难堪的业绩，孙正义不得不在发布会上公开承认，自己的投资判断力在很多方面都很差，目前正在深刻反省。</p>
+
+<p>本期节目，我们请来了两位资深投资人，聊一下神秘的软银「愿景基金」是如何运作的；以及，经历了互联网泡沫的投资教父孙正义，能否再坐上时光机，重回万人敬仰的神坛之上。</p>
+
+<p>另外<a href="http://shengfm.cn/" rel="nofollow">「声动活泼」</a>正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo：</p>
+
+<p>国内用户 <a href="https://www.chongya.com/@shengfm" rel="nofollow">「冲呀 」</a>  ，<a href="https://afdian.net/@shengfm" rel="nofollow">「爱发电」</a></p>
+
+<p>国外用户<a href="https://www.patreon.com/shengfm" rel="nofollow">「patreon」</a></p>
+
+<h3>本期主播</h3>
+
+<p>刘泓君，<a href="https://magazine.caijing.com.cn/" rel="nofollow">「财经」杂志</a>与<a href="https://wemp.app/accounts/7dd49276-9769-47ac-92f4-a196250ae659" rel="nofollow">「晚点LatePost」</a>硅谷驻站记者</p>
+
+<h3>本期嘉宾</h3>
+
+<p>陈瑜（Christina Chen），「亚马逊」 创业公司业务拓展</p>
+
+<p>孟瑶， 「歌斐」硅谷投资总监</p>
+
+<h3>The takeaway</h3>
+
+<p>软银对创业企业的投资都是一亿美金，这些企业一上来就成为了独角兽，创始团队很长一段时间不需要再去融资，这很容易让创业公司放松。而且软银有个投资特点，它投了第一轮之后，接下来每轮都会加码，所以被投公司会觉得自己有铁饭碗了。</p>
+
+<p>对 CEO 来说，把一个公司从零做到一百万和从一百万做到一个亿要求完全不一样。公司的创始人很多时候不一定适合做上市后的 CEO。</p>
+
+<p>近几年硅谷的估值泡沫就是因为烧钱速度太快，没有理性。市场充斥了大量的资金，好的项目又不是随手可见，现在年轻创业者也没有经历过当年（互联网泡沫）惨痛的教训，导致当初犯过的错误现在好像又重走一遍。</p>
+
+<p>比如亚马逊，股票真正起来是到了17年，从几百块变成了几千块，在此之前股票都是缓慢增长。那现在亚马逊也不盈利，为什么能得到华尔街认可？因为把亚马逊早期投入非常大，现在的AWS云高利润业务就是在收获果实的时候。</p>
+
+<h3>本期讨论的主要问题</h3>
+
+<ul>
+<li>嘉宾对软银和愿景基金的看法</li>
+<li>软银投资 Wework 的问题出在哪 </li>
+<li>为什么投资相同的公司 Benchmark 是赚钱的 </li>
+<li>软银的互联网思维和烧钱换增长是否还可行</li>
+<li>软银对风险投资的上下游产生了哪些影响</li>
+<li>Wework 事件让软银走下了神坛吗</li>
+</ul>
+
+<h3>访谈中提及名词</h3>
+
+<ul>
+<li>Door Dash，美国外卖初创公司，从软银和红杉资本等募集到约20亿美元资金。</li>
+<li>Ola，印度共享出行公司，获得软银约合2.5亿美元投资。</li>
+<li>EBITDA，税息折旧及摊销前利润，用以计算公司经营业绩。</li>
+<li>S1，美国注册公司招股说明书，它包含了公司IPO所需提交的一切材料。</li>
+<li>Benchmark，美国风险投资公司，2011年，它投资1200万美元购买了Uber 11％的股份，2019年价值70亿美元。</li>
+<li>彼得·蒂尔(Peter Thiel），PayPal创始人，《从0到1》的作者。</li>
+<li>光速创投（Lightspeed Venture Partners），一家美国风险投资公司，致力于早期投资。投资企业包括Snapchat，DoubleClick，AppDynamics等。</li>
+<li>Founders fund，一家美国风险投资公司。投资企业包括Airbnb，Lyft，Spotify等。</li>
+<li>玛丽·米克（Mary Meeker），美国风险资本家，曾任华尔街证券分析师，Bond Capital 的创始人。</li>
+<li>凯鹏华盈（KPCB），1972年创立的美国风险投资公司，投资企业包括美国在线、亚马逊、谷歌等。</li>
+<li>亚马逊AWS，亚马逊2006年推出的专业云计算服务，以Web服务的形式向企业提供IT基础设施服务。</li>
+</ul>
+
+<h3>相关阅读</h3>
+
+<ul>
+<li><a href="https://36kr.com/p/5263631" rel="nofollow">到海外去 | S1E17 时光机理论有时会不灵吗？</a></li>
+<li><a href="https://mp.weixin.qq.com/s/yNnv1jMeCnMhwv18zSiQdQ" rel="nofollow">买不起的孙正义：谁能消化软银的大体量资本游戏？ |《财经》封面</a></li>
+</ul>
+
+<h3>BGM</h3>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>I Feel Changes - Dvine</li>
+</ul>
+
+<p>微博：@声动活泼</p>
+
+<p>微信公众号：@声动活泼 </p>
+
+<p>网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>硅谷科技媒体群雄风云传</title>
+      <link>http://shengfm.cn/s3e34</link>
+      <guid isPermaLink="false">6c8c95aa-f915-46bb-b696-656efee7c085</guid>
+      <pubDate>Fri, 15 Nov 2019 13:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/6c8c95aa-f915-46bb-b696-656efee7c085.mp3" length="56908675" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>一切都在变，科技媒体亦是如此。</itunes:subtitle>
+      <itunes:duration>59:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/6/6c8c95aa-f915-46bb-b696-656efee7c085/cover.jpg?v=2"/>
+      <description>主播丨李蓉慧   嘉宾丨肖旭 
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）
+如果说 36 氪的上市只是一个微观事件，那么从宏观角度看待科技媒体近二十多年内的风起云涌其实更加有趣。
+本期由两个有硅谷驻站经验的记者，为大家梳理了这二十多年的硅谷互联网媒体史：在互联网和移动互联网的浪潮下，硅谷科技媒体如何顺势而起，遇到哪些问题，作出何种反应，又如何起起落落。
+我们希望通过这样的历史梳理，让你更多一层了解美国的科技行业，硅谷的创投生态环境，以及新闻媒体在这个环境中的独特作用。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 shengfm1 咨询，或者点击下方链接直接支持我们并解锁第一期demo。
+国内用户 「冲呀 」https://www.chongya.com/@shengfm
+国内用户「爱发电」https://afdian.net/@shengfm
+国外用户「patreon」https://www.patreon.com/shengfm
+本期主播
+李蓉慧, 原「第一财经周刊」驻硅谷记者
+本期嘉宾
+ 肖旭（Vicky）,品玩旗下硅星人负责人
+The Takeaway
+硅谷的科技媒体大概可以分为四个时期：第一个是以莫博士为代表的硬件测评开创时期；之后是科技媒体创业的全盛时代；第三是洗牌和深度报道被推崇的时期；最后是政治科技不分家、新的内容传播方式兴起。
+本期讨论的主要问题有：
+* 早期科技媒体时期（莫博士、《连线》杂志）
+* 最有代表的科技媒体探讨（The Verge、Techmeme ）
+* 全盛媒体时期的媒体探讨及问题（TechCrunch）
+* 深度报道时代（BuzzFeed 、华尔街日报）
+* 政治科技报道及硅星人的相关报道
+* 新的科技媒体形式（播客、YouTuber）
+访谈中提及名词
+* Walter Mossberg，昵称莫博士，曾是《华尔街日报》首席技术专栏作家，联合创立《华尔街日报》的科技板块 AllThingsD，后创办 Recode 网站，2017 年 4 月宣布退休。 
+* WIRED，《连线》杂志，创刊于 1993 年。隶属于美国传媒巨头康泰纳仕集团。2006 年时任主编 Chris Anderson 提出的长尾理论集结成书。《连线》一直以报道科技对生活影响出名。
+* Techmeme ，美国知名科技新闻和博客聚合网站，其科技文章主要来自科技公司的官方网站、媒体和科技博客，通过分析当日新闻的热门和重要程度组织内容，以一个话题的多方报道为一个内容集合的方式呈现。
+* All Things Digital Conference ，《华尔街日报》主办的数字大会，2007 年，苹果创始人史蒂夫·乔布斯与微软创始人比尔·盖茨首次（也是唯一一次）同台讨论微软与苹果的发展状况。 
+* TechCrunch ，美国科技类博客，由 Michael Arrington 建立，2010 年宣布以 2500 万美元的价格出售给美国在线（AOL），TechCrunch Disrupt 是其每年举办的行业会议。crunchbase.com 是从 TechCrunch 剥离出来的数据检索和服务业务。 
+* Sarah Lacy，美国科技记者和作家，曾在 Business Week 和 TechCrunch 担任记者，2011 年创办科技博客网站 PandoDaily（后改名 Pando），曾多次批评硅谷科技公司里的「兄弟会文化」，2019 年宣布出售。 
+* The Verge，成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。与 Vox Media 同属一个公司，Recode 被收购后内容并入 The Verge。 
+* Recode，成立于 2014 年的科技博客，由《华尔街日报》旗下科技博客 AllthingsD 的核心团队创办，包括莫博士，Kara Swisher。首轮融资估值达 2000万-3000 万美元，2015 年宣布被 Vox Media 收购。 
+* Kara Swisher，与莫博士一起在 AllthingsD 工作后创办 Recode，Recode 出售给 Vox Media 之后，目前主要为《纽约时报》撰写科技评论，制作播客节目「Recode Decode」等。 
+* GigaOm，由 Om Malik 创立于 2006 年，专注报道科技行业和举办活动。2015 年停止运营，保留数据服务业务。Om Malik 目前是 The New Yorker 专栏作家，投资人。 
+* BuzzFeed，2006 年由 Jonah Peretti  创办的新闻聚合网站，从数百个新闻博客获取订阅源，便于用户浏览当天网上的最热门事件。2011 年邀请时政报道编辑 Ben Smith 加入组建深度报道团队，2018 年其国际报道获得新闻行业最高奖普利策奖提名。 
+* John Carreyou，《华尔街日报》记者，2015 年发布揭露硅谷创业公司 Theranos 骗局的报道，后被拍摄成纪录片、整理成书（中文版书名《坏血》）。 
+* The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。2016 年开设驻香港办公室，相对更关注中国创业公司和生态的报道。 
+* Stratechery，Ben Thompson 创办于 2014 年。Ben Thompson 曾在苹果、微软工作，后撰写硅谷公司的商业分析汇集成博客，分免费版和会员付费版，目前除了文字还制作播客节目 Exponent。
+相关节目
+一路晋升到c-level！这名华人如何在美国打造爆款媒体？上 (https://36kr.com/p/5245438) 下 (https://36kr.com/p/5245879)
+BGM
+* Back to the Old House - White Bones
+* Get to Know You- Cody Francis
+* At the End of It-Donell Mase
+原创文章，作者：「声动活泼」。
+微博：@声动活泼
+微信公众号：@声动活泼 
+网站：shengfm.cn 
+</description>
+      <itunes:keywords>科技媒体,传媒,媒体,硅谷,深度报道,莫博士,硅谷媒体</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>李蓉慧   <strong>嘉宾丨</strong>肖旭 </p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p><em>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</em></p>
+
+<p>如果说 36 氪的上市只是一个微观事件，那么从宏观角度看待科技媒体近二十多年内的风起云涌其实更加有趣。</p>
+
+<p>本期由两个有硅谷驻站经验的记者，为大家梳理了这二十多年的硅谷互联网媒体史：在互联网和移动互联网的浪潮下，硅谷科技媒体如何顺势而起，遇到哪些问题，作出何种反应，又如何起起落落。</p>
+
+<p>我们希望通过这样的历史梳理，让你更多一层了解美国的科技行业，硅谷的创投生态环境，以及新闻媒体在这个环境中的独特作用。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 <strong>shengfm1</strong> 咨询，或者点击下方链接直接支持我们并解锁第一期demo。</p>
+
+<p>国内用户 「冲呀 」<a href="https://www.chongya.com/@shengfm" rel="nofollow">https://www.chongya.com/@shengfm</a></p>
+
+<p>国内用户「爱发电」<a href="https://afdian.net/@shengfm" rel="nofollow">https://afdian.net/@shengfm</a></p>
+
+<p>国外用户「patreon」<a href="https://www.patreon.com/shengfm" rel="nofollow">https://www.patreon.com/shengfm</a></p>
+
+<p><strong>本期主播</strong><br>
+李蓉慧, 原「第一财经周刊」驻硅谷记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+ 肖旭（Vicky）,品玩旗下硅星人负责人</p>
+
+<p><strong>The Takeaway</strong><br>
+硅谷的科技媒体大概可以分为四个时期：第一个是以莫博士为代表的硬件测评开创时期；之后是科技媒体创业的全盛时代；第三是洗牌和深度报道被推崇的时期；最后是政治科技不分家、新的内容传播方式兴起。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li>早期科技媒体时期（莫博士、《连线》杂志）</li>
+<li>最有代表的科技媒体探讨（The Verge、Techmeme ）</li>
+<li>全盛媒体时期的媒体探讨及问题（TechCrunch）</li>
+<li>深度报道时代（BuzzFeed 、华尔街日报）</li>
+<li>政治科技报道及硅星人的相关报道</li>
+<li>新的科技媒体形式（播客、YouTuber）</li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li>Walter Mossberg，昵称莫博士，曾是《华尔街日报》首席技术专栏作家，联合创立《华尔街日报》的科技板块 AllThingsD，后创办 Recode 网站，2017 年 4 月宣布退休。 </li>
+<li>WIRED，《连线》杂志，创刊于 1993 年。隶属于美国传媒巨头康泰纳仕集团。2006 年时任主编 Chris Anderson 提出的长尾理论集结成书。《连线》一直以报道科技对生活影响出名。</li>
+<li>Techmeme ，美国知名科技新闻和博客聚合网站，其科技文章主要来自科技公司的官方网站、媒体和科技博客，通过分析当日新闻的热门和重要程度组织内容，以一个话题的多方报道为一个内容集合的方式呈现。</li>
+<li>All Things Digital Conference ，《华尔街日报》主办的数字大会，2007 年，苹果创始人史蒂夫·乔布斯与微软创始人比尔·盖茨首次（也是唯一一次）同台讨论微软与苹果的发展状况。 </li>
+<li>TechCrunch ，美国科技类博客，由 Michael Arrington 建立，2010 年宣布以 2500 万美元的价格出售给美国在线（AOL），TechCrunch Disrupt 是其每年举办的行业会议。crunchbase.com 是从 TechCrunch 剥离出来的数据检索和服务业务。 </li>
+<li>Sarah Lacy，美国科技记者和作家，曾在 Business Week 和 TechCrunch 担任记者，2011 年创办科技博客网站 PandoDaily（后改名 Pando），曾多次批评硅谷科技公司里的「兄弟会文化」，2019 年宣布出售。 </li>
+<li>The Verge，成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。与 Vox Media 同属一个公司，Recode 被收购后内容并入 The Verge。 </li>
+<li>Recode，成立于 2014 年的科技博客，由《华尔街日报》旗下科技博客 AllthingsD 的核心团队创办，包括莫博士，Kara Swisher。首轮融资估值达 2000万-3000 万美元，2015 年宣布被 Vox Media 收购。 </li>
+<li>Kara Swisher，与莫博士一起在 AllthingsD 工作后创办 Recode，Recode 出售给 Vox Media 之后，目前主要为《纽约时报》撰写科技评论，制作播客节目「Recode Decode」等。 </li>
+<li>GigaOm，由 Om Malik 创立于 2006 年，专注报道科技行业和举办活动。2015 年停止运营，保留数据服务业务。Om Malik 目前是 The New Yorker 专栏作家，投资人。 </li>
+<li>BuzzFeed，2006 年由 Jonah Peretti  创办的新闻聚合网站，从数百个新闻博客获取订阅源，便于用户浏览当天网上的最热门事件。2011 年邀请时政报道编辑 Ben Smith 加入组建深度报道团队，2018 年其国际报道获得新闻行业最高奖普利策奖提名。 </li>
+<li>John Carreyou，《华尔街日报》记者，2015 年发布揭露硅谷创业公司 Theranos 骗局的报道，后被拍摄成纪录片、整理成书（中文版书名《坏血》）。 </li>
+<li>The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。2016 年开设驻香港办公室，相对更关注中国创业公司和生态的报道。 </li>
+<li>Stratechery，Ben Thompson 创办于 2014 年。Ben Thompson 曾在苹果、微软工作，后撰写硅谷公司的商业分析汇集成博客，分免费版和会员付费版，目前除了文字还制作播客节目 Exponent。</li>
+</ul>
+
+<p><strong>相关节目</strong><br>
+一路晋升到c-level！这名华人如何在美国打造爆款媒体？<a href="https://36kr.com/p/5245438" rel="nofollow">上</a> <a href="https://36kr.com/p/5245879" rel="nofollow">下</a></p>
+
+<p><strong>BGM</strong></p>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>Get to Know You- Cody Francis</li>
+<li>At the End of It-Donell Mase</li>
+</ul>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>李蓉慧   <strong>嘉宾丨</strong>肖旭 </p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p><em>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</em></p>
+
+<p>如果说 36 氪的上市只是一个微观事件，那么从宏观角度看待科技媒体近二十多年内的风起云涌其实更加有趣。</p>
+
+<p>本期由两个有硅谷驻站经验的记者，为大家梳理了这二十多年的硅谷互联网媒体史：在互联网和移动互联网的浪潮下，硅谷科技媒体如何顺势而起，遇到哪些问题，作出何种反应，又如何起起落落。</p>
+
+<p>我们希望通过这样的历史梳理，让你更多一层了解美国的科技行业，硅谷的创投生态环境，以及新闻媒体在这个环境中的独特作用。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，大家可以添加添加我们小助手「声小音」的微信 <strong>shengfm1</strong> 咨询，或者点击下方链接直接支持我们并解锁第一期demo。</p>
+
+<p>国内用户 「冲呀 」<a href="https://www.chongya.com/@shengfm" rel="nofollow">https://www.chongya.com/@shengfm</a></p>
+
+<p>国内用户「爱发电」<a href="https://afdian.net/@shengfm" rel="nofollow">https://afdian.net/@shengfm</a></p>
+
+<p>国外用户「patreon」<a href="https://www.patreon.com/shengfm" rel="nofollow">https://www.patreon.com/shengfm</a></p>
+
+<p><strong>本期主播</strong><br>
+李蓉慧, 原「第一财经周刊」驻硅谷记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+ 肖旭（Vicky）,品玩旗下硅星人负责人</p>
+
+<p><strong>The Takeaway</strong><br>
+硅谷的科技媒体大概可以分为四个时期：第一个是以莫博士为代表的硬件测评开创时期；之后是科技媒体创业的全盛时代；第三是洗牌和深度报道被推崇的时期；最后是政治科技不分家、新的内容传播方式兴起。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li>早期科技媒体时期（莫博士、《连线》杂志）</li>
+<li>最有代表的科技媒体探讨（The Verge、Techmeme ）</li>
+<li>全盛媒体时期的媒体探讨及问题（TechCrunch）</li>
+<li>深度报道时代（BuzzFeed 、华尔街日报）</li>
+<li>政治科技报道及硅星人的相关报道</li>
+<li>新的科技媒体形式（播客、YouTuber）</li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li>Walter Mossberg，昵称莫博士，曾是《华尔街日报》首席技术专栏作家，联合创立《华尔街日报》的科技板块 AllThingsD，后创办 Recode 网站，2017 年 4 月宣布退休。 </li>
+<li>WIRED，《连线》杂志，创刊于 1993 年。隶属于美国传媒巨头康泰纳仕集团。2006 年时任主编 Chris Anderson 提出的长尾理论集结成书。《连线》一直以报道科技对生活影响出名。</li>
+<li>Techmeme ，美国知名科技新闻和博客聚合网站，其科技文章主要来自科技公司的官方网站、媒体和科技博客，通过分析当日新闻的热门和重要程度组织内容，以一个话题的多方报道为一个内容集合的方式呈现。</li>
+<li>All Things Digital Conference ，《华尔街日报》主办的数字大会，2007 年，苹果创始人史蒂夫·乔布斯与微软创始人比尔·盖茨首次（也是唯一一次）同台讨论微软与苹果的发展状况。 </li>
+<li>TechCrunch ，美国科技类博客，由 Michael Arrington 建立，2010 年宣布以 2500 万美元的价格出售给美国在线（AOL），TechCrunch Disrupt 是其每年举办的行业会议。crunchbase.com 是从 TechCrunch 剥离出来的数据检索和服务业务。 </li>
+<li>Sarah Lacy，美国科技记者和作家，曾在 Business Week 和 TechCrunch 担任记者，2011 年创办科技博客网站 PandoDaily（后改名 Pando），曾多次批评硅谷科技公司里的「兄弟会文化」，2019 年宣布出售。 </li>
+<li>The Verge，成立于 2011 的一家美国科技媒体网站，提供新闻、产品评论、播客、视频等内容。与 Vox Media 同属一个公司，Recode 被收购后内容并入 The Verge。 </li>
+<li>Recode，成立于 2014 年的科技博客，由《华尔街日报》旗下科技博客 AllthingsD 的核心团队创办，包括莫博士，Kara Swisher。首轮融资估值达 2000万-3000 万美元，2015 年宣布被 Vox Media 收购。 </li>
+<li>Kara Swisher，与莫博士一起在 AllthingsD 工作后创办 Recode，Recode 出售给 Vox Media 之后，目前主要为《纽约时报》撰写科技评论，制作播客节目「Recode Decode」等。 </li>
+<li>GigaOm，由 Om Malik 创立于 2006 年，专注报道科技行业和举办活动。2015 年停止运营，保留数据服务业务。Om Malik 目前是 The New Yorker 专栏作家，投资人。 </li>
+<li>BuzzFeed，2006 年由 Jonah Peretti  创办的新闻聚合网站，从数百个新闻博客获取订阅源，便于用户浏览当天网上的最热门事件。2011 年邀请时政报道编辑 Ben Smith 加入组建深度报道团队，2018 年其国际报道获得新闻行业最高奖普利策奖提名。 </li>
+<li>John Carreyou，《华尔街日报》记者，2015 年发布揭露硅谷创业公司 Theranos 骗局的报道，后被拍摄成纪录片、整理成书（中文版书名《坏血》）。 </li>
+<li>The Information，2013 年由前《华尔街日报》记者 Jessica Lessin 创办，采用会员付费模式。2016 年开设驻香港办公室，相对更关注中国创业公司和生态的报道。 </li>
+<li>Stratechery，Ben Thompson 创办于 2014 年。Ben Thompson 曾在苹果、微软工作，后撰写硅谷公司的商业分析汇集成博客，分免费版和会员付费版，目前除了文字还制作播客节目 Exponent。</li>
+</ul>
+
+<p><strong>相关节目</strong><br>
+一路晋升到c-level！这名华人如何在美国打造爆款媒体？<a href="https://36kr.com/p/5245438" rel="nofollow">上</a> <a href="https://36kr.com/p/5245879" rel="nofollow">下</a></p>
+
+<p><strong>BGM</strong></p>
+
+<ul>
+<li>Back to the Old House - White Bones</li>
+<li>Get to Know You- Cody Francis</li>
+<li>At the End of It-Donell Mase</li>
+</ul>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<p>微博：@声动活泼<br>
+微信公众号：@声动活泼 <br>
+网站：shengfm.cn</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>第三季线下特别版丨S3E33：逃避、冥想、看心理医生，究竟如何应对职场压力</title>
+      <link>http://shengfm.cn/s3e33</link>
+      <guid isPermaLink="false">66352bc2-7020-4c43-b72c-b5019a0627cc</guid>
+      <pubDate>Fri, 08 Nov 2019 11:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/66352bc2-7020-4c43-b72c-b5019a0627cc.mp3" length="48614859" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>硅谷早知道线下活动特别版 Sheng Talk</itunes:subtitle>
+      <itunes:duration>50:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/6/66352bc2-7020-4c43-b72c-b5019a0627cc/cover.jpg?v=2"/>
+      <description>主播丨丁教  ** 嘉宾丨**马睿、Garry、现场听众
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）
+不久前，「硅谷早知道」做了一期关于Facebook员工因为工作压力结束生命的节目，之后我们策划了一场和职场压力相关的线下活动「 Sheng Talk」。本期节目就是根据这次旧金山活动的现场录音制作。现场我们请来了2位嘉宾，从心理学和人力资源行业两个角度来讨论：如何应对职场压力。
+如果你想参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。
+另外「声动活泼」正在筹划新一档播客节目 ——「反潮流俱乐部」。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，我们正在向全球征集111个支持者，如果你感兴趣，可以在下面三个众筹平台上支持我们，并能获得相应的权益。
+国内用户 「冲呀 」https://www.chongya.com/@shengfm
+国内用户「爱发电」https://afdian.net/@shengfm
+国外用户「patreon」https://www.patreon.com/shengfm
+本期主播
+徐涛,「声动活泼」创始人/制作人
+本期嘉宾
+马睿，「TechBuzz China」主播，哈佛心理学硕士
+Gary Xie，「FlyHigh Group,Inc」创始人兼 CEO，美国富兰克林教育基金会董事，香港金诺投资公司合伙人
+The Takeaway：
+在减压方面，有一些科学已经证明比较有效的方式我个人也喜欢：第一是冥想，有些人可以做到连续几十个小时冥想；第二是有氧运动，如长跑、游泳；第三是写作，比如写日记。
+在遇到压力时，如果你不能排遣，又对自己很严厉，那就是给自己双重压力。解决方案可以是把自己视为自己最好的朋友。比如问自己，如果我今天不舒服，躺在床上想多睡半个小时，你最好的朋友会怎么说？她肯定不会说：懒猪起来，你为什么还睡。她会说：再睡半个小时吧没有问题。所以，试一试把自己当成自己最好的朋友，这是一个简单、有用的方式。
+本期讨论的主要问题有：
+压力特别大的时候如何度过
+日常减压的方式分享
+在海外工作如何避免职场压迫
+访谈中提及名词：
+H1B，美国最主要的工作签证类别，它主要发放给美国公司雇佣的-外国籍-有专业技能的员工，持有H1B签证者可以在美国工作三年，然后可以再延长三年，6年期满后如果签证持有者的身份还没有转化（绿卡），就必须离开美国。
+相关节目
+硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个「美国工厂」？ (https://36kr.com/p/5254129)
+在海外如何招人?我们聊聊出海公司们踩过的坑和蹚出的经验 (http://chuhai.co/5)
+原创文章，作者：「声动活泼」。 
+</description>
+      <itunes:keywords>硅谷早知道, ShengTalk, 职场压力</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>丁教  ** 嘉宾丨**马睿、Garry、现场听众</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>不久前，「硅谷早知道」做了一期关于Facebook员工因为工作压力结束生命的节目，之后我们策划了一场和职场压力相关的线下活动「 Sheng Talk」。本期节目就是根据这次旧金山活动的现场录音制作。现场我们请来了2位嘉宾，从心理学和人力资源行业两个角度来讨论：如何应对职场压力。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手<strong>「声小音」</strong>的微信 <strong>shengfm1</strong> ，加入「硅谷早知道」听众群。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——<strong>「反潮流俱乐部」</strong>。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，我们正在向全球征集111个支持者，如果你感兴趣，可以在下面三个众筹平台上支持我们，并能获得相应的权益。</p>
+
+<ul>
+<li>国内用户 「冲呀 」<a href="https://www.chongya.com/@shengfm" rel="nofollow">https://www.chongya.com/@shengfm</a></li>
+<li>国内用户「爱发电」<a href="https://afdian.net/@shengfm" rel="nofollow">https://afdian.net/@shengfm</a></li>
+<li>国外用户「patreon」<a href="https://www.patreon.com/shengfm" rel="nofollow">https://www.patreon.com/shengfm</a></li>
+</ul>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>马睿，「TechBuzz China」主播，哈佛心理学硕士</p>
+
+<p>Gary Xie，「FlyHigh Group,Inc」创始人兼 CEO，美国富兰克林教育基金会董事，香港金诺投资公司合伙人</p>
+
+<p><strong>The Takeaway：</strong></p>
+
+<p>在减压方面，有一些科学已经证明比较有效的方式我个人也喜欢：第一是冥想，有些人可以做到连续几十个小时冥想；第二是有氧运动，如长跑、游泳；第三是写作，比如写日记。</p>
+
+<p>在遇到压力时，如果你不能排遣，又对自己很严厉，那就是给自己双重压力。解决方案可以是把自己视为自己最好的朋友。比如问自己，如果我今天不舒服，躺在床上想多睡半个小时，你最好的朋友会怎么说？她肯定不会说：懒猪起来，你为什么还睡。她会说：再睡半个小时吧没有问题。所以，试一试把自己当成自己最好的朋友，这是一个简单、有用的方式。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li>压力特别大的时候如何度过</li>
+<li>日常减压的方式分享</li>
+<li>在海外工作如何避免职场压迫</li>
+</ul>
+
+<p><strong>访谈中提及名词：</strong></p>
+
+<p>H1B，美国最主要的工作签证类别，它主要发放给美国公司雇佣的-外国籍-有专业技能的员工，持有H1B签证者可以在美国工作三年，然后可以再延长三年，6年期满后如果签证持有者的身份还没有转化（绿卡），就必须离开美国。</p>
+
+<p><strong>相关节目</strong></p>
+
+<p><a href="https://36kr.com/p/5254129" rel="nofollow">硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个「美国工厂」？</a></p>
+
+<p><a href="http://chuhai.co/5" rel="nofollow">在海外如何招人?我们聊聊出海公司们踩过的坑和蹚出的经验</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>丁教  ** 嘉宾丨**马睿、Garry、现场听众</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>不久前，「硅谷早知道」做了一期关于Facebook员工因为工作压力结束生命的节目，之后我们策划了一场和职场压力相关的线下活动「 Sheng Talk」。本期节目就是根据这次旧金山活动的现场录音制作。现场我们请来了2位嘉宾，从心理学和人力资源行业两个角度来讨论：如何应对职场压力。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手<strong>「声小音」</strong>的微信 <strong>shengfm1</strong> ，加入「硅谷早知道」听众群。</p>
+
+<p>另外「声动活泼」正在筹划新一档播客节目 ——<strong>「反潮流俱乐部」</strong>。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，我们正在向全球征集111个支持者，如果你感兴趣，可以在下面三个众筹平台上支持我们，并能获得相应的权益。</p>
+
+<ul>
+<li>国内用户 「冲呀 」<a href="https://www.chongya.com/@shengfm" rel="nofollow">https://www.chongya.com/@shengfm</a></li>
+<li>国内用户「爱发电」<a href="https://afdian.net/@shengfm" rel="nofollow">https://afdian.net/@shengfm</a></li>
+<li>国外用户「patreon」<a href="https://www.patreon.com/shengfm" rel="nofollow">https://www.patreon.com/shengfm</a></li>
+</ul>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>马睿，「TechBuzz China」主播，哈佛心理学硕士</p>
+
+<p>Gary Xie，「FlyHigh Group,Inc」创始人兼 CEO，美国富兰克林教育基金会董事，香港金诺投资公司合伙人</p>
+
+<p><strong>The Takeaway：</strong></p>
+
+<p>在减压方面，有一些科学已经证明比较有效的方式我个人也喜欢：第一是冥想，有些人可以做到连续几十个小时冥想；第二是有氧运动，如长跑、游泳；第三是写作，比如写日记。</p>
+
+<p>在遇到压力时，如果你不能排遣，又对自己很严厉，那就是给自己双重压力。解决方案可以是把自己视为自己最好的朋友。比如问自己，如果我今天不舒服，躺在床上想多睡半个小时，你最好的朋友会怎么说？她肯定不会说：懒猪起来，你为什么还睡。她会说：再睡半个小时吧没有问题。所以，试一试把自己当成自己最好的朋友，这是一个简单、有用的方式。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li>压力特别大的时候如何度过</li>
+<li>日常减压的方式分享</li>
+<li>在海外工作如何避免职场压迫</li>
+</ul>
+
+<p><strong>访谈中提及名词：</strong></p>
+
+<p>H1B，美国最主要的工作签证类别，它主要发放给美国公司雇佣的-外国籍-有专业技能的员工，持有H1B签证者可以在美国工作三年，然后可以再延长三年，6年期满后如果签证持有者的身份还没有转化（绿卡），就必须离开美国。</p>
+
+<p><strong>相关节目</strong></p>
+
+<p><a href="https://36kr.com/p/5254129" rel="nofollow">硅谷早知道第三季丨S3E29 自杀、开除、欲盖弥彰，Facebook是下一个「美国工厂」？</a></p>
+
+<p><a href="http://chuhai.co/5" rel="nofollow">在海外如何招人?我们聊聊出海公司们踩过的坑和蹚出的经验</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>区块链：从野蛮生长到国家战略</title>
+      <link>http://shengfm.cn/s3e32</link>
+      <guid isPermaLink="false">b7ee8fe6-e051-4569-9eb5-a4f861057b86</guid>
+      <pubDate>Fri, 01 Nov 2019 09:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b7ee8fe6-e051-4569-9eb5-a4f861057b86.mp3" length="23870039" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>区块链对中国重要在哪儿？</itunes:subtitle>
+      <itunes:duration>33:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/b/b7ee8fe6-e051-4569-9eb5-a4f861057b86/cover.jpg?v=1"/>
+      <description>主播丨徐涛  嘉宾丨Harry Zhou
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）
+在过去几年，区块链虽然打得火热，却一直只在草莽乱世中野蛮生长。
+今年10月24日，国家最高领导层的重要表态，强调了区块链的重要价值和社会意义。此消息宣布后，比特币暴涨40%，A股区块链概念股票全面飘红。
+「硅谷早知道」之前节目也聊过，区块链的发展其实是跟政府的监管息息相关。本期节目我们请到了周可（Harry）来探讨这一问题。例如，为什么国家最高领导层会在这个时间节点释放出这样的信号，这样的态度为何看起来和之前有所不同，而这又会来带什么样的影响，数字人民币的方向，以及中国与世界的金融格局。
+Harry zhou 毕业于哈佛大学法学院以及狄金森学院经济及计算机系，是 Koi Trading 的联合创始人，也是区块链行业知名律师。
+如果你想参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期主播
+徐涛,「声动活泼」创始人/制作人
+本期嘉宾
+ Harry Zhou， Koi Trading 联合创始人。
+The Takeaway
+超主权通货型货币在历史上只发生在像黄金一样贵金属身上，但 Libra 的出现把黄金的物理属性去除了，并可以全球点对点瞬时传输。因此它的存在很可能对一些国家的主权产生挑战。
+超主权货币的发行企业甚至可以作为一些小国家的央行以及外包政府服务的提供方。
+现在国际贸易中，主要货币仍然是美元。对于正在向经济大国方向转变的中国，其经济实力的体现重要因素之一，就是自己的主权数字货币能不能走出去。
+本期讨论的主要问题有：
+此次区块链作为国家战略技术的原因
+Libra 对世界和政府产生的影响
+电子人民币的推出与此事件的关系
+中国区块链的监管将如何发展
+中国区块链推动 vs. 美国区块链推动
+访谈中提及名词
+Libra，由Facebook为首的28家支付巨头共同研发的数字货币，将于2020年上半年正式发布。Libra基于区块链技术产生，具有 “超主权货币” 的特性。
+相关节目
+错，美国政府不是这样监管加密货币的（上），（下）
+硅谷早知道丨#10 Facebook 感受到区块链威胁了吗？ (https://36kr.com/p/5134567)
+硅谷早知道丨#11 布局区块链，科技巨头都做了些什么？ (https://36kr.com/p/5135566)
+原创文章，作者：「声动活泼」。 
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  <strong>嘉宾丨</strong>Harry Zhou</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>在过去几年，区块链虽然打得火热，却一直只在草莽乱世中野蛮生长。</p>
+
+<p>今年10月24日，国家最高领导层的重要表态，强调了区块链的重要价值和社会意义。此消息宣布后，比特币暴涨40%，A股区块链概念股票全面飘红。</p>
+
+<p>「硅谷早知道」之前节目也聊过，区块链的发展其实是跟政府的监管息息相关。本期节目我们请到了周可（Harry）来探讨这一问题。例如，为什么国家最高领导层会在这个时间节点释放出这样的信号，这样的态度为何看起来和之前有所不同，而这又会来带什么样的影响，数字人民币的方向，以及中国与世界的金融格局。</p>
+
+<p>Harry zhou 毕业于哈佛大学法学院以及狄金森学院经济及计算机系，是 Koi Trading 的联合创始人，也是区块链行业知名律师。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>Harry Zhou， Koi Trading 联合创始人。</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>超主权通货型货币在历史上只发生在像黄金一样贵金属身上，但 Libra 的出现把黄金的物理属性去除了，并可以全球点对点瞬时传输。因此它的存在很可能对一些国家的主权产生挑战。</p>
+
+<p>超主权货币的发行企业甚至可以作为一些小国家的央行以及外包政府服务的提供方。</p>
+
+<p>现在国际贸易中，主要货币仍然是美元。对于正在向经济大国方向转变的中国，其经济实力的体现重要因素之一，就是自己的主权数字货币能不能走出去。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>此次区块链作为国家战略技术的原因</p></li>
+<li><p>Libra 对世界和政府产生的影响</p></li>
+<li><p>电子人民币的推出与此事件的关系</p></li>
+<li><p>中国区块链的监管将如何发展</p></li>
+<li><p>中国区块链推动 vs. 美国区块链推动</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<p>Libra，由Facebook为首的28家支付巨头共同研发的数字货币，将于2020年上半年正式发布。Libra基于区块链技术产生，具有 “超主权货币” 的特性。</p>
+
+<p><strong>相关节目</strong></p>
+
+<p>错，美国政府不是这样监管加密货币的（上），（下）</p>
+
+<p><a href="https://36kr.com/p/5134567" rel="nofollow">硅谷早知道丨#10 Facebook 感受到区块链威胁了吗？</a></p>
+
+<p><a href="https://36kr.com/p/5135566" rel="nofollow">硅谷早知道丨#11 布局区块链，科技巨头都做了些什么？</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  <strong>嘉宾丨</strong>Harry Zhou</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>在过去几年，区块链虽然打得火热，却一直只在草莽乱世中野蛮生长。</p>
+
+<p>今年10月24日，国家最高领导层的重要表态，强调了区块链的重要价值和社会意义。此消息宣布后，比特币暴涨40%，A股区块链概念股票全面飘红。</p>
+
+<p>「硅谷早知道」之前节目也聊过，区块链的发展其实是跟政府的监管息息相关。本期节目我们请到了周可（Harry）来探讨这一问题。例如，为什么国家最高领导层会在这个时间节点释放出这样的信号，这样的态度为何看起来和之前有所不同，而这又会来带什么样的影响，数字人民币的方向，以及中国与世界的金融格局。</p>
+
+<p>Harry zhou 毕业于哈佛大学法学院以及狄金森学院经济及计算机系，是 Koi Trading 的联合创始人，也是区块链行业知名律师。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>Harry Zhou， Koi Trading 联合创始人。</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>超主权通货型货币在历史上只发生在像黄金一样贵金属身上，但 Libra 的出现把黄金的物理属性去除了，并可以全球点对点瞬时传输。因此它的存在很可能对一些国家的主权产生挑战。</p>
+
+<p>超主权货币的发行企业甚至可以作为一些小国家的央行以及外包政府服务的提供方。</p>
+
+<p>现在国际贸易中，主要货币仍然是美元。对于正在向经济大国方向转变的中国，其经济实力的体现重要因素之一，就是自己的主权数字货币能不能走出去。</p>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>此次区块链作为国家战略技术的原因</p></li>
+<li><p>Libra 对世界和政府产生的影响</p></li>
+<li><p>电子人民币的推出与此事件的关系</p></li>
+<li><p>中国区块链的监管将如何发展</p></li>
+<li><p>中国区块链推动 vs. 美国区块链推动</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<p>Libra，由Facebook为首的28家支付巨头共同研发的数字货币，将于2020年上半年正式发布。Libra基于区块链技术产生，具有 “超主权货币” 的特性。</p>
+
+<p><strong>相关节目</strong></p>
+
+<p>错，美国政府不是这样监管加密货币的（上），（下）</p>
+
+<p><a href="https://36kr.com/p/5134567" rel="nofollow">硅谷早知道丨#10 Facebook 感受到区块链威胁了吗？</a></p>
+
+<p><a href="https://36kr.com/p/5135566" rel="nofollow">硅谷早知道丨#11 布局区块链，科技巨头都做了些什么？</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>是二房东还是互联网公司？WeWork 上市折戟后的中国思考</title>
+      <link>http://shengfm.cn/s3e31</link>
+      <guid isPermaLink="false">4a264415-e752-486f-9f19-c047dcf1e82c</guid>
+      <pubDate>Fri, 25 Oct 2019 10:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a264415-e752-486f-9f19-c047dcf1e82c.mp3" length="24870820" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>WeWork 的闹剧对中国的共享空间意味着什么？</itunes:subtitle>
+      <itunes:duration>33:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/4/4a264415-e752-486f-9f19-c047dcf1e82c/cover.jpg?v=1"/>
+      <description>主播丨徐涛  嘉宾丨薄益群
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）
+WeWork 的故事，是一个眼看他起高楼，眼看他宴宾客，然后眼看着市值崩塌的故事。
+在两个月前，它还有着 470 亿的市值，而现在它的市值只有 80 亿。 Wework 的创始人 Adam Neumann 也已被罢免，成为继 Uber 的 Travis Klannick 之后另外一个不得不离开自己所创立公司的的独角兽创始人。
+时间退回到9年前。WeWork 作为共享办公空间的开拓者，一路高歌，斗志昂扬 ，截止 2018 年已扩张到全球 21 个国家的 71 个城市。 那时 WeWork 估值 200 亿美元，是全球第五大独角兽。
+但无论如何，WeWork 的商业模式启发了很多创业者，中国的创业者薄益群就是其中的一员。他于 2014 年 10 月去纽约考察，并参观了 WeWork 办公空间 —— 这次行程给他留下深刻印象，并在回国后不久创立了创新空间 Day Day Up。
+本期节目中，我们和薄益群进行了一次对话，对话内容包括中国创业者当年是如何学习 WeWork ，这种商业模式在中国又进行了一些什么样的演变，以及此类中国的公司前景又如何。
+如果你想参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期主播
+徐涛,「声动活泼」创始人/制作人
+本期嘉宾
+薄益群,「Day Day Up」创始人
+The Takeaway
+现今社会讲究的是联接，即人与人之间的联接。相应的，把一栋楼运营得更好，那些传统物业管理模式只是管理水电等硬件基础，但这种管理正在升级为对楼中的人的管理，这是一个新课题。这也是WeWork做的好的地方
+我把创新空间分为两大类，一类追求的是线下空间的数量和扩张速度，也就是所谓地产方面的扩张，虽然他们也在做服务，但那不是他们的核心；对应的另外一类，虽然也在运营共享空间，但是他们的主业和热情其实是和创投服务相关的。
+传统的商业地产一定会升级，而 WeWork 的模式也许是指了一条道路
+本期讨论的主要问题有：
+如何受到 WeWork 启发而创办 Day Day Up
+创办 Day Day Up 中遇到的融资问题
+商业地产型共享空间 VS 服务型共享空间
+商业周期下的共享办公前景
+国内共享空间的门槛
+WeWork 光环背后的「二房东」本质
+访谈中提及名词
+雷格斯（Regus ）, 全球最大的办公空间解决方案供应商，在 200 个国家的 1000 个城市，设有 3000 多家商务中心。
+梦想加空间，2015年成立的联合办公空间品牌，梦想加在全国运营近 40 个办公空间。
+氪空间，2016年从36氪母公司拆分独立运营的联合办公平台，氪空间在全国 10 座城市拥有 40 个联合办公场所。
+优客工场，毛大庆在2015年成立的创新企业服务空间平台，优客工场在全球 44 座城市拥有 200 个共享办公空间。
+相关节目
+滴滴出行将新增无人车选项，无人车光明在即还是深陷泥淖 (https://36kr.com/p/5255634)
+从130亿跌到7亿，跌落神坛的GoPro兴衰史 (https://36kr.com/p/5250540)
+原创文章，作者：「声动活泼」。 
+</description>
+      <itunes:keywords>WeWork, 硅谷, 谈资, Day Day Up, 共享办公</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  <strong>嘉宾丨</strong>薄益群</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p><strong>WeWork 的故事，是一个眼看他起高楼，眼看他宴宾客，然后眼看着市值崩塌的故事。</strong></p>
+
+<p>在两个月前，它还有着 470 亿的市值，而现在它的市值只有 80 亿。 Wework 的创始人 Adam Neumann 也已被罢免，成为继 Uber 的 Travis Klannick 之后另外一个不得不离开自己所创立公司的的独角兽创始人。</p>
+
+<p>时间退回到9年前。WeWork 作为共享办公空间的开拓者，一路高歌，斗志昂扬 ，截止 2018 年已扩张到全球 21 个国家的 71 个城市。 那时 WeWork 估值 200 亿美元，是全球第五大独角兽。</p>
+
+<p>但无论如何，WeWork 的商业模式启发了很多创业者，中国的创业者薄益群就是其中的一员。他于 2014 年 10 月去纽约考察，并参观了 WeWork 办公空间 —— 这次行程给他留下深刻印象，并在回国后不久创立了创新空间 Day Day Up。</p>
+
+<p>本期节目中，我们和薄益群进行了一次对话，对话内容包括中国创业者当年是如何学习 WeWork ，这种商业模式在中国又进行了一些什么样的演变，以及此类中国的公司前景又如何。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手<strong>「声小音」</strong>的微信 <strong>shengfm1</strong> ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>薄益群,「Day Day Up」创始人</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<ul>
+<li><p>现今社会讲究的是联接，即人与人之间的联接。相应的，把一栋楼运营得更好，那些传统物业管理模式只是管理水电等硬件基础，但这种管理正在升级为对楼中的人的管理，这是一个新课题。这也是WeWork做的好的地方</p></li>
+<li><p>我把创新空间分为两大类，一类追求的是线下空间的数量和扩张速度，也就是所谓地产方面的扩张，虽然他们也在做服务，但那不是他们的核心；对应的另外一类，虽然也在运营共享空间，但是他们的主业和热情其实是和创投服务相关的。</p></li>
+<li><p>传统的商业地产一定会升级，而 WeWork 的模式也许是指了一条道路</p></li>
+</ul>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>如何受到 WeWork 启发而创办 Day Day Up</p></li>
+<li><p>创办 Day Day Up 中遇到的融资问题</p></li>
+<li><p>商业地产型共享空间 VS 服务型共享空间</p></li>
+<li><p>商业周期下的共享办公前景</p></li>
+<li><p>国内共享空间的门槛</p></li>
+<li><p>WeWork 光环背后的「二房东」本质</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>雷格斯（Regus ）, 全球最大的办公空间解决方案供应商，在 200 个国家的 1000 个城市，设有 3000 多家商务中心。</p></li>
+<li><p>梦想加空间，2015年成立的联合办公空间品牌，梦想加在全国运营近 40 个办公空间。</p></li>
+<li><p>氪空间，2016年从36氪母公司拆分独立运营的联合办公平台，氪空间在全国 10 座城市拥有 40 个联合办公场所。</p></li>
+<li><p>优客工场，毛大庆在2015年成立的创新企业服务空间平台，优客工场在全球 44 座城市拥有 200 个共享办公空间。</p></li>
+</ul>
+
+<p><strong>相关节目</strong></p>
+
+<p><a href="https://36kr.com/p/5255634" rel="nofollow">滴滴出行将新增无人车选项，无人车光明在即还是深陷泥淖</a></p>
+
+<p><a href="https://36kr.com/p/5250540" rel="nofollow">从130亿跌到7亿，跌落神坛的GoPro兴衰史</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛  <strong>嘉宾丨</strong>薄益群</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」为「声动活泼」传媒旗下节目，每周周五中午12点准时更新，敬请期待。）</p>
+
+<p><strong>WeWork 的故事，是一个眼看他起高楼，眼看他宴宾客，然后眼看着市值崩塌的故事。</strong></p>
+
+<p>在两个月前，它还有着 470 亿的市值，而现在它的市值只有 80 亿。 Wework 的创始人 Adam Neumann 也已被罢免，成为继 Uber 的 Travis Klannick 之后另外一个不得不离开自己所创立公司的的独角兽创始人。</p>
+
+<p>时间退回到9年前。WeWork 作为共享办公空间的开拓者，一路高歌，斗志昂扬 ，截止 2018 年已扩张到全球 21 个国家的 71 个城市。 那时 WeWork 估值 200 亿美元，是全球第五大独角兽。</p>
+
+<p>但无论如何，WeWork 的商业模式启发了很多创业者，中国的创业者薄益群就是其中的一员。他于 2014 年 10 月去纽约考察，并参观了 WeWork 办公空间 —— 这次行程给他留下深刻印象，并在回国后不久创立了创新空间 Day Day Up。</p>
+
+<p>本期节目中，我们和薄益群进行了一次对话，对话内容包括中国创业者当年是如何学习 WeWork ，这种商业模式在中国又进行了一些什么样的演变，以及此类中国的公司前景又如何。</p>
+
+<p>如果你想参与对节目的探讨，可以添加我们小助手<strong>「声小音」</strong>的微信 <strong>shengfm1</strong> ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期主播</strong></p>
+
+<p>徐涛,「声动活泼」创始人/制作人</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>薄益群,「Day Day Up」创始人</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<ul>
+<li><p>现今社会讲究的是联接，即人与人之间的联接。相应的，把一栋楼运营得更好，那些传统物业管理模式只是管理水电等硬件基础，但这种管理正在升级为对楼中的人的管理，这是一个新课题。这也是WeWork做的好的地方</p></li>
+<li><p>我把创新空间分为两大类，一类追求的是线下空间的数量和扩张速度，也就是所谓地产方面的扩张，虽然他们也在做服务，但那不是他们的核心；对应的另外一类，虽然也在运营共享空间，但是他们的主业和热情其实是和创投服务相关的。</p></li>
+<li><p>传统的商业地产一定会升级，而 WeWork 的模式也许是指了一条道路</p></li>
+</ul>
+
+<p><strong>本期讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>如何受到 WeWork 启发而创办 Day Day Up</p></li>
+<li><p>创办 Day Day Up 中遇到的融资问题</p></li>
+<li><p>商业地产型共享空间 VS 服务型共享空间</p></li>
+<li><p>商业周期下的共享办公前景</p></li>
+<li><p>国内共享空间的门槛</p></li>
+<li><p>WeWork 光环背后的「二房东」本质</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>雷格斯（Regus ）, 全球最大的办公空间解决方案供应商，在 200 个国家的 1000 个城市，设有 3000 多家商务中心。</p></li>
+<li><p>梦想加空间，2015年成立的联合办公空间品牌，梦想加在全国运营近 40 个办公空间。</p></li>
+<li><p>氪空间，2016年从36氪母公司拆分独立运营的联合办公平台，氪空间在全国 10 座城市拥有 40 个联合办公场所。</p></li>
+<li><p>优客工场，毛大庆在2015年成立的创新企业服务空间平台，优客工场在全球 44 座城市拥有 200 个共享办公空间。</p></li>
+</ul>
+
+<p><strong>相关节目</strong></p>
+
+<p><a href="https://36kr.com/p/5255634" rel="nofollow">滴滴出行将新增无人车选项，无人车光明在即还是深陷泥淖</a></p>
+
+<p><a href="https://36kr.com/p/5250540" rel="nofollow">从130亿跌到7亿，跌落神坛的GoPro兴衰史</a></p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>滴滴出行将新增无人车选项，无人车光明在即还是深陷泥淖</title>
+      <link>http://shengfm.cn/s3e30</link>
+      <guid isPermaLink="false">a503aaa0-f216-4f5e-9569-c3da56271f43</guid>
+      <pubDate>Thu, 17 Oct 2019 21:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a503aaa0-f216-4f5e-9569-c3da56271f43.mp3" length="41071187" type="audio/mp3"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>我们乘坐过了各种无人车，所以普通人要乘坐无人车还需要多久</itunes:subtitle>
+      <itunes:duration>42:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/a/a503aaa0-f216-4f5e-9569-c3da56271f43/cover.jpg?v=1"/>
+      <description>主播丨徐涛    嘉宾丨刘泓君 王艺瑾
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+无人车究竟多久才能来？
+谷歌旗下自动驾驶公司 Waymo 本月宣布将在美国亚利桑那州投放了完全无人驾驶汽车，但今年 9 月，摩根士丹刚对「Waymo」估值下调了40%，意味预测它的商用遥遥无期。
+「经济学人」杂志也刊出对无人车不看好的报道，但中国的无人车行业中，百度等公司正拿到全球首张自动驾驶商用牌照，看起来商用化在即。
+所以无人车到底是光明在前、未来可期，还是陷入泥淖、难以前进？本期节目，我们请来了两位无人车行业的资深记者。她们会聊乘坐无人车的体验，同时也会给出一个完整的图景，让你了解无人车现在究竟处于什么阶段。
+如果你参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期嘉宾
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者
+王艺瑾，「36氪」记者
+The Takeaway
+评价一家无人车公司好不好，最核心有两个指标：一个指标是他的整个测试里程数是多少，不是仿真器的测试里程，因为很多公司会以这个仿真器的测试里程做为其公关目标；第二是无人车本身能处理多复杂的路况，同时在处理这些路况时，它是在一个区域里随机都可以处理，还是只能走固定线路，以及能行驶多长时间。这两个维度加起来基本上就可以看出一个无人驾驶公司的技术水平。
+中国无人车和美国无人车比较，最大的一个区别就是，美国无人车是自上而下由巨头推动的，而中国还是比较零散、非巨头来推动的。Waymo由谷歌是这个近万亿市值的公司来支撑，至少它不会因为资金枯竭而死；但百度现在市值只有三百多亿，它能有多少钱，它的投资者有多少耐心呢？
+美国比较大的三家无人驾驶公司：Waymo、通用Cruise、福特Argo AI
+本期讨论的主要有:
+国内外无人车乘坐体验
+以Google为例的无人车孵化过程
+中美无人驾驶公司排行及比较
+百度无人车的发展及现状
+为什么中国更急迫研发上市“L3”,而美国反而更长期的去研发“L4”
+Uber和滴滴无人车发展及现状
+中美无人车应用场景介绍及比较
+访谈中提及名词
+无人车自动驾驶等级
+Level 0：无自动化，没有任何自动驾驶功能、技术，司机对汽车所有功能拥有绝对控制权。驾驶员需要负责启动、制动、操作和观察道路状况。
+Level 1：单一功能级自动化，驾驶员仍然对行车安全负责，不过可以放弃部分控制权给系统管理，某些功能已经自动进行，驾驶员无法做到手和脚同时不操控。
+Level 2：部分自动化，司机和汽车分享控制权，驾驶员在某些环境中可以不操作汽车，即手脚同时脱离控制。但是驾驶员仍然需要随时待命，准备接管汽车。
+Level 3：有条件自动化，需要在特定环境下，全方位的无人驾驶可以完全实现，如高速公路上等。
+Level 4/5 ：完全自动化，完全的无人驾驶阶段，司机在这个阶段中已经不需要再参与任何驾驶活动。
+</description>
+      <itunes:keywords>无人车, 硅谷早知道, 智能车</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>刘泓君 王艺瑾</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p><strong>无人车究竟多久才能来？</strong></p>
+
+<p>谷歌旗下自动驾驶公司 Waymo 本月宣布将在美国亚利桑那州投放了完全无人驾驶汽车，但今年 9 月，摩根士丹刚对「Waymo」估值下调了40%，意味预测它的商用遥遥无期。</p>
+
+<p>「经济学人」杂志也刊出对无人车不看好的报道，但中国的无人车行业中，百度等公司正拿到全球首张自动驾驶商用牌照，看起来商用化在即。</p>
+
+<p>所以无人车到底是光明在前、未来可期，还是陷入泥淖、难以前进？本期节目，我们请来了两位无人车行业的资深记者。她们会聊乘坐无人车的体验，同时也会给出一个完整的图景，让你了解无人车现在究竟处于什么阶段。</p>
+
+<p>如果你参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p>王艺瑾，「36氪」记者</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>评价一家无人车公司好不好，最核心有两个指标：一个指标是他的整个测试里程数是多少，不是仿真器的测试里程，因为很多公司会以这个仿真器的测试里程做为其公关目标；第二是无人车本身能处理多复杂的路况，同时在处理这些路况时，它是在一个区域里随机都可以处理，还是只能走固定线路，以及能行驶多长时间。这两个维度加起来基本上就可以看出一个无人驾驶公司的技术水平。</p>
+
+<p>中国无人车和美国无人车比较，最大的一个区别就是，美国无人车是自上而下由巨头推动的，而中国还是比较零散、非巨头来推动的。Waymo由谷歌是这个近万亿市值的公司来支撑，至少它不会因为资金枯竭而死；但百度现在市值只有三百多亿，它能有多少钱，它的投资者有多少耐心呢？</p>
+
+<p>美国比较大的三家无人驾驶公司：Waymo、通用Cruise、福特Argo AI</p>
+
+<p><strong>本期讨论的主要有:</strong></p>
+
+<ul>
+<li><p>国内外无人车乘坐体验</p></li>
+<li><p>以Google为例的无人车孵化过程</p></li>
+<li><p>中美无人驾驶公司排行及比较</p></li>
+<li><p>百度无人车的发展及现状</p></li>
+<li><p>为什么中国更急迫研发上市“L3”,而美国反而更长期的去研发“L4”</p></li>
+<li><p>Uber和滴滴无人车发展及现状</p></li>
+<li><p>中美无人车应用场景介绍及比较</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>无人车自动驾驶等级</p></li>
+<li><p>Level 0：无自动化，没有任何自动驾驶功能、技术，司机对汽车所有功能拥有绝对控制权。驾驶员需要负责启动、制动、操作和观察道路状况。</p></li>
+<li><p>Level 1：单一功能级自动化，驾驶员仍然对行车安全负责，不过可以放弃部分控制权给系统管理，某些功能已经自动进行，驾驶员无法做到手和脚同时不操控。</p></li>
+<li><p>Level 2：部分自动化，司机和汽车分享控制权，驾驶员在某些环境中可以不操作汽车，即手脚同时脱离控制。但是驾驶员仍然需要随时待命，准备接管汽车。</p></li>
+<li><p>Level 3：有条件自动化，需要在特定环境下，全方位的无人驾驶可以完全实现，如高速公路上等。</p></li>
+<li><p>Level 4/5 ：完全自动化，完全的无人驾驶阶段，司机在这个阶段中已经不需要再参与任何驾驶活动。</p></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>刘泓君 王艺瑾</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p><strong>无人车究竟多久才能来？</strong></p>
+
+<p>谷歌旗下自动驾驶公司 Waymo 本月宣布将在美国亚利桑那州投放了完全无人驾驶汽车，但今年 9 月，摩根士丹刚对「Waymo」估值下调了40%，意味预测它的商用遥遥无期。</p>
+
+<p>「经济学人」杂志也刊出对无人车不看好的报道，但中国的无人车行业中，百度等公司正拿到全球首张自动驾驶商用牌照，看起来商用化在即。</p>
+
+<p>所以无人车到底是光明在前、未来可期，还是陷入泥淖、难以前进？本期节目，我们请来了两位无人车行业的资深记者。她们会聊乘坐无人车的体验，同时也会给出一个完整的图景，让你了解无人车现在究竟处于什么阶段。</p>
+
+<p>如果你参与对节目的探讨，可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p>王艺瑾，「36氪」记者</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>评价一家无人车公司好不好，最核心有两个指标：一个指标是他的整个测试里程数是多少，不是仿真器的测试里程，因为很多公司会以这个仿真器的测试里程做为其公关目标；第二是无人车本身能处理多复杂的路况，同时在处理这些路况时，它是在一个区域里随机都可以处理，还是只能走固定线路，以及能行驶多长时间。这两个维度加起来基本上就可以看出一个无人驾驶公司的技术水平。</p>
+
+<p>中国无人车和美国无人车比较，最大的一个区别就是，美国无人车是自上而下由巨头推动的，而中国还是比较零散、非巨头来推动的。Waymo由谷歌是这个近万亿市值的公司来支撑，至少它不会因为资金枯竭而死；但百度现在市值只有三百多亿，它能有多少钱，它的投资者有多少耐心呢？</p>
+
+<p>美国比较大的三家无人驾驶公司：Waymo、通用Cruise、福特Argo AI</p>
+
+<p><strong>本期讨论的主要有:</strong></p>
+
+<ul>
+<li><p>国内外无人车乘坐体验</p></li>
+<li><p>以Google为例的无人车孵化过程</p></li>
+<li><p>中美无人驾驶公司排行及比较</p></li>
+<li><p>百度无人车的发展及现状</p></li>
+<li><p>为什么中国更急迫研发上市“L3”,而美国反而更长期的去研发“L4”</p></li>
+<li><p>Uber和滴滴无人车发展及现状</p></li>
+<li><p>中美无人车应用场景介绍及比较</p></li>
+</ul>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>无人车自动驾驶等级</p></li>
+<li><p>Level 0：无自动化，没有任何自动驾驶功能、技术，司机对汽车所有功能拥有绝对控制权。驾驶员需要负责启动、制动、操作和观察道路状况。</p></li>
+<li><p>Level 1：单一功能级自动化，驾驶员仍然对行车安全负责，不过可以放弃部分控制权给系统管理，某些功能已经自动进行，驾驶员无法做到手和脚同时不操控。</p></li>
+<li><p>Level 2：部分自动化，司机和汽车分享控制权，驾驶员在某些环境中可以不操作汽车，即手脚同时脱离控制。但是驾驶员仍然需要随时待命，准备接管汽车。</p></li>
+<li><p>Level 3：有条件自动化，需要在特定环境下，全方位的无人驾驶可以完全实现，如高速公路上等。</p></li>
+<li><p>Level 4/5 ：完全自动化，完全的无人驾驶阶段，司机在这个阶段中已经不需要再参与任何驾驶活动。</p></li>
+</ul>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>自杀、开除、欲盖弥彰，Facebook是下一个 “美国工厂” ？ </title>
+      <link>http://shengfm.cn/s3e29</link>
+      <guid isPermaLink="false">8521ff50-dc84-429d-a929-a41d17e700ff</guid>
+      <pubDate>Fri, 11 Oct 2019 12:30:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8521ff50-dc84-429d-a929-a41d17e700ff.mp3" length="32836838" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <itunes:duration>44:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/8/8521ff50-dc84-429d-a929-a41d17e700ff/cover.jpg?v=1"/>
+      <description>主播丨徐涛    嘉宾丨杜晨
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+对于大多数人来说，Facebook 是让人向往的工作场所：薪酬福利高，有美味的免费午餐，免费的健身房和洗衣服务。
+但今天讨论的事件，可能会改变你对 Facebook 的印象。
+2019 年 9 月 19 日，38 岁的华裔工程师 Qin Chen 从 Facebook 总部大楼跳下身亡。面对 Facebook 对此事件息事宁人的态度，大批华人工程师于当月 26 日到其总部前抗议，要求彻查真相。27日，Facebook 才发声明，证实死者为自杀，死前疑似受到上司霸凌和业绩下滑可能被辞退的双重压力。
+本期节目，我们请来了硅谷记者杜晨，他在事发后采访了多名 FaceBook 员工和相关人士，并进行了深入的报道，此次访谈中，他解释了他所了解到的一些事实，以及 Facebook 公司正在面临的问题。
+如果你想更多的讨论节目，也可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期嘉宾
+杜晨，「PingWest 品玩」和「硅星人」驻硅谷记者
+The Takeaway
+虽然在Facebook工作，你能享受到租房的补贴，很好工作环境，甚至可以带狗上班，每周三还可以在家上班等福利，但与此同时（尤其是广告部），员工需要经常加班，经常修复不是因为自己的错误所导致的公司服务器的宕机事件。而这对于他们产生的压力，以及工作时间的延长，并没有通过公司的制度去体现。这可能是硅谷的这种大公司隐性的高压的工作文化和中国的996制度的一个最明显差别。
+Facebook最近身上背了几个非常大的案子，一个是3年前数据泄露的事故，被美国政府罚了款；最近又违反了美国联邦贸易委员会的一个限令，交了几十亿美元的罚款，所以其最近一个季度的业绩表现有了一个非常大的缩水。最终这种压力从其他的业务部门传导到了需要赚钱的广告部门，又从广告部门的公司的高管传递到了负责修复这些bug、维护系统的员工的身上，导致最后一颗螺丝钉被折断。
+其实现在比较来看，在俄亥俄州的玻璃工厂里的蓝领工人，跟在加州硅谷的这些白领的程序员在很大程度上没什么不同，大家都是在维护一个机器的运转，因为真实为公司创造价值的，不是员工，而是这台机器。至少在Facebook的广告部门，很多员工已经成为了名副其实的维护机器运转的一名工人，一颗流水线上的螺丝钉。
+ 本期讨论的主要有：
+Qin Chen跳楼事件的发生及Facebook的处理
+自发追悼会的起因及事件经过
+Qin Chen去世前的在Facebook的工作经历
+硅谷互联网公司文化 VS. 中国互联网公司996文化
+前 Facebook 员工尹伊言论被打压进而被辞退的经过
+事件所反映出来 Facebook 所面临的危机
+探讨硅谷互联网公司白领和美国工厂蓝领的对比
+事件的最新进展
+相关信息
+ 硅星人报道：「深度调查| 一个华人程序员纵身一跃，引发的硅谷震荡」 (https://mp.weixin.qq.com/s/VGsWOoKDVLtOUqovoMuU3g)
+前谷歌、脸书技术负责人谈最近脸书工程师自杀事件 (https://www.youtube.com/watch?v=VbEQriZEfoI&amp;t=44s)
+Enjoy！
+原创文章，作者：「声动活泼」。 
+</description>
+      <itunes:keywords>Facebook,员工,硅谷,焦虑,科技</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>杜晨</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>对于大多数人来说，Facebook 是让人向往的工作场所：薪酬福利高，有美味的免费午餐，免费的健身房和洗衣服务。</p>
+
+<p>但今天讨论的事件，可能会改变你对 Facebook 的印象。</p>
+
+<p>2019 年 9 月 19 日，38 岁的华裔工程师 Qin Chen 从 Facebook 总部大楼跳下身亡。面对 Facebook 对此事件息事宁人的态度，大批华人工程师于当月 26 日到其总部前抗议，要求彻查真相。27日，Facebook 才发声明，证实死者为自杀，死前疑似受到上司霸凌和业绩下滑可能被辞退的双重压力。</p>
+
+<p>本期节目，我们请来了硅谷记者杜晨，他在事发后采访了多名 FaceBook 员工和相关人士，并进行了深入的报道，此次访谈中，他解释了他所了解到的一些事实，以及 Facebook 公司正在面临的问题。</p>
+
+<p>如果你想更多的讨论节目，也可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>杜晨，「PingWest 品玩」和「硅星人」驻硅谷记者</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>虽然在Facebook工作，你能享受到租房的补贴，很好工作环境，甚至可以带狗上班，每周三还可以在家上班等福利，但与此同时（尤其是广告部），员工需要经常加班，经常修复不是因为自己的错误所导致的公司服务器的宕机事件。而这对于他们产生的压力，以及工作时间的延长，并没有通过公司的制度去体现。这可能是硅谷的这种大公司隐性的高压的工作文化和中国的996制度的一个最明显差别。</p>
+
+<p>Facebook最近身上背了几个非常大的案子，一个是3年前数据泄露的事故，被美国政府罚了款；最近又违反了美国联邦贸易委员会的一个限令，交了几十亿美元的罚款，所以其最近一个季度的业绩表现有了一个非常大的缩水。最终这种压力从其他的业务部门传导到了需要赚钱的广告部门，又从广告部门的公司的高管传递到了负责修复这些bug、维护系统的员工的身上，导致最后一颗螺丝钉被折断。</p>
+
+<p>其实现在比较来看，在俄亥俄州的玻璃工厂里的蓝领工人，跟在加州硅谷的这些白领的程序员在很大程度上没什么不同，大家都是在维护一个机器的运转，因为真实为公司创造价值的，不是员工，而是这台机器。至少在Facebook的广告部门，很多员工已经成为了名副其实的维护机器运转的一名工人，一颗流水线上的螺丝钉。</p>
+
+<p><strong>本期讨论的主要有</strong>：</p>
+
+<ul>
+<li><p>Qin Chen跳楼事件的发生及Facebook的处理</p></li>
+<li><p>自发追悼会的起因及事件经过</p></li>
+<li><p>Qin Chen去世前的在Facebook的工作经历</p></li>
+<li><p>硅谷互联网公司文化 VS. 中国互联网公司996文化</p></li>
+<li><p>前 Facebook 员工尹伊言论被打压进而被辞退的经过</p></li>
+<li><p>事件所反映出来 Facebook 所面临的危机</p></li>
+<li><p>探讨硅谷互联网公司白领和美国工厂蓝领的对比</p></li>
+<li><p>事件的最新进展</p></li>
+</ul>
+
+<p><strong>相关信息</strong></p>
+
+<p><a href="https://mp.weixin.qq.com/s/VGsWOoKDVLtOUqovoMuU3g" rel="nofollow"> 硅星人报道：「深度调查| 一个华人程序员纵身一跃，引发的硅谷震荡」</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=VbEQriZEfoI&t=44s" rel="nofollow">前谷歌、脸书技术负责人谈最近脸书工程师自杀事件</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>杜晨</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>对于大多数人来说，Facebook 是让人向往的工作场所：薪酬福利高，有美味的免费午餐，免费的健身房和洗衣服务。</p>
+
+<p>但今天讨论的事件，可能会改变你对 Facebook 的印象。</p>
+
+<p>2019 年 9 月 19 日，38 岁的华裔工程师 Qin Chen 从 Facebook 总部大楼跳下身亡。面对 Facebook 对此事件息事宁人的态度，大批华人工程师于当月 26 日到其总部前抗议，要求彻查真相。27日，Facebook 才发声明，证实死者为自杀，死前疑似受到上司霸凌和业绩下滑可能被辞退的双重压力。</p>
+
+<p>本期节目，我们请来了硅谷记者杜晨，他在事发后采访了多名 FaceBook 员工和相关人士，并进行了深入的报道，此次访谈中，他解释了他所了解到的一些事实，以及 Facebook 公司正在面临的问题。</p>
+
+<p>如果你想更多的讨论节目，也可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<p><strong>本期嘉宾</strong></p>
+
+<p>杜晨，「PingWest 品玩」和「硅星人」驻硅谷记者</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>虽然在Facebook工作，你能享受到租房的补贴，很好工作环境，甚至可以带狗上班，每周三还可以在家上班等福利，但与此同时（尤其是广告部），员工需要经常加班，经常修复不是因为自己的错误所导致的公司服务器的宕机事件。而这对于他们产生的压力，以及工作时间的延长，并没有通过公司的制度去体现。这可能是硅谷的这种大公司隐性的高压的工作文化和中国的996制度的一个最明显差别。</p>
+
+<p>Facebook最近身上背了几个非常大的案子，一个是3年前数据泄露的事故，被美国政府罚了款；最近又违反了美国联邦贸易委员会的一个限令，交了几十亿美元的罚款，所以其最近一个季度的业绩表现有了一个非常大的缩水。最终这种压力从其他的业务部门传导到了需要赚钱的广告部门，又从广告部门的公司的高管传递到了负责修复这些bug、维护系统的员工的身上，导致最后一颗螺丝钉被折断。</p>
+
+<p>其实现在比较来看，在俄亥俄州的玻璃工厂里的蓝领工人，跟在加州硅谷的这些白领的程序员在很大程度上没什么不同，大家都是在维护一个机器的运转，因为真实为公司创造价值的，不是员工，而是这台机器。至少在Facebook的广告部门，很多员工已经成为了名副其实的维护机器运转的一名工人，一颗流水线上的螺丝钉。</p>
+
+<p><strong>本期讨论的主要有</strong>：</p>
+
+<ul>
+<li><p>Qin Chen跳楼事件的发生及Facebook的处理</p></li>
+<li><p>自发追悼会的起因及事件经过</p></li>
+<li><p>Qin Chen去世前的在Facebook的工作经历</p></li>
+<li><p>硅谷互联网公司文化 VS. 中国互联网公司996文化</p></li>
+<li><p>前 Facebook 员工尹伊言论被打压进而被辞退的经过</p></li>
+<li><p>事件所反映出来 Facebook 所面临的危机</p></li>
+<li><p>探讨硅谷互联网公司白领和美国工厂蓝领的对比</p></li>
+<li><p>事件的最新进展</p></li>
+</ul>
+
+<p><strong>相关信息</strong></p>
+
+<p><a href="https://mp.weixin.qq.com/s/VGsWOoKDVLtOUqovoMuU3g" rel="nofollow"> 硅星人报道：「深度调查| 一个华人程序员纵身一跃，引发的硅谷震荡」</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=VbEQriZEfoI&t=44s" rel="nofollow">前谷歌、脸书技术负责人谈最近脸书工程师自杀事件</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>从130亿跌到7亿，跌落神坛的GoPro兴衰史</title>
+      <link>http://shengfm.cn/s1e28</link>
+      <guid isPermaLink="false">56f6be5d-9d4e-49a9-a508-651fc3288dc0</guid>
+      <pubDate>Thu, 26 Sep 2019 22:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/56f6be5d-9d4e-49a9-a508-651fc3288dc0.mp3" length="36989532" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>GoPro 还能再现辉煌吗？</itunes:subtitle>
+      <itunes:duration>49:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/5/56f6be5d-9d4e-49a9-a508-651fc3288dc0/cover.jpg?v=1"/>
+      <description>主播丨徐涛    嘉宾丨杜晨
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+作为一家典型的家硅谷独角兽公司，GoPro经历了太多起起伏伏。
+作为曾经行业里的明星企业，Gopro 市值一度达到 130 亿美元，其创始人 Nick Woodman 薪酬也成为全美最高的2.87亿美元。但在上市后，GoPro 股价从 2014 年的 87 美元跌落至如今的不到 7 亿美元，也一度传出它寻求出售的消息。
+今年8月接受 Bloomberg 的采访时，Nick Woodman将创业形容成徒手攀岩。 
+那 GoPro 这些年的经历是什么样的，它现在又处在一个什么样的岩壁上。如果已经没有退路，是不是如同 Nick Woodman 所说，“唯一能支撑你继续的理由，就是你是否相信你最初的这个信念”。
+本期节目，我们请来了刚刚参加了GoPro 8 的新品发布会的驻硅谷记者杜晨。我们会深度探讨GoPro 创业至今的全过程，并试图分析背后的原因。
+另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期嘉宾
+杜晨，「PingWest 品玩」和「硅星人」的驻硅谷记者
+The Takeaway
+GoPro 相机的巅峰时期销售大概近四百万台，但是这个规模里不可能全是极限运动爱好者，可能大部分的人都是普通人，带着一种我万一用得上的心态，想要买一个运动相机。这些不是他的核心用户，却是他的销量及收入最大的来源。对于他们来说，如果新一代的产品不是重新定义了运动相机，那他们完全可以继续用上一年或者两年前的运动相机。
+我问Nick Woodman：“过去两年你们学到了什么，以及现在你们的自救措施及结果，是否满意？” 他回答：比较满意，因为对于他来说，最看重的指标是GoPro又开始盈利了，又开始有净利润了，即便这个公司的规模跟他的鼎盛时期根本就没法比。
+GoPro是一个典型的硅谷独角兽，但可能和近几年涌现出来的其他独角兽不太一样，后者更是一个平台，一个大众的东西。但GoPro本质上是比较小众的一个硬件厂商，他们在资本的快速涌入和增长阶段迷失掉了自己，像Uber迷失掉了自己的公司文化，然后变得不顾规则，过度的追求快速成长，结果也失去了最初的一些目标。
+ ### 本期讨论的主要有：
+创始人Nick Woodman的成长和早年创业经历
+GoPro成长史及巅峰时期
+探讨GoPro市值为什么会下跌
+为了挽救下跌，GoPro如何改变其策略
+GoPro是否还能东山再起
+相关信息
+硅谷早知道丨#32 Uber 上市估值那么高，就不怕腰斩吗？ (https://36kr.com/p/5157651)
+GoPro CEO Nick Woodman on ‘Bloomberg Studio 1.0’ (https://www.youtube.com/watch?v=KsN1CNSQFwk)
+Enjoy！
+原创文章，作者：「声动活泼」。
+在其他平台收听：
+喜马拉雅 (https://www.ximalaya.com/shangye/14233547/215353929)
+蜻蜓FM (https://www.qingting.fm/channels/285643/programs/13195540)
+36Kr  (https://36kr.com/audio/81088) 
+</description>
+      <itunes:keywords>硅谷早知道 </itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>杜晨</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>作为一家典型的家硅谷独角兽公司，GoPro经历了太多起起伏伏。</p>
+
+<p>作为曾经行业里的明星企业，Gopro 市值一度达到 130 亿美元，其创始人 Nick Woodman 薪酬也成为全美最高的2.87亿美元。但在上市后，GoPro 股价从 2014 年的 87 美元跌落至如今的不到 7 亿美元，也一度传出它寻求出售的消息。</p>
+
+<p>今年8月接受 Bloomberg 的采访时，Nick Woodman将创业形容成徒手攀岩。 </p>
+
+<p>那 GoPro 这些年的经历是什么样的，它现在又处在一个什么样的岩壁上。如果已经没有退路，是不是如同 Nick Woodman 所说，“唯一能支撑你继续的理由，就是你是否相信你最初的这个信念”。</p>
+
+<p>本期节目，我们请来了刚刚参加了GoPro 8 的新品发布会的驻硅谷记者杜晨。我们会深度探讨GoPro 创业至今的全过程，并试图分析背后的原因。</p>
+
+<p>另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<h3>本期嘉宾</h3>
+
+<p>杜晨，「PingWest 品玩」和「硅星人」的驻硅谷记者</p>
+
+<h3>The Takeaway</h3>
+
+<ul>
+<li><p>GoPro 相机的巅峰时期销售大概近四百万台，但是这个规模里不可能全是极限运动爱好者，可能大部分的人都是普通人，带着一种我万一用得上的心态，想要买一个运动相机。这些不是他的核心用户，却是他的销量及收入最大的来源。对于他们来说，如果新一代的产品不是重新定义了运动相机，那他们完全可以继续用上一年或者两年前的运动相机。</p></li>
+<li><p>我问Nick Woodman：“过去两年你们学到了什么，以及现在你们的自救措施及结果，是否满意？” 他回答：比较满意，因为对于他来说，最看重的指标是GoPro又开始盈利了，又开始有净利润了，即便这个公司的规模跟他的鼎盛时期根本就没法比。</p></li>
+<li><p>GoPro是一个典型的硅谷独角兽，但可能和近几年涌现出来的其他独角兽不太一样，后者更是一个平台，一个大众的东西。但GoPro本质上是比较小众的一个硬件厂商，他们在资本的快速涌入和增长阶段迷失掉了自己，像Uber迷失掉了自己的公司文化，然后变得不顾规则，过度的追求快速成长，结果也失去了最初的一些目标。</p></li>
+</ul>
+
+<p>### 本期讨论的主要有：</p>
+
+<ul>
+<li><p>创始人Nick Woodman的成长和早年创业经历</p></li>
+<li><p>GoPro成长史及巅峰时期</p></li>
+<li><p>探讨GoPro市值为什么会下跌</p></li>
+<li><p>为了挽救下跌，GoPro如何改变其策略</p></li>
+<li><p>GoPro是否还能东山再起</p></li>
+</ul>
+
+<h3>相关信息</h3>
+
+<p><a href="https://36kr.com/p/5157651" rel="nofollow">硅谷早知道丨#32 Uber 上市估值那么高，就不怕腰斩吗？</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=KsN1CNSQFwk" rel="nofollow">GoPro CEO Nick Woodman on ‘Bloomberg Studio 1.0’</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<h3>在其他平台收听：</h3>
+
+<p><a href="https://www.ximalaya.com/shangye/14233547/215353929" rel="nofollow">喜马拉雅</a></p>
+
+<p><a href="https://www.qingting.fm/channels/285643/programs/13195540" rel="nofollow">蜻蜓FM</a></p>
+
+<p><a href="https://36kr.com/audio/81088" rel="nofollow">36Kr </a></p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>杜晨</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>作为一家典型的家硅谷独角兽公司，GoPro经历了太多起起伏伏。</p>
+
+<p>作为曾经行业里的明星企业，Gopro 市值一度达到 130 亿美元，其创始人 Nick Woodman 薪酬也成为全美最高的2.87亿美元。但在上市后，GoPro 股价从 2014 年的 87 美元跌落至如今的不到 7 亿美元，也一度传出它寻求出售的消息。</p>
+
+<p>今年8月接受 Bloomberg 的采访时，Nick Woodman将创业形容成徒手攀岩。 </p>
+
+<p>那 GoPro 这些年的经历是什么样的，它现在又处在一个什么样的岩壁上。如果已经没有退路，是不是如同 Nick Woodman 所说，“唯一能支撑你继续的理由，就是你是否相信你最初的这个信念”。</p>
+
+<p>本期节目，我们请来了刚刚参加了GoPro 8 的新品发布会的驻硅谷记者杜晨。我们会深度探讨GoPro 创业至今的全过程，并试图分析背后的原因。</p>
+
+<p>另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<h3>本期嘉宾</h3>
+
+<p>杜晨，「PingWest 品玩」和「硅星人」的驻硅谷记者</p>
+
+<h3>The Takeaway</h3>
+
+<ul>
+<li><p>GoPro 相机的巅峰时期销售大概近四百万台，但是这个规模里不可能全是极限运动爱好者，可能大部分的人都是普通人，带着一种我万一用得上的心态，想要买一个运动相机。这些不是他的核心用户，却是他的销量及收入最大的来源。对于他们来说，如果新一代的产品不是重新定义了运动相机，那他们完全可以继续用上一年或者两年前的运动相机。</p></li>
+<li><p>我问Nick Woodman：“过去两年你们学到了什么，以及现在你们的自救措施及结果，是否满意？” 他回答：比较满意，因为对于他来说，最看重的指标是GoPro又开始盈利了，又开始有净利润了，即便这个公司的规模跟他的鼎盛时期根本就没法比。</p></li>
+<li><p>GoPro是一个典型的硅谷独角兽，但可能和近几年涌现出来的其他独角兽不太一样，后者更是一个平台，一个大众的东西。但GoPro本质上是比较小众的一个硬件厂商，他们在资本的快速涌入和增长阶段迷失掉了自己，像Uber迷失掉了自己的公司文化，然后变得不顾规则，过度的追求快速成长，结果也失去了最初的一些目标。</p></li>
+</ul>
+
+<p>### 本期讨论的主要有：</p>
+
+<ul>
+<li><p>创始人Nick Woodman的成长和早年创业经历</p></li>
+<li><p>GoPro成长史及巅峰时期</p></li>
+<li><p>探讨GoPro市值为什么会下跌</p></li>
+<li><p>为了挽救下跌，GoPro如何改变其策略</p></li>
+<li><p>GoPro是否还能东山再起</p></li>
+</ul>
+
+<h3>相关信息</h3>
+
+<p><a href="https://36kr.com/p/5157651" rel="nofollow">硅谷早知道丨#32 Uber 上市估值那么高，就不怕腰斩吗？</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=KsN1CNSQFwk" rel="nofollow">GoPro CEO Nick Woodman on ‘Bloomberg Studio 1.0’</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<h3>在其他平台收听：</h3>
+
+<p><a href="https://www.ximalaya.com/shangye/14233547/215353929" rel="nofollow">喜马拉雅</a></p>
+
+<p><a href="https://www.qingting.fm/channels/285643/programs/13195540" rel="nofollow">蜻蜓FM</a></p>
+
+<p><a href="https://36kr.com/audio/81088" rel="nofollow">36Kr </a></p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>哪吒和罗小黑，这样的动画电影中国可以做到每年都来两部吗？</title>
+      <link>http://shengfm.cn/s3e27</link>
+      <guid isPermaLink="false">07e11294-3df4-45eb-ad67-d0d98814ee5a</guid>
+      <pubDate>Thu, 19 Sep 2019 21:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/07e11294-3df4-45eb-ad67-d0d98814ee5a.mp3" length="28318527" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>如何透过「罗小黑战记」看中国动画产业</itunes:subtitle>
+      <itunes:duration>37:43</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/0/07e11294-3df4-45eb-ad67-d0d98814ee5a/cover.jpg?v=1"/>
+      <description>主播丨徐涛    嘉宾丨张进
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+继「哪吒之魔童降世」之后，又一部国产动画电影「罗小黑战记」看起来表现不错。
+两个月内，出现两部口碑不错的国产动画电影，大概很多人都会觉得这种概率很低吧。毕竟「大圣归来」在获得高票房之后，观众们迟迟没有等来第二部。而在过去两三年，票房尚可的国产动画电影也几乎没有。
+所以这个夏天国产动画电影的不错表现，是因为这一产业变得成熟了，还是依然是小概率事件？
+本期节目，我们请来了出品和发行这部电影的「卓然影业」创始人和CEO，张进。
+另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。
+本期嘉宾
+张进，卓然影业 CEO
+The Takeaway
+动画海外版权的销售远远大于真人电影，真人电影在国内可能是数十亿票房，在海外可能也只有百万美金的收入。但是动画电影有时候在国内只有千万级的票房等等，海外可能要五百万以上；
+就从全球来看，不管是美国还是日本，动画电影在商业方面的成功不是靠故事，而是靠动画形象，例如Hello Kitty，哆啦A梦，都是有一个很核心的形象，能让所有人记住并喜欢。
+整体动画电影产业和市场不成熟。贫穷限制了我们的想象力，像大圣，哪吒，白蛇传都是公共IP，公共IP是免费的但也是有群中基础的：有基础且免费。所以在没有钱的时候，是不是我们是不应该首选这样的事情来做。
+产业成熟，意味着你的创作资源相当丰富。
+本期讨论的主要有：
+「罗小黑战记」背后的故事
+为什么中国动画电影的产量和质量如此不稳定
+中国动画电影产业是否正在迎来转折
+彩蛋：会不会有「罗小黑战记2」
+相关信息
+当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了 (https://36kr.com/audio/78529)
+Enjoy！
+原创文章，作者：「声动活泼」。
+在其他平台收听
+喜马拉雅 (https://www.ximalaya.com/shangye/14233547/213542068)
+蜻蜓FM (https://www.qingting.fm/channels/285643/programs/13139620)
+36 Kr (https://36kr.com/audio/80467)
+</description>
+      <itunes:keywords>硅谷早知道 影业</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>张进</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>继「哪吒之魔童降世」之后，又一部国产动画电影「罗小黑战记」看起来表现不错。</p>
+
+<p>两个月内，出现两部口碑不错的国产动画电影，大概很多人都会觉得这种概率很低吧。毕竟「大圣归来」在获得高票房之后，观众们迟迟没有等来第二部。而在过去两三年，票房尚可的国产动画电影也几乎没有。</p>
+
+<p>所以这个夏天国产动画电影的不错表现，是因为这一产业变得成熟了，还是依然是小概率事件？</p>
+
+<p>本期节目，我们请来了出品和发行这部电影的「卓然影业」创始人和CEO，张进。</p>
+
+<p>另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<h3>本期嘉宾</h3>
+
+<p>张进，卓然影业 CEO</p>
+
+<h3>The Takeaway</h3>
+
+<ul>
+<li><p>动画海外版权的销售远远大于真人电影，真人电影在国内可能是数十亿票房，在海外可能也只有百万美金的收入。但是动画电影有时候在国内只有千万级的票房等等，海外可能要五百万以上；</p></li>
+<li><p>就从全球来看，不管是美国还是日本，动画电影在商业方面的成功不是靠故事，而是靠动画形象，例如Hello Kitty，哆啦A梦，都是有一个很核心的形象，能让所有人记住并喜欢。</p></li>
+<li><p>整体动画电影产业和市场不成熟。贫穷限制了我们的想象力，像大圣，哪吒，白蛇传都是公共IP，公共IP是免费的但也是有群中基础的：有基础且免费。所以在没有钱的时候，是不是我们是不应该首选这样的事情来做。</p></li>
+<li><p>产业成熟，意味着你的创作资源相当丰富。</p></li>
+</ul>
+
+<h3>本期讨论的主要有：</h3>
+
+<ul>
+<li><p>「罗小黑战记」背后的故事</p></li>
+<li><p>为什么中国动画电影的产量和质量如此不稳定</p></li>
+<li><p>中国动画电影产业是否正在迎来转折</p></li>
+<li><p>彩蛋：会不会有「罗小黑战记2」</p></li>
+</ul>
+
+<h3>相关信息</h3>
+
+<p><a href="https://36kr.com/audio/78529" rel="nofollow">当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<h3>在其他平台收听</h3>
+
+<ul>
+<li><p><a href="https://www.ximalaya.com/shangye/14233547/213542068" rel="nofollow">喜马拉雅</a></p></li>
+<li><p><a href="https://www.qingting.fm/channels/285643/programs/13139620" rel="nofollow">蜻蜓FM</a></p></li>
+<li><p><a href="https://36kr.com/audio/80467" rel="nofollow">36 Kr</a></p></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>徐涛    <strong>嘉宾丨</strong>张进</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>继「哪吒之魔童降世」之后，又一部国产动画电影「罗小黑战记」看起来表现不错。</p>
+
+<p>两个月内，出现两部口碑不错的国产动画电影，大概很多人都会觉得这种概率很低吧。毕竟「大圣归来」在获得高票房之后，观众们迟迟没有等来第二部。而在过去两三年，票房尚可的国产动画电影也几乎没有。</p>
+
+<p>所以这个夏天国产动画电影的不错表现，是因为这一产业变得成熟了，还是依然是小概率事件？</p>
+
+<p>本期节目，我们请来了出品和发行这部电影的「卓然影业」创始人和CEO，张进。</p>
+
+<p>另外， 听众可以添加我们小助手「声小音」的微信 shengfm1 ，加入「硅谷早知道」听众群。「硅谷早知道」现为「声动活泼」传媒旗下节目。</p>
+
+<h3>本期嘉宾</h3>
+
+<p>张进，卓然影业 CEO</p>
+
+<h3>The Takeaway</h3>
+
+<ul>
+<li><p>动画海外版权的销售远远大于真人电影，真人电影在国内可能是数十亿票房，在海外可能也只有百万美金的收入。但是动画电影有时候在国内只有千万级的票房等等，海外可能要五百万以上；</p></li>
+<li><p>就从全球来看，不管是美国还是日本，动画电影在商业方面的成功不是靠故事，而是靠动画形象，例如Hello Kitty，哆啦A梦，都是有一个很核心的形象，能让所有人记住并喜欢。</p></li>
+<li><p>整体动画电影产业和市场不成熟。贫穷限制了我们的想象力，像大圣，哪吒，白蛇传都是公共IP，公共IP是免费的但也是有群中基础的：有基础且免费。所以在没有钱的时候，是不是我们是不应该首选这样的事情来做。</p></li>
+<li><p>产业成熟，意味着你的创作资源相当丰富。</p></li>
+</ul>
+
+<h3>本期讨论的主要有：</h3>
+
+<ul>
+<li><p>「罗小黑战记」背后的故事</p></li>
+<li><p>为什么中国动画电影的产量和质量如此不稳定</p></li>
+<li><p>中国动画电影产业是否正在迎来转折</p></li>
+<li><p>彩蛋：会不会有「罗小黑战记2」</p></li>
+</ul>
+
+<h3>相关信息</h3>
+
+<p><a href="https://36kr.com/audio/78529" rel="nofollow">当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了</a></p>
+
+<p>Enjoy！</p>
+
+<p>原创文章，作者：「声动活泼」。</p>
+
+<h3>在其他平台收听</h3>
+
+<ul>
+<li><p><a href="https://www.ximalaya.com/shangye/14233547/213542068" rel="nofollow">喜马拉雅</a></p></li>
+<li><p><a href="https://www.qingting.fm/channels/285643/programs/13139620" rel="nofollow">蜻蜓FM</a></p></li>
+<li><p><a href="https://36kr.com/audio/80467" rel="nofollow">36 Kr</a></p></li>
+</ul>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 79: S3E26 下集：一路晋升到c-level！这名华人如何在美国打造爆款媒体？</title>
+      <link>http://shengfm.cn/79</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group66/M04/88/E2/wKgMdV1515OCEhGoAR1HYCDp4e4798.m4a</guid>
+      <pubDate>Thu, 12 Sep 2019 13:30:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3fd83fee-6b63-4035-ad0d-95bf20ca8e4b.mp3" length="28241988" type="audio/mpeg"/>
+      <itunes:episode>79</itunes:episode>
+      <itunes:title>S3E26 下集：一路晋升到c-level！这名华人如何在美国打造爆款媒体？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E26 下集：一路晋升到c-level！这名华人如何在美国打造爆款媒体？</itunes:subtitle>
+      <itunes:duration>38:25</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/3/3fd83fee-6b63-4035-ad0d-95bf20ca8e4b/cover.jpg?v=2"/>
+      <description>主播丨刘泓君   ** 嘉宾丨Vincent Wu
+**后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？
+本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。
+Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。
+我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。
+本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是下半集，更多内容请进入上半集收听。
+节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。
+本期主播
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者
+本期嘉宾
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官
+The Takeaway
+广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。
+Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。
+媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。
+为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。
+本期（下集）讨论的主要问题有：
+订阅模式会是媒体平台的良药吗
+Apple News 对媒体行业的影响
+媒体行业下一步会如何发展
+中美媒体行业人员流动性
+（更多内容请收听本期节目上半场部分）
+访谈中提及名词
+赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。
+Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。
+News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。
+BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。
+程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君   ** 嘉宾丨<strong>Vincent Wu<br>
+**后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？</p>
+
+<p>本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。</p>
+
+<p>Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。</p>
+
+<p>我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。</p>
+
+<p>本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是下半集，更多内容请进入上半集收听。</p>
+
+<p>节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p><strong>本期主播</strong><br>
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。</p>
+
+<p>Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。</p>
+
+<p>媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。</p>
+
+<p>为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。</p>
+
+<p><strong>本期（下集）讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>订阅模式会是媒体平台的良药吗</p></li>
+<li><p>Apple News 对媒体行业的影响</p></li>
+<li><p>媒体行业下一步会如何发展</p></li>
+<li><p>中美媒体行业人员流动性</p></li>
+</ul>
+
+<p>（更多内容请收听本期节目上半场部分）</p>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。</p></li>
+<li><p>Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。</p></li>
+<li><p>News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。</p></li>
+<li><p>BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。</p></li>
+<li><p>程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。</p></li>
+</ul>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君   ** 嘉宾丨<strong>Vincent Wu<br>
+**后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？</p>
+
+<p>本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。</p>
+
+<p>Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。</p>
+
+<p>我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。</p>
+
+<p>本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是下半集，更多内容请进入上半集收听。</p>
+
+<p>节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p><strong>本期主播</strong><br>
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官</p>
+
+<p><strong>The Takeaway</strong></p>
+
+<p>广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。</p>
+
+<p>Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。</p>
+
+<p>媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。</p>
+
+<p>为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。</p>
+
+<p><strong>本期（下集）讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>订阅模式会是媒体平台的良药吗</p></li>
+<li><p>Apple News 对媒体行业的影响</p></li>
+<li><p>媒体行业下一步会如何发展</p></li>
+<li><p>中美媒体行业人员流动性</p></li>
+</ul>
+
+<p>（更多内容请收听本期节目上半场部分）</p>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。</p></li>
+<li><p>Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。</p></li>
+<li><p>News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。</p></li>
+<li><p>BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。</p></li>
+<li><p>程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。</p></li>
+</ul>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 78: S3E25 上集： 一路晋升到c-leve！这名华人如何在美国打造爆款媒体？</title>
+      <link>http://shengfm.cn/78</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group65/M08/88/0A/wKgMal1500iBD48iATGIayCmsGQ500.m4a</guid>
+      <pubDate>Thu, 12 Sep 2019 13:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/28e95b2e-748f-41fa-9d55-fea0817325d8.mp3" length="30544617" type="audio/mpeg"/>
+      <itunes:episode>78</itunes:episode>
+      <itunes:title>S3E25 上集： 一路晋升到c-leve！这名华人如何在美国打造爆款媒体？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E25 上集： 一路晋升到c-leve！这名华人如何在美国打造爆款媒体？</itunes:subtitle>
+      <itunes:duration>41:09</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/2/28e95b2e-748f-41fa-9d55-fea0817325d8/cover.jpg?v=1"/>
+      <description>主播丨刘泓君    嘉宾丨Vincent Wu
+后期制作丨迪卡普里鑫
+（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？
+本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。
+Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。
+本期节目我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。
+本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是上半集，更多内容请进入下半集收听。
+节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。
+本期主播
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者
+本期嘉宾
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官
+The Takeaway
+广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。
+Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。
+媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。
+为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。
+本期（上集）讨论的主要问题有：
+* Vincent Wu 是如何在赫芬顿邮报做到公司高管的
+赫芬顿邮报作为新媒体是如何把流量做大的
+如何将媒体运营中的数据运用于内容编辑
+非英语母语国家媒体人如何融入美国文化
+媒体现在面临是行业模式危机
+（更多内容请收听本期节目下半场部分）
+访谈中提及名词
+* 赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。
+Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。
+News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。
+BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。
+程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。
+相关节目
+流量很疯狂，困在其中的又是谁
+Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？
+原创文章，作者：「声动活泼」。 
+</description>
+      <content:encoded>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君    <strong>嘉宾丨</strong>Vincent Wu</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？</p>
+
+<p>本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。</p>
+
+<p>Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。</p>
+
+<p>本期节目我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。</p>
+
+<p>本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是上半集，更多内容请进入下半集收听。</p>
+
+<p>节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p><strong>本期主播</strong><br>
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官</p>
+
+<p><strong>The Takeaway</strong><br>
+广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。</p>
+
+<p>Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。</p>
+
+<p>媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。</p>
+
+<p>为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。</p>
+
+<p><strong>本期（上集）讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>Vincent Wu 是如何在赫芬顿邮报做到公司高管的</p></li>
+<li><p>赫芬顿邮报作为新媒体是如何把流量做大的</p></li>
+<li><p>如何将媒体运营中的数据运用于内容编辑</p></li>
+<li><p>非英语母语国家媒体人如何融入美国文化</p></li>
+<li><p>媒体现在面临是行业模式危机</p></li>
+</ul>
+
+<p>（更多内容请收听本期节目下半场部分）</p>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。</p></li>
+<li><p>Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。</p></li>
+<li><p>News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。</p></li>
+<li><p>BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。</p></li>
+<li><p>程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。</p></li>
+</ul>
+
+<p>相关节目<br>
+流量很疯狂，困在其中的又是谁</p>
+
+<p>Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？</p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p><strong>主播丨</strong>刘泓君    <strong>嘉宾丨</strong>Vincent Wu</p>
+
+<p><strong>后期制作丨</strong>迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>即使在美国，各路传统媒体也都在艰难求生。在新媒体和互联网公司崛起的情况下，媒体公司生存空间不断被压缩，如果是你，会怎么应对？</p>
+
+<p>本期节目我们请来的嘉宾是硅谷明星创业公司 NewsBreak 的首席运营官 Vincent Wu，NewsBreak 已拥有超过 500 万的日活用户，并分别在美国安卓和 iOS 设备新闻类应用中分别排名第一第二，超过 CNN、FoxNews 等美国主流媒体 app 以及 SmartNews、Yahoo News 等同类产品。</p>
+
+<p>Vincent 还曾担任 Yahoo News/HuffPost 新闻集团的首席运营官，并在 AOL（美国在线）担任策略及运营总监，拥有十余年的企业管理咨询经验。</p>
+
+<p>本期节目我们会聊聊 Vincent 如何凭借其管理经验和业务能力，从工程背景一路晋升成为少有的美国媒体行业高管，也会深入探讨在当下竞争激烈的媒体领域中，下一步破局和突围的方向在哪里。</p>
+
+<p>本期节目是「硅谷早知道」的中秋特别版，分为 上、下 两集，您目前听到的是上半集，更多内容请进入下半集收听。</p>
+
+<p>节目中提到的SYNC 2019 硅谷大会门票优惠门票入口在此， 更多信息也可添加我们小助手「声小音」的微信 shengfm1 咨询。</p>
+
+<p><strong>本期主播</strong><br>
+刘泓君，「财经」杂志与「晚点LatePost」硅谷驻站记者</p>
+
+<p><strong>本期嘉宾</strong><br>
+Vincent Wu，NewsBreak首席运营官；曾担任 Yahoo News/HuffPost 新闻集团的首席运营官</p>
+
+<p><strong>The Takeaway</strong><br>
+广告主越来越多通过第三方平台来购买广告位，所以越来越多的资金进入到「程式化广告」平台，其显著特征是价格会越来越低。这给媒体运营带来非常大的挑战，因为虽然媒体能保持流量不变甚至增加，但若销售出的广告价格在不停下滑，经验依然是越来越困难。</p>
+
+<p>Apple News 在媒体行业里有一点不正当竞争，因为它是预装的，所以这给他们了很大优势。虽然客户体验非常好的，但媒体的所得却很少。但为什么这么多媒体公司还要在 Apple News 上线，是因为想要接触消费者，为了能有多个渠道让消费者看到其内容。</p>
+
+<p>媒体行业竞争者太多。美国真正主流的大的媒体至少100以上。但音乐行业主流的其实就3、4家左右的寡头，它们一旦联合起来后跟 Spotify 沟通就比较有话语权。而媒体公司很难真正的把整个行业结成一个有力的联盟。</p>
+
+<p>为什么和中国比起来，美国自媒体没有起来？因为现在美国的中小媒体内容还是很好的，但盈利模式很单一。</p>
+
+<p><strong>本期（上集）讨论的主要问题有：</strong></p>
+
+<ul>
+<li><p>Vincent Wu 是如何在赫芬顿邮报做到公司高管的</p></li>
+<li><p>赫芬顿邮报作为新媒体是如何把流量做大的</p></li>
+<li><p>如何将媒体运营中的数据运用于内容编辑</p></li>
+<li><p>非英语母语国家媒体人如何融入美国文化</p></li>
+<li><p>媒体现在面临是行业模式危机</p></li>
+</ul>
+
+<p>（更多内容请收听本期节目下半场部分）</p>
+
+<p><strong>访谈中提及名词</strong></p>
+
+<ul>
+<li><p>赫芬顿邮报（Huffpost）是一个美国的多语言网络传媒。以新闻报导及其评论平台之形式开始运作于2005年5月9日。被美国在线于2011年2月收购之后，赫芬顿邮报之网站流量一度超越「纽约时报」网站。</p></li>
+<li><p>Arianna Huffington，美国「赫芬顿邮报」和 Thrive Global 创始人，曾在2003年和施瓦辛格（Arnold Schwarzenegger）同台竞技加州州长选举。2016年8月，Arianna Huffington宣布从「赫芬顿邮报」辞职。</p></li>
+<li><p>News Break，其主打产品是新闻信息阅读平台。作为公司，News Break 已成为北美市场最成功的出海创业公司之一。</p></li>
+<li><p>BuzzFeed，一个美国的新闻聚合网站，致力于从数百个新闻博客那里获取订阅源，通过搜索、发送信息链接，为用户浏览当天网上的最热门事件提供方便，被称为是媒体行业的颠覆者。</p></li>
+<li><p>程序化广告（Programmatic Advertising），为广告主和媒体提供高效、智能、精准的营销机会，带来营销效率和广告效果的双提升。不同的业务需求驱动下，程序化广告市场中产生了各种交易模式。</p></li>
+</ul>
+
+<p>相关节目<br>
+流量很疯狂，困在其中的又是谁</p>
+
+<p>Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？</p>
+
+<p>原创文章，作者：「声动活泼」。</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 77: S3E24 同样是隐私泄漏，为什么Facebook的罚款比Equifax多了10倍</title>
+      <link>http://shengfm.cn/77</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group64/M08/16/46/wKgMc11xznTCYKTyATLutWkQGgs932.m4a</guid>
+      <pubDate>Fri, 06 Sep 2019 11:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/84e9eca3-c101-4468-81a0-dfd1eeb95d30.mp3" length="40577267" type="audio/mpeg"/>
+      <itunes:episode>77</itunes:episode>
+      <itunes:title>S3E24 同样是隐私泄漏，为什么Facebook的罚款比Equifax多了10倍</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E24 同样是隐私泄漏，为什么Facebook的罚款比Equifax多了10倍</itunes:subtitle>
+      <itunes:duration>41:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/8/84e9eca3-c101-4468-81a0-dfd1eeb95d30/cover.jpg?v=1"/>
+      <description>主播丨刘泓君 嘉宾丨张璐
+ 后期制作丨迪卡普里鑫
+ （以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+ 我们生活在一个个人能被精准预测和定义的大数据时代，然而，数据泄露事件却... 
+</description>
+      <content:encoded>
+        <![CDATA[<p>主播丨刘泓君 嘉宾丨张璐</p>
+
+<p>后期制作丨迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>我们生活在一个个人能被精准预测和定义的大数据时代，然而，数据泄露事件却...</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>主播丨刘泓君 嘉宾丨张璐</p>
+
+<p>后期制作丨迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>我们生活在一个个人能被精准预测和定义的大数据时代，然而，数据泄露事件却...</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 76: S3E23 当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了</title>
+      <link>http://shengfm.cn/76</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group65/M07/97/1D/wKgMdF1ooUzT_pFjAQIxahvt2II748.m4a</guid>
+      <pubDate>Fri, 30 Aug 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/328e8c03-3e2f-4849-b8e6-f219fd505e3b.mp3" length="34335028" type="audio/mpeg"/>
+      <itunes:episode>76</itunes:episode>
+      <itunes:title>S3E23 当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E23 当了门口野蛮人那么久，现在是不是该Netflix来担心迪士尼的反击了</itunes:subtitle>
+      <itunes:duration>34:50</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/3/328e8c03-3e2f-4849-b8e6-f219fd505e3b/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 75: S3E22 流量作假、网红泛滥、争夺私域流量，这个自欺欺人的游戏下一步要怎么演化</title>
+      <link>http://shengfm.cn/75</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group66/M0A/34/D7/wKgMdV1h9BSCu_GFATsYSVZIvzA886.m4a</guid>
+      <pubDate>Sun, 25 Aug 2019 10:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4612735e-58ba-4e9b-8a60-0f5e59789694.mp3" length="41669403" type="audio/mpeg"/>
+      <itunes:episode>75</itunes:episode>
+      <itunes:title>S3E22 流量作假、网红泛滥、争夺私域流量，这个自欺欺人的游戏下一步要怎么演化</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E22 流量作假、网红泛滥、争夺私域流量，这个自欺欺人的游戏下一步要怎么演化</itunes:subtitle>
+      <itunes:duration>42:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/4/4612735e-58ba-4e9b-8a60-0f5e59789694/cover.jpg?v=1"/>
+      <description>主播丨徐涛
+ 嘉宾丨李倩玲（Bessie Lee）
+ 后期制作丨迪卡普里鑫
+ （以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）
+ 这是一个爆款和流量明星不断涌现的时代。
+ 周杰伦粉丝和蔡徐坤粉丝刚刚... 
+</description>
+      <content:encoded>
+        <![CDATA[<p>主播丨徐涛</p>
+
+<p>嘉宾丨李倩玲（Bessie Lee）</p>
+
+<p>后期制作丨迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>这是一个爆款和流量明星不断涌现的时代。</p>
+
+<p>周杰伦粉丝和蔡徐坤粉丝刚刚...</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>主播丨徐涛</p>
+
+<p>嘉宾丨李倩玲（Bessie Lee）</p>
+
+<p>后期制作丨迪卡普里鑫</p>
+
+<p>（以下文字只是音频节目的少许补充。「硅谷早知道」每周周五中午12点准时更新，敬请期待。）</p>
+
+<p>这是一个爆款和流量明星不断涌现的时代。</p>
+
+<p>周杰伦粉丝和蔡徐坤粉丝刚刚...</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 74: S3E21 硅谷正在走下浪潮之巅吗</title>
+      <link>http://shengfm.cn/74</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group66/M00/B8/7C/wKgMa11YGrOTMAPeAOb8ojD9Glk642.m4a</guid>
+      <pubDate>Sat, 17 Aug 2019 23:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/320bd33c-66c1-42b6-b488-d8cbed108978.mp3" length="30756520" type="audio/mpeg"/>
+      <itunes:episode>74</itunes:episode>
+      <itunes:title>S3E21 硅谷正在走下浪潮之巅吗</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E21 硅谷正在走下浪潮之巅吗</itunes:subtitle>
+      <itunes:duration>31:05</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/3/320bd33c-66c1-42b6-b488-d8cbed108978/cover.jpg?v=1"/>
+      <description>主播丨徐涛
+ 嘉宾丨丁教 肖旭（Vicky）
+ 后期制作丨迪卡普里鑫 
+</description>
+      <content:encoded>
+        <![CDATA[<p>主播丨徐涛</p>
+
+<p>嘉宾丨丁教 肖旭（Vicky）</p>
+
+<p>后期制作丨迪卡普里鑫</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>主播丨徐涛</p>
+
+<p>嘉宾丨丁教 肖旭（Vicky）</p>
+
+<p>后期制作丨迪卡普里鑫</p>]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 73: S3E20 这家和华为闹翻的硅谷公司，正验证了全球供应链面临的危机</title>
+      <link>http://shengfm.cn/73</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group65/M00/19/40/wKgMal1NJf6SgLEOAKxaTCpBf58738.m4a</guid>
+      <pubDate>Fri, 09 Aug 2019 15:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/023ab598-2b48-4671-8e02-12278d7c1934.mp3" length="23178860" type="audio/mpeg"/>
+      <itunes:episode>73</itunes:episode>
+      <itunes:title>S3E20 这家和华为闹翻的硅谷公司，正验证了全球供应链面临的危机</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E20 这家和华为闹翻的硅谷公司，正验证了全球供应链面临的危机</itunes:subtitle>
+      <itunes:duration>23:15</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/0/023ab598-2b48-4671-8e02-12278d7c1934/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 72: S3E19 把生产线搬到美国可行吗？</title>
+      <link>http://shengfm.cn/72</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group63/M06/7A/19/wKgMaF0v8tKC2vp7AWgd0qEXp4s984.m4a</guid>
+      <pubDate>Fri, 19 Jul 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e80897a8-dd30-4a9e-bf40-9132d1b6de73.mp3" length="70836216" type="audio/mpeg"/>
+      <itunes:episode>72</itunes:episode>
+      <itunes:title>S3E19 把生产线搬到美国可行吗？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E19 把生产线搬到美国可行吗？</itunes:subtitle>
+      <itunes:duration>48:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/e/e80897a8-dd30-4a9e-bf40-9132d1b6de73/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 71: E3S18 这场人事变动，会给苹果带来什么？</title>
+      <link>http://shengfm.cn/71</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group63/M00/14/2F/wKgMcl0oFYHwigCXAOQLH-isMQY323.m4a</guid>
+      <pubDate>Fri, 12 Jul 2019 13:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/85ec9969-038e-451b-b95c-4b6a75b28a95.mp3" length="45188184" type="audio/mpeg"/>
+      <itunes:episode>71</itunes:episode>
+      <itunes:title>E3S18 这场人事变动，会给苹果带来什么？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>E3S18 这场人事变动，会给苹果带来什么？</itunes:subtitle>
+      <itunes:duration>30:46</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/8/85ec9969-038e-451b-b95c-4b6a75b28a95/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 70: S3E17 都2019了，中美科技差距还很大吗？</title>
+      <link>http://shengfm.cn/70</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group62/M09/B4/3B/wKgMZ10e0M2j_XKzASCw4NNHx8I853.m4a</guid>
+      <pubDate>Fri, 05 Jul 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6d82812-4941-4280-a85d-94448582f41d.mp3" length="56977502" type="audio/mpeg"/>
+      <itunes:episode>70</itunes:episode>
+      <itunes:title>S3E17 都2019了，中美科技差距还很大吗？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E17 都2019了，中美科技差距还很大吗？</itunes:subtitle>
+      <itunes:duration>38:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/a/a6d82812-4941-4280-a85d-94448582f41d/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 69: S3E16 专访触宝王佳梁：从壮士断腕到纽交所上市，在转型中学到些什么</title>
+      <link>http://shengfm.cn/69</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group61/M01/B2/55/wKgMcF0VvDLDLF_fARdnsG2clIc894.m4a</guid>
+      <pubDate>Fri, 28 Jun 2019 15:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e5571e94-7f46-4423-9008-bd3794a79583.mp3" length="37046337" type="audio/mpeg"/>
+      <itunes:episode>69</itunes:episode>
+      <itunes:title>S3E16 专访触宝王佳梁：从壮士断腕到纽交所上市，在转型中学到些什么</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E16 专访触宝王佳梁：从壮士断腕到纽交所上市，在转型中学到些什么</itunes:subtitle>
+      <itunes:duration>37:41</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/e/e5571e94-7f46-4423-9008-bd3794a79583/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 68: S3E15 14年前苹果让播客得以成为一个行业，现在它的发展在中美大不相同</title>
+      <link>http://shengfm.cn/68</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group63/M0B/9A/DE/wKgMaFz_V-PABmiHAO4sXpRl3cM434.m4a</guid>
+      <pubDate>Tue, 11 Jun 2019 15:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/5d937997-65de-43fe-8a3c-b4997c75bd60.mp3" length="47137446" type="audio/mpeg"/>
+      <itunes:episode>68</itunes:episode>
+      <itunes:title>S3E15 14年前苹果让播客得以成为一个行业，现在它的发展在中美大不相同</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E15 14年前苹果让播客得以成为一个行业，现在它的发展在中美大不相同</itunes:subtitle>
+      <itunes:duration>32:08</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/5/5d937997-65de-43fe-8a3c-b4997c75bd60/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 67: S3E14 在WWDC现场，当然要听听开发者怎么说</title>
+      <link>http://shengfm.cn/67</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group61/M03/22/92/wKgMZlz3xl6CCYy_AObpjJXq2dY189.m4a</guid>
+      <pubDate>Wed, 05 Jun 2019 21:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/919f79e7-30ea-4221-9068-36327aad1435.mp3" length="45657549" type="audio/mpeg"/>
+      <itunes:episode>67</itunes:episode>
+      <itunes:title>S3E14 在WWDC现场，当然要听听开发者怎么说</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E14 在WWDC现场，当然要听听开发者怎么说</itunes:subtitle>
+      <itunes:duration>31:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/9/919f79e7-30ea-4221-9068-36327aad1435/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 66: S3E13 创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？</title>
+      <link>http://shengfm.cn/66</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group60/M02/2D/4D/wKgLb1zvswLheWpUAQCgibcfxY8472.m4a</guid>
+      <pubDate>Fri, 31 May 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e6841545-c52b-4dd7-99ec-3b648e8c675d.mp3" length="50739951" type="audio/mpeg"/>
+      <itunes:episode>66</itunes:episode>
+      <itunes:title>S3E13 创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E13 创业公司死去，亚马逊却要进场，这个烧钱猛烈的行业现今版图如何？</itunes:subtitle>
+      <itunes:duration>34:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/e/e6841545-c52b-4dd7-99ec-3b648e8c675d/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 65: S3E12 旧金山禁止政府使用人脸识别技术，这件事孰好孰坏？</title>
+      <link>http://shengfm.cn/65</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group58/M08/86/78/wKgLc1znv2ejwXKhAUJYMFM5648727.m4a</guid>
+      <pubDate>Fri, 24 May 2019 17:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f60918ae-3ba3-4fdb-a582-087ae3c3bc4f.mp3" length="63509788" type="audio/mpeg"/>
+      <itunes:episode>65</itunes:episode>
+      <itunes:title>S3E12 旧金山禁止政府使用人脸识别技术，这件事孰好孰坏？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E12 旧金山禁止政府使用人脸识别技术，这件事孰好孰坏？</itunes:subtitle>
+      <itunes:duration>43:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/f/f60918ae-3ba3-4fdb-a582-087ae3c3bc4f/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 64: S3E11 早期天使眼中ZOOM的创业维艰与成功秘诀</title>
+      <link>http://shengfm.cn/64</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group59/M09/DD/EF/wKgLeFzew5ugWa0LAMGyVzHCE-Y164.m4a</guid>
+      <pubDate>Fri, 17 May 2019 22:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f84659c8-d461-4f01-b0a5-073c6b490665.mp3" length="38510514" type="audio/mpeg"/>
+      <itunes:episode>64</itunes:episode>
+      <itunes:title>S3E11 早期天使眼中ZOOM的创业维艰与成功秘诀</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E11 早期天使眼中ZOOM的创业维艰与成功秘诀</itunes:subtitle>
+      <itunes:duration>26:07</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/f/f84659c8-d461-4f01-b0a5-073c6b490665/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 63: S3E09 招了一堆履历过人的外国高管，为什么出海公司还是难做好</title>
+      <link>http://shengfm.cn/63</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group58/M06/EB/BC/wKgLglzSQ6TSxqriAVJU6rMviQI487.m4a</guid>
+      <pubDate>Wed, 08 May 2019 10:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a56b8951-ac0c-4d8d-8efb-d7ff252707ee.mp3" length="44679095" type="audio/mpeg"/>
+      <itunes:episode>63</itunes:episode>
+      <itunes:title>S3E09 招了一堆履历过人的外国高管，为什么出海公司还是难做好</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E09 招了一堆履历过人的外国高管，为什么出海公司还是难做好</itunes:subtitle>
+      <itunes:duration>45:38</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/a/a56b8951-ac0c-4d8d-8efb-d7ff252707ee/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 62: S3E10 麻烦不断的Facebook，为什么财报表现还不错？</title>
+      <link>http://shengfm.cn/62</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group58/M06/D1/15/wKgLc1zQ7kCy7QE9AQInJfvLXnc661.m4a</guid>
+      <pubDate>Tue, 07 May 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f2233f7f-16c1-4f85-80ac-9dabc9736da6.mp3" length="51018028" type="audio/mpeg"/>
+      <itunes:episode>62</itunes:episode>
+      <itunes:title>S3E10 麻烦不断的Facebook，为什么财报表现还不错？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E10 麻烦不断的Facebook，为什么财报表现还不错？</itunes:subtitle>
+      <itunes:duration>34:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/f/f2233f7f-16c1-4f85-80ac-9dabc9736da6/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 61: S3E08 童士豪：VC在求变，但大家有误解</title>
+      <link>http://shengfm.cn/61</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group59/M0B/CA/84/wKgLelzChv2i67hdAOZZoz_x3Ns331.m4a</guid>
+      <pubDate>Fri, 26 Apr 2019 12:30:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/1aced593-ffaa-45bc-8837-72ca01e18f4f.mp3" length="45632662" type="audio/mpeg"/>
+      <itunes:episode>61</itunes:episode>
+      <itunes:title>S3E08 童士豪：VC在求变，但大家有误解</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E08 童士豪：VC在求变，但大家有误解</itunes:subtitle>
+      <itunes:duration>31:04</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/1/1aced593-ffaa-45bc-8837-72ca01e18f4f/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 60: S3E07 是的，我们是见证太空商业化的一代人</title>
+      <link>http://shengfm.cn/60</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group60/M00/F0/B6/wKgLb1y4FaWizZdNAQTa81vqTTY705.m4a</guid>
+      <pubDate>Fri, 19 Apr 2019 12:30:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d22c3cf0-04ca-4e17-b084-42c9d7aa61de.mp3" length="51567852" type="audio/mpeg"/>
+      <itunes:episode>60</itunes:episode>
+      <itunes:title>S3E07 是的，我们是见证太空商业化的一代人</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E07 是的，我们是见证太空商业化的一代人</itunes:subtitle>
+      <itunes:duration>35:11</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/d/d22c3cf0-04ca-4e17-b084-42c9d7aa61de/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 59: S3E06 十年间从无到被追捧，创新药行业会走向全球吗？</title>
+      <link>http://shengfm.cn/59</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group60/M03/55/54/wKgLb1ywKbDS-pWZASHQsniOckY628.m4a</guid>
+      <pubDate>Fri, 12 Apr 2019 14:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/0e01a07a-ed5a-4b81-89e2-86a86e0e833e.mp3" length="57170348" type="audio/mpeg"/>
+      <itunes:episode>59</itunes:episode>
+      <itunes:title>S3E06 十年间从无到被追捧，创新药行业会走向全球吗？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E06 十年间从无到被追捧，创新药行业会走向全球吗？</itunes:subtitle>
+      <itunes:duration>39:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/0/0e01a07a-ed5a-4b81-89e2-86a86e0e833e/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 58: S3E05 Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？</title>
+      <link>http://shengfm.cn/58</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group57/M05/41/24/wKgLd1ydj_uzRjuqARO5eDFZZEU978.m4a</guid>
+      <pubDate>Fri, 29 Mar 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a63b412e-f863-48c1-aae7-e6e22ed2b67d.mp3" length="54432036" type="audio/mpeg"/>
+      <itunes:episode>58</itunes:episode>
+      <itunes:title>S3E05 Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E05 Facebook和今日头条是恶龙，苹果就是媒体业的白衣骑士吗？</itunes:subtitle>
+      <itunes:duration>37:12</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/a/a63b412e-f863-48c1-aae7-e6e22ed2b67d/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 57: S3E04 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（下）</title>
+      <link>http://shengfm.cn/57</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group55/M01/72/12/wKgLdVyTEOOR8GQJAKdv2BH6zr4073.m4a</guid>
+      <pubDate>Fri, 22 Mar 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/30cdb612-1f81-483e-8b61-4e936308d3dd.mp3" length="22542312" type="audio/mpeg"/>
+      <itunes:episode>57</itunes:episode>
+      <itunes:title>S3E04 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（下）</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E04 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（下）</itunes:subtitle>
+      <itunes:duration>22:35</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/3/30cdb612-1f81-483e-8b61-4e936308d3dd/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 56: S3E03 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（上）</title>
+      <link>http://shengfm.cn/56</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group57/M08/C4/4F/wKgLd1yLD0mRj1B6AKooZh5XSyA952.m4a</guid>
+      <pubDate>Fri, 15 Mar 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/5e7aca7f-ffb9-4ce1-abc5-b0016b820440.mp3" length="33920120" type="audio/mpeg"/>
+      <itunes:episode>56</itunes:episode>
+      <itunes:title>S3E03 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（上）</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E03 曾经对抗大公司的开源软件，怎么就开始被大公司青睐了（上）</itunes:subtitle>
+      <itunes:duration>22:57</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/5/5e7aca7f-ffb9-4ce1-abc5-b0016b820440/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 55: S3E02 物联网成了大公司的军备竞赛场</title>
+      <link>http://shengfm.cn/55</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group55/M01/FC/CF/wKgLf1yB5-CjyBjLANHiDYm8tKw064.m4a</guid>
+      <pubDate>Fri, 08 Mar 2019 12:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7972b50f-412e-427f-a6ec-6afc7d6bdc24.mp3" length="41639532" type="audio/mpeg"/>
+      <itunes:episode>55</itunes:episode>
+      <itunes:title>S3E02 物联网成了大公司的军备竞赛场</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E02 物联网成了大公司的军备竞赛场</itunes:subtitle>
+      <itunes:duration>28:19</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/7/7972b50f-412e-427f-a6ec-6afc7d6bdc24/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+    <item>
+      <title>Episode 54: S3E01 大公司跨境并购中的小心思</title>
+      <link>http://shengfm.cn/54</link>
+      <guid isPermaLink="false">http://audio.xmcdn.com/group55/M09/3C/3B/wKgLdVx45rOA4D2iAML12hHcZC8434.m4a</guid>
+      <pubDate>Fri, 01 Mar 2019 16:00:00 +0800</pubDate>
+      <author>声动活泼</author>
+      <enclosure url="https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/03d54e0e-66c7-4ac4-96c9-6dc37b69d006.mp3" length="38740960" type="audio/mpeg"/>
+      <itunes:episode>54</itunes:episode>
+      <itunes:title>S3E01 大公司跨境并购中的小心思</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>声动活泼</itunes:author>
+      <itunes:subtitle>S3E01 大公司跨境并购中的小心思</itunes:subtitle>
+      <itunes:duration>26:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/0/03d54e0e-66c7-4ac4-96c9-6dc37b69d006/cover.jpg?v=1"/>
+      <description></description>
+      <content:encoded>
+        <![CDATA[]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[]]>
+      </itunes:summary>
+    </item>
+  </channel>
+</rss>

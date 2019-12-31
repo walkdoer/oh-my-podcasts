@@ -1,0 +1,57 @@
+{
+  "config": {
+    "name": "硅谷早知道",
+    "cate": "tech",
+    "rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
+  },
+  "lastUpdated": 1577821605850,
+  "categories": [
+    {
+      "id": "tech",
+      "cn": "科技",
+      "en": "Tech"
+    }
+  ],
+  "basicInfo": {
+    "title": "硅谷早知道",
+    "link": "http://shengfm.cn",
+    "description": "「硅谷早知道」是由资深商业记者，七年硅谷驻站记者徐涛为您带来的节目，让你与全球创新第一时间同步。更新时间，每周五中午。欢迎在微信群中和我们讨论，添加微信号 shengfm1 入群。「硅谷早知道」为「声动活泼」传媒旗下节目。\n",
+    "language": "zh-cn",
+    "author": "声动活泼",
+    "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/cover.jpg?v=3",
+    "episodeNumber": 40,
+    "averageDuration": 2248,
+    "latestEpisode": {
+      "title": "我们的年终盘点和推荐，第四季2020年见！",
+      "link": "http://shengfm.cn/s3e40",
+      "guid": {
+        "_": "4923fc5a-1075-4d89-bf11-bec12cc248a7",
+        "$": {
+          "isPermaLink": "false"
+        }
+      },
+      "pubDate": "Fri, 27 Dec 2019 10:00:00 +0800",
+      "author": "声动活泼",
+      "enclosure": {
+        "$": {
+          "url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4923fc5a-1075-4d89-bf11-bec12cc248a7.mp3",
+          "length": "30024173",
+          "type": "audio/mp3"
+        }
+      },
+      "itunes:episodeType": "full",
+      "itunes:author": "声动活泼",
+      "itunes:subtitle": "硅谷早知道第四期将在2020年2月上线，敬请期待！",
+      "itunes:duration": "35:26",
+      "itunes:explicit": "no",
+      "itunes:image": {
+        "$": {
+          "href": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/episodes/4/4923fc5a-1075-4d89-bf11-bec12cc248a7/cover.jpg?v=1"
+        }
+      },
+      "description": "主播丨徐涛   嘉宾丨李蓉慧\n后期制作丨迪卡普里鑫\n又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。\n那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。\n另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。\n另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。\n本期节目由数码产品租赁平台「内啥」赞助播出。上内啥，免押金租到全世界好玩的东西！\n在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。\n2019「硅谷早知道」总结关键句\n李蓉慧\n国内对硅谷的关注开始降温\n植根于硅谷的生活方式在影响着很多的地方\n硅谷的创业环境已不是那么独一无二\n徐涛\n快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；\n硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；\n尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。\n2019 各大媒体总结传送门\nThe New York Times (文章) The Decade Tech Lost Its Way——An oral history of the 2010s (https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html)\nTHE VERGE (文章) THE VERGE’S GADGETS OF THE DECADE  (https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&isappinstalled=0)定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。\nThe Wired (文章) The 10 Tech Products That Defined This Decade (https://www.wired.com/story/top-10-tech-products-of-the-decade/)\nYouTube (视频) YouTube Rewind 2019: For the Record (https://www.youtube.com/watch?v=2lAe1cqCOXo)\nGoogle (视频) Google — Year in Search 2019 (https://www.youtube.com/watch?v=ZRCdORJiUgU)\nThe Journal (播客) A Year in the Middle of a Trade War\nThe Economist (文章) 2019 in review: United States (https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states) ；2019 in review: Europe’s fragmentation and fightback (https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback)  \n2019好剧/电影/书推荐\nThe Morning Show  (https://www.imdb.com/title/tt7203552/)（电视剧）\nWatchmen (https://en.wikipedia.org/wiki/Watchmen_(TV_series))（电视剧）\nRussian Doll Season（电视剧）\nThe Irishman（电影）\nMarriage Story（电影）\nThe Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power (https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&rlz=1C5CHFA_enUS720US720&oq=The+Age+of+Surveillance+Capitalism&aqs=chrome..69i57.271j0j1&sourceid=chrome&ie=UTF-8)，监视资本主义时代（书）\n访谈中提及名词\nGADGETS，英文翻译为器具，但通常指新奇的、高科技的玩意。\nAllbirds，一家美国环保概念鞋履品牌\n西南偏南，South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。\nBGM\nBack to the Old House - White Bones（片头片尾曲）\nHeartache in Heaven - Marc Torch （节目插曲）\nChristmas Memories (Instrumental Version) - Loving Caliber（节目插曲）\nLet You Go (Daxten Remix)  - Conditional（节目插曲）\n",
+      "content:encoded": "\n        <p><strong>主播丨</strong>徐涛   <strong>嘉宾丨</strong>李蓉慧</p>\n\n<p><strong>后期制作丨</strong>迪卡普里鑫</p>\n\n<p>又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。</p>\n\n<p>那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。</p>\n\n<p>另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。</p>\n\n<p>另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。</p>\n\n<p>本期节目由数码产品租赁平台<strong>「内啥」</strong>赞助播出。上内啥，免押金租到全世界好玩的东西！</p>\n\n<p>在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<h3>2019「硅谷早知道」总结关键句</h3>\n\n<blockquote>\n<p>李蓉慧</p>\n\n<p>国内对硅谷的关注开始降温</p>\n\n<p>植根于硅谷的生活方式在影响着很多的地方</p>\n\n<p>硅谷的创业环境已不是那么独一无二</p>\n\n<p>徐涛</p>\n\n<p>快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；</p>\n\n<p>硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；</p>\n\n<p>尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。</p>\n</blockquote>\n\n<h3>2019 各大媒体总结传送门</h3>\n\n<ul>\n<li>The New York Times (文章) <a href=\"https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html\" rel=\"nofollow\">The Decade Tech Lost Its Way——An oral history of the 2010s</a></li>\n<li>THE VERGE (文章) <a href=\"https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&isappinstalled=0\" rel=\"nofollow\">THE VERGE’S GADGETS OF THE DECADE </a>定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。</li>\n<li>The Wired (文章) <a href=\"https://www.wired.com/story/top-10-tech-products-of-the-decade/\" rel=\"nofollow\">The 10 Tech Products That Defined This Decade</a></li>\n<li>YouTube (视频) <a href=\"https://www.youtube.com/watch?v=2lAe1cqCOXo\" rel=\"nofollow\">YouTube Rewind 2019: For the Record</a></li>\n<li>Google (视频) Google — <a href=\"https://www.youtube.com/watch?v=ZRCdORJiUgU\" rel=\"nofollow\">Year in Search 2019</a></li>\n<li>The Journal (播客) A Year in the Middle of a Trade War</li>\n<li>The Economist (文章) <a href=\"https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states\" rel=\"nofollow\">2019 in review: United States</a> ；<a href=\"https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback\" rel=\"nofollow\">2019 in review: Europe’s fragmentation and fightback</a><br></li>\n</ul>\n\n<h3>2019好剧/电影/书推荐</h3>\n\n<ul>\n<li><a href=\"https://www.imdb.com/title/tt7203552/\" rel=\"nofollow\">The Morning Show </a>（电视剧）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Watchmen_(TV_series)\" rel=\"nofollow\">Watchmen</a>（电视剧）</li>\n<li>Russian Doll Season（电视剧）</li>\n<li>The Irishman（电影）</li>\n<li>Marriage Story（电影）</li>\n<li>The Age of Surveillance Capitalism: <a href=\"https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&rlz=1C5CHFA_enUS720US720&oq=The+Age+of+Surveillance+Capitalism&aqs=chrome..69i57.271j0j1&sourceid=chrome&ie=UTF-8\" rel=\"nofollow\">The Fight for a Human Future at the New Frontier of Power</a>，监视资本主义时代（书）</li>\n</ul>\n\n<h3>访谈中提及名词</h3>\n\n<ul>\n<li><strong>GADGETS，</strong>英文翻译为器具，但通常指新奇的、高科技的玩意。</li>\n<li><strong>Allbirds，</strong>一家美国环保概念鞋履品牌</li>\n<li><strong>西南偏南，</strong>South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。</li>\n</ul>\n\n<h3>BGM</h3>\n\n<ul>\n<li>Back to the Old House - White Bones（片头片尾曲）</li>\n<li>Heartache in Heaven - Marc Torch （节目插曲）</li>\n<li>Christmas Memories (Instrumental Version) - Loving Caliber（节目插曲）</li>\n<li>Let You Go (Daxten Remix)  - Conditional（节目插曲）</li>\n</ul>\n      ",
+      "itunes:summary": "\n        <p><strong>主播丨</strong>徐涛   <strong>嘉宾丨</strong>李蓉慧</p>\n\n<p><strong>后期制作丨</strong>迪卡普里鑫</p>\n\n<p>又到了一年年末，2019年，硅谷早知道第3季推出了40期节目，本集节目是第3季的最后一期，也算是我们2019年的收官之作。</p>\n\n<p>那这期节目里，有对硅谷未来环境变化的预测，也有对各大媒体2019年总结的盘点，同时我们也会向各位推荐一些好看的美剧、电影和书籍，希望各位喜欢。</p>\n\n<p>另外「声动活泼」的新一期播客节目 ——「反潮流俱乐部」即将在2020年1月6日上线。在这档节目里，我们会涉足时尚和潮流圈，并展示背后有趣、深刻的那一面，在节目末尾大家可以收听到「反潮流俱乐部」的一个预告。</p>\n\n<p>另外，想加入「硅谷早知道」微信群，可以添加小助手「声小音」的微信 shengfm1 咨询。</p>\n\n<p>本期节目由数码产品租赁平台<strong>「内啥」</strong>赞助播出。上内啥，免押金租到全世界好玩的东西！</p>\n\n<p>在支付宝生活号搜索「内啥」，输入口令「声动活泼」即可一元换购三天金卡会员福利并领取两张五十元代金券。</p>\n\n<h3>2019「硅谷早知道」总结关键句</h3>\n\n<blockquote>\n<p>李蓉慧</p>\n\n<p>国内对硅谷的关注开始降温</p>\n\n<p>植根于硅谷的生活方式在影响着很多的地方</p>\n\n<p>硅谷的创业环境已不是那么独一无二</p>\n\n<p>徐涛</p>\n\n<p>快速增长快速成为独角兽的模式，也许只是过去几年的特殊现象，在未来并不一定适用；</p>\n\n<p>硅谷的科技公司正在跌落神坛，社会和政府都会越来越关注这些科技企业可能带来的负面问题，例如隐私、数据垄断、劳工权益保护等等；</p>\n\n<p>尽管消费类科技公司的创新正在放缓，但很多传统产业依然在软件化、数字化和AI化的进程中，因此 to B 方向的创新依然会保持强劲。</p>\n</blockquote>\n\n<h3>2019 各大媒体总结传送门</h3>\n\n<ul>\n<li>The New York Times (文章) <a href=\"https://www.nytimes.com/interactive/2019/12/15/technology/decade-in-tech.html\" rel=\"nofollow\">The Decade Tech Lost Its Way——An oral history of the 2010s</a></li>\n<li>THE VERGE (文章) <a href=\"https://www.theverge.com/2019/12/10/20997215/best-gadgets-decade-2010s-list-roundup-apple-iphone-tesla-amazon-samsung?from=timeline&isappinstalled=0\" rel=\"nofollow\">THE VERGE’S GADGETS OF THE DECADE </a>定义为一种简单的工具，通常是指没有可动部件的单一体成型工具，或是由两三件小零件组合而成，可以用手持操作，通常也是无动力来源或高科技成分，完全依靠手动或简易的杠杆原理、机械原理来操作。</li>\n<li>The Wired (文章) <a href=\"https://www.wired.com/story/top-10-tech-products-of-the-decade/\" rel=\"nofollow\">The 10 Tech Products That Defined This Decade</a></li>\n<li>YouTube (视频) <a href=\"https://www.youtube.com/watch?v=2lAe1cqCOXo\" rel=\"nofollow\">YouTube Rewind 2019: For the Record</a></li>\n<li>Google (视频) Google — <a href=\"https://www.youtube.com/watch?v=ZRCdORJiUgU\" rel=\"nofollow\">Year in Search 2019</a></li>\n<li>The Journal (播客) A Year in the Middle of a Trade War</li>\n<li>The Economist (文章) <a href=\"https://www.economist.com/united-states/2019/12/20/2019-in-review-united-states\" rel=\"nofollow\">2019 in review: United States</a> ；<a href=\"https://www.economist.com/europe/2019/12/19/2019-in-review-europes-fragmentation-and-fightback\" rel=\"nofollow\">2019 in review: Europe’s fragmentation and fightback</a><br></li>\n</ul>\n\n<h3>2019好剧/电影/书推荐</h3>\n\n<ul>\n<li><a href=\"https://www.imdb.com/title/tt7203552/\" rel=\"nofollow\">The Morning Show </a>（电视剧）</li>\n<li><a href=\"https://en.wikipedia.org/wiki/Watchmen_(TV_series)\" rel=\"nofollow\">Watchmen</a>（电视剧）</li>\n<li>Russian Doll Season（电视剧）</li>\n<li>The Irishman（电影）</li>\n<li>Marriage Story（电影）</li>\n<li>The Age of Surveillance Capitalism: <a href=\"https://www.google.com/search?q=The+Age+of+Surveillance+Capitalism&rlz=1C5CHFA_enUS720US720&oq=The+Age+of+Surveillance+Capitalism&aqs=chrome..69i57.271j0j1&sourceid=chrome&ie=UTF-8\" rel=\"nofollow\">The Fight for a Human Future at the New Frontier of Power</a>，监视资本主义时代（书）</li>\n</ul>\n\n<h3>访谈中提及名词</h3>\n\n<ul>\n<li><strong>GADGETS，</strong>英文翻译为器具，但通常指新奇的、高科技的玩意。</li>\n<li><strong>Allbirds，</strong>一家美国环保概念鞋履品牌</li>\n<li><strong>西南偏南，</strong>South By Southwest，是每年在美国得克萨斯州奥斯汀举行的一系列电影、互动式多媒体和音乐的艺术节与大会。</li>\n</ul>\n\n<h3>BGM</h3>\n\n<ul>\n<li>Back to the Old House - White Bones（片头片尾曲）</li>\n<li>Heartache in Heaven - Marc Torch （节目插曲）</li>\n<li>Christmas Memories (Instrumental Version) - Loving Caliber（节目插曲）</li>\n<li>Let You Go (Daxten Remix)  - Conditional（节目插曲）</li>\n</ul>\n      "
+    }
+  }
+}
