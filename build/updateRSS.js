@@ -15,7 +15,8 @@ const pickVal = (obj, keyList) => {
       if (typeof key === 'string') {
         pair = { from: key, to: key };
       }
-      return { ...result, [pair.to]: obj[pair.from] };
+      const handle = pair.handle || ((v) => v);
+      return { ...result, [pair.to]: handle(obj[pair.from]) };
     },
     {},
   );
@@ -49,23 +50,27 @@ function getAverageDuration(episodes) {
 
   return Math.round(durations.reduce((total, val) => total + val, 0) / durations.length);
 }
+
 function extractBasicInfo(rssObj) {
   let basicInfo = {};
   const { channel } = rssObj;
   if (channel) {
     const allEpisode = channel.item || [];
     const latestEpisode = allEpisode[0];
+    const averageDuration = getAverageDuration(allEpisode);
     basicInfo = {
       ...basicInfo,
       ...pickVal(channel, [
-        'title', 'link', 'description', 'language',
+        'title', 'link', 'language',
+        { from: 'description', to: 'description', handle: (str) => str.replace(/<[^>]*>?/gm, '') },
         { from: 'itunes:keywords', to: 'keywords' },
         { from: 'itunes:author', to: 'author' },
       ]),
       ituneCategory: get$Val(channel['itunes:category'], 'text'),
       image: get$Val(channel['itunes:image'], 'href'),
       episodeNumber: allEpisode.length,
-      averageDuration: getAverageDuration(allEpisode),
+      averageDuration,
+      averageDurationFormated: utils.secondsToHMS(averageDuration),
       latestEpisode,
     };
   }

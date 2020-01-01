@@ -35,6 +35,17 @@ function getRSSJsonList() {
   return readFilePromise(DATA_RSS_PATH, 'utf-8').then((content) => JSON.parse(content));
 }
 
+function secondsToHMS(time) {
+  const arr = [];
+  let t = time;
+  while (t > 0) {
+    const s = t % 60;
+    arr.push(s > 9 ? s : `0${s}`);
+    t = Math.floor(t / 60);
+  }
+  return arr.reverse().join(':');
+}
+
 module.exports = {
   writeFilePromise,
   readTomlData,
@@ -42,4 +53,5 @@ module.exports = {
   saveRSSToLocalFile,
   saveRSSJsonList,
   getRSSJsonList,
+  secondsToHMS,
 };

@@ -4,7 +4,7 @@
     "cate": "tech",
     "rss": "https://feeds.fireside.fm/shengdongjixi/rss"
   },
-  "lastUpdated": 1577821607230,
+  "lastUpdated": 1577870406995,
   "categories": [
     {
       "id": "tech",
@@ -15,12 +15,13 @@
   "basicInfo": {
     "title": "声东击西",
     "link": "http://www.etw.fm",
-    "description": "Bigger Than Us，一群驻美记者为您带来的播客 \n世界宽广，但人们被日常及社交媒体所限制。那就让作为记者的我们，帮你推开一些意想不到的窗户，看见不一样的世界，触及不一样的信息，激发不一样的思考。\n这里讨论城市与未来，电影与现场，也谈论技术创新与人类生活的变革。\n这里有一手的现场观察和体验，还有不定期出现的神秘嘉宾。\n🦉🦉\n我们在为「声东击西」第三年运作进行募资，请大家移步 https://www.etw.fm/donation 支持我们。\n我们也有“声东击西限量版”T恤啦。\n帮助我们做 T恤的是我们的朋友 April 以及她的重列 Relist 品牌。\nT恤上面的图案设计也是我们 好朋友+ Logo 设计者，艺术家 Nova Pan。\n有时候真是觉得蛮幸运的，声东击西不断有朋友帮助和支持。\n大家可以戳这里购买：https://bit.ly/2RjYUiq \n🦉🦉🦉\n也欢迎加入我们的 Telegram 听众群：bit.ly/etwtelegram\n",
     "language": "zh-cn",
+    "description": "Bigger Than Us，一群驻美记者为您带来的播客 \n世界宽广，但人们被日常及社交媒体所限制。那就让作为记者的我们，帮你推开一些意想不到的窗户，看见不一样的世界，触及不一样的信息，激发不一样的思考。\n这里讨论城市与未来，电影与现场，也谈论技术创新与人类生活的变革。\n这里有一手的现场观察和体验，还有不定期出现的神秘嘉宾。\n🦉🦉\n我们在为「声东击西」第三年运作进行募资，请大家移步 https://www.etw.fm/donation 支持我们。\n我们也有“声东击西限量版”T恤啦。\n帮助我们做 T恤的是我们的朋友 April 以及她的重列 Relist 品牌。\nT恤上面的图案设计也是我们 好朋友+ Logo 设计者，艺术家 Nova Pan。\n有时候真是觉得蛮幸运的，声东击西不断有朋友帮助和支持。\n大家可以戳这里购买：https://bit.ly/2RjYUiq \n🦉🦉🦉\n也欢迎加入我们的 Telegram 听众群：bit.ly/etwtelegram\n",
     "author": "ETW Studio",
     "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/cover.jpg?v=1",
     "episodeNumber": 103,
     "averageDuration": 2902,
+    "averageDurationFormated": "48:22",
     "latestEpisode": {
       "title": "被众议院通过的美国总统弹劾案意味着什么？",
       "link": "http://www.etw.fm/impeachment",

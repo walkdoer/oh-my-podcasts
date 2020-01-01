@@ -4,7 +4,7 @@
     "cate": "culture",
     "rss": "https://feeds.fireside.fm/beartalk/rss"
   },
-  "lastUpdated": 1577821606274,
+  "lastUpdated": 1577870405682,
   "categories": [
     {
       "id": "culture",
@@ -15,12 +15,13 @@
   "basicInfo": {
     "title": "狗熊有话说",
     "link": "http://voice.beartalking.com",
-    "description": "An iTunes award-winning tech podcast since 2012.\n「狗熊有话说」播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、旅行、科技和个人成长为主要话题内容，是 iTunes 中国区长期推荐的节目，并被 iTunes 评选为“ 2013 年度精选最佳社会与文化播客 ”。\nBearTalk Podcast is a Chinese podcast shares technology insights, book reviews, and personal improvement tips since 2012. BearTalk Podcast was the Editor's Choice of the iTunes China in 2013, which has more than 60,000 listeners.\n",
     "language": "zh-cn",
+    "description": "An iTunes award-winning tech podcast since 2012.\n「狗熊有话说」播客是由 大狗熊 于 2012 年创办的独立中文知识型播客节目，以阅读、旅行、科技和个人成长为主要话题内容，是 iTunes 中国区长期推荐的节目，并被 iTunes 评选为“ 2013 年度精选最佳社会与文化播客 ”。\nBearTalk Podcast is a Chinese podcast shares technology insights, book reviews, and personal improvement tips since 2012. BearTalk Podcast was the Editor's Choice of the iTunes China in 2013, which has more than 60,000 listeners.\n",
     "author": "大狗熊",
     "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/7/70239f1d-0209-4f95-b12c-4168bb8912df/cover.jpg?v=1",
     "episodeNumber": 337,
     "averageDuration": 2888,
+    "averageDurationFormated": "48:08",
     "latestEpisode": {
       "title": "337期 / 2019年读完的9000页英文书 - Read 9000 pages in 2019",
       "link": "http://voice.beartalking.com/bt337",

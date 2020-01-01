@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" encoding="UTF-8" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
   <channel>
-    <fireside:hostname>feed02.fireside.fm</fireside:hostname>
-    <fireside:genDate>Fri, 27 Dec 2019 03:46:09 -0600</fireside:genDate>
+    <fireside:hostname>feed03.fireside.fm</fireside:hostname>
+    <fireside:genDate>Tue, 31 Dec 2019 21:50:14 -0600</fireside:genDate>
     <generator>Fireside (https://fireside.fm)</generator>
     <title>迟早更新</title>
     <link>https://podcast.weareones.com</link>
-    <pubDate>Fri, 27 Dec 2019 09:45:06 -0000</pubDate>
+    <pubDate>Wed, 01 Jan 2020 03:49:23 -0000</pubDate>
     <description>这是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。
 </description>
     <language>zh-cn</language>
@@ -25,6 +25,156 @@
 <itunes:category text="Technology"/>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:category text="Arts"/>
+    <item>
+      <title>Episode 121: 未来派野郎</title>
+      <link>https://podcast.weareones.com/121</link>
+      <guid isPermaLink="false">b137749d-71ad-4812-8da5-19f32184cd6d</guid>
+      <pubDate>Wed, 01 Jan 2020 11:30:00 +0800</pubDate>
+      <author>ONES Ventures</author>
+      <enclosure url="https://chtbl.com/track/G1147/aphid.fireside.fm/d/1437767933/c7bd2b24-9119-4399-8943-ecdbdef8d646/b137749d-71ad-4812-8da5-19f32184cd6d.mp3" length="30108444" type="audio/mp3"/>
+      <itunes:episode>121</itunes:episode>
+      <itunes:title>未来派野郎</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>ONES Ventures</itunes:author>
+      <itunes:subtitle>亚瑟·克拉克说过，任何足够先进的技术，皆与魔法无异。其实同理亦可以说，任何不太酷炫的魔法，皆与技术无异。在进入全民被 AI 服侍的时代之前，在因果模糊的奇迹时刻里，我们是否已经先把 AI 宠溺——或者也可能是崇拜——得过了头？</itunes:subtitle>
+      <itunes:duration>31:21</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c7bd2b24-9119-4399-8943-ecdbdef8d646/cover.jpg?v=2"/>
+      <description>亚瑟·克拉克说过，任何足够先进的技术，皆与魔法无异。其实同理亦可以说，任何不太酷炫的魔法，皆与技术无异。在进入全民被 AI 服侍的时代之前，在因果模糊的奇迹时刻里，我们是否已经先把 AI 宠溺——或者也可能是崇拜——得过了头？
+Show Notes:
+* 王洪春的文章《中国企业获设计「剽窃奖」被质疑》 (http://www.bjnews.com.cn/news/2019/02/15/547447.html)
+* Philip Wang 的网站 ThisPersonDoesNotExist.com (https://thispersondoesnotexist.com)
+* Woody Allen 的电影《A Rainy Day in New York》 (https://movie.douban.com/subject/27089612)
+* 《迟早更新》#117 期《轻微程度的重复说明》 (https://podcast.weareones.com/117)
+* 赵汝珍的书《古董辨疑》 (https://book.douban.com/subject/5256405)
+* 赵汝珍的书《古玩指南续编》 (https://book.douban.com/subject/5256403)
+* 李世乭的 JTBC 电视访谈 (https://www.youtube.com/watch?v=wjXuppfsvG8)
+* 安贝托·艾柯的书《倒退的年代：跟着大师看世界》 (https://book.douban.com/subject/10568296)
+* 《迟早更新》#104 期《「迟早过年」·关于历史和故事的烟霞》 (https://podcast.weareones.com/104)
+* 李零的书《中国方术续考》 (https://book.douban.com/subject/1794589)
+* 亚瑟·克拉克的「Clarke's Three Laws」 (https://en.wikipedia.org/wiki/Clarke%27s_three_laws)
+* Siraj Raval 的说唱视频《Data Lit》 (https://www.youtube.com/watch?time_continue=14&amp;v=2GwzlT2M59A)
+* Google AI 的负责人 Jeffrey Dean 的介绍页面 (https://research.google/people/jeff/)
+* 赵赛坡的「AI Insider」订阅计划 (https://iois.me/ai-insider-faq)
+* 尼克·波斯特罗姆（Nick Bostrom）的书《超级智能：路线图、危险性与应对策略》（Superintelligence : Paths, Dangers, Strategies） (https://book.douban.com/subject/26308917)
+* Cade Metz 的文章《Inside OpenAI, Elon Musk's Wild Plan to Set Artificial Intelligence Free》 (https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free)
+* Elon Musk 推荐 Nick Bostrom 的书的 Tweet (https://twitter.com/elonmusk/status/495759307346952192?lang=en)
+* Raffi Khatchadourian 的文章《The Doomsday Invention》 (https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom)
+* Drake Baer 的文章《Artificial Intelligence isn’t Just Technology — it’s Also a Religion》 (https://www.businessinsider.com/artificial-intelligence-has-become-religion-2016-3)
+* 手冢治虫的漫画《火之鸟（未来篇）》（火の鳥（未来編）） (https://tezukaosamu.net/jp/manga/399.html)
+* 霍华德（Ebenezer Howard）的「田园都市运动」（Garden City Movement） (https://en.wikipedia.org/wiki/Garden_city_movement)
+* 勒·柯布西耶在 1933 年领头提出的《雅典宪章》 (https://en.wikipedia.org/wiki/Athens_Charter)
+* Wolf Von Eckardt 关于《马丘比丘宪章》的文章《Humanizing the City》 (https://www.washingtonpost.com/archive/lifestyle/1978/08/12/humanizing-the-city/3bc8bc5a-454d-4775-a8f1-a15c202722dd)
+* 吴良镛起草的国际建协《北京宪章》 (https://book.douban.com/subject/1508648)
+* 「尤利西斯契约」（Ulysses Pact） (https://en.wikipedia.org/wiki/Ulysses_pact)
+* 荷马史诗《奥德赛》 (https://zh.wikipedia.org/wiki/荷马史诗)
+* 大卫·休谟的书《人性论》 (https://book.douban.com/subject/2305071)
+* Francois Jullien 的维基百科页面 (https://en.wikipedia.org/wiki/François_Jullien)
+* 许煜在《亚洲周刊》上的文章《走出半唐番需要創造新能量》 (http://atsunawai.blogspot.com/2011/05/blog-post_01.html)
+主播：任宁
+「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。
+官网：https://podcast.weareones.com
+微博：http://weibo.com/chizaogengxin
+如果有任何问题或反馈，欢迎发电子邮件至 embrace@weareones.com。
+</description>
+      <itunes:keywords>AI</itunes:keywords>
+      <content:encoded>
+        <![CDATA[<p>亚瑟·克拉克说过，任何足够先进的技术，皆与魔法无异。其实同理亦可以说，任何不太酷炫的魔法，皆与技术无异。在进入全民被 AI 服侍的时代之前，在因果模糊的奇迹时刻里，我们是否已经先把 AI 宠溺——或者也可能是崇拜——得过了头？</p>
+
+<p>Show Notes:</p>
+
+<ul>
+<li><a href="http://www.bjnews.com.cn/news/2019/02/15/547447.html" rel="nofollow">王洪春的文章《中国企业获设计「剽窃奖」被质疑》</a></li>
+<li><a href="https://thispersondoesnotexist.com" rel="nofollow">Philip Wang 的网站 ThisPersonDoesNotExist.com</a></li>
+<li><a href="https://movie.douban.com/subject/27089612" rel="nofollow">Woody Allen 的电影《A Rainy Day in New York》</a></li>
+<li><a href="https://podcast.weareones.com/117" rel="nofollow">《迟早更新》#117 期《轻微程度的重复说明》</a></li>
+<li><a href="https://book.douban.com/subject/5256405" rel="nofollow">赵汝珍的书《古董辨疑》</a></li>
+<li><a href="https://book.douban.com/subject/5256403" rel="nofollow">赵汝珍的书《古玩指南续编》</a></li>
+<li><a href="https://www.youtube.com/watch?v=wjXuppfsvG8" rel="nofollow">李世乭的 JTBC 电视访谈</a></li>
+<li><a href="https://book.douban.com/subject/10568296" rel="nofollow">安贝托·艾柯的书《倒退的年代：跟着大师看世界》</a></li>
+<li><a href="https://podcast.weareones.com/104" rel="nofollow">《迟早更新》#104 期《「迟早过年」·关于历史和故事的烟霞》</a></li>
+<li><a href="https://book.douban.com/subject/1794589" rel="nofollow">李零的书《中国方术续考》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" rel="nofollow">亚瑟·克拉克的「Clarke&#39;s Three Laws」</a></li>
+<li><a href="https://www.youtube.com/watch?time_continue=14&v=2GwzlT2M59A" rel="nofollow">Siraj Raval 的说唱视频《Data Lit》</a></li>
+<li><a href="https://research.google/people/jeff/" rel="nofollow">Google AI 的负责人 Jeffrey Dean 的介绍页面</a></li>
+<li><a href="https://iois.me/ai-insider-faq" rel="nofollow">赵赛坡的「AI Insider」订阅计划</a></li>
+<li><a href="https://book.douban.com/subject/26308917" rel="nofollow">尼克·波斯特罗姆（Nick Bostrom）的书《超级智能：路线图、危险性与应对策略》（Superintelligence : Paths, Dangers, Strategies）</a></li>
+<li><a href="https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free" rel="nofollow">Cade Metz 的文章《Inside OpenAI, Elon Musk&#39;s Wild Plan to Set Artificial Intelligence Free》</a></li>
+<li><a href="https://twitter.com/elonmusk/status/495759307346952192?lang=en" rel="nofollow">Elon Musk 推荐 Nick Bostrom 的书的 Tweet</a></li>
+<li><a href="https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom" rel="nofollow">Raffi Khatchadourian 的文章《The Doomsday Invention》</a></li>
+<li><a href="https://www.businessinsider.com/artificial-intelligence-has-become-religion-2016-3" rel="nofollow">Drake Baer 的文章《Artificial Intelligence isn’t Just Technology — it’s Also a Religion》</a></li>
+<li><a href="https://tezukaosamu.net/jp/manga/399.html" rel="nofollow">手冢治虫的漫画《火之鸟（未来篇）》（火の鳥（未来編））</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Garden_city_movement" rel="nofollow">霍华德（Ebenezer Howard）的「田园都市运动」（Garden City Movement）</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Athens_Charter" rel="nofollow">勒·柯布西耶在 1933 年领头提出的《雅典宪章》</a></li>
+<li><a href="https://www.washingtonpost.com/archive/lifestyle/1978/08/12/humanizing-the-city/3bc8bc5a-454d-4775-a8f1-a15c202722dd" rel="nofollow">Wolf Von Eckardt 关于《马丘比丘宪章》的文章《Humanizing the City》</a></li>
+<li><a href="https://book.douban.com/subject/1508648" rel="nofollow">吴良镛起草的国际建协《北京宪章》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ulysses_pact" rel="nofollow">「尤利西斯契约」（Ulysses Pact）</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E8%8D%B7%E9%A9%AC%E5%8F%B2%E8%AF%97" rel="nofollow">荷马史诗《奥德赛》</a></li>
+<li><a href="https://book.douban.com/subject/2305071" rel="nofollow">大卫·休谟的书《人性论》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jullien" rel="nofollow">Francois Jullien 的维基百科页面</a></li>
+<li><a href="http://atsunawai.blogspot.com/2011/05/blog-post_01.html" rel="nofollow">许煜在《亚洲周刊》上的文章《走出半唐番需要創造新能量》</a></li>
+</ul>
+
+<p>主播：任宁</p>
+
+<hr>
+
+<p>「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。</p>
+
+<p>官网：<a href="https://podcast.weareones.com" rel="nofollow">https://podcast.weareones.com</a><br>
+微博：<a href="http://weibo.com/chizaogengxin" rel="nofollow">http://weibo.com/chizaogengxin</a></p>
+
+<p>如果有任何问题或反馈，欢迎发电子邮件至 <a href="mailto:embrace@weareones.com" rel="nofollow">embrace@weareones.com</a>。</p>]]>
+      </content:encoded>
+      <itunes:summary>
+        <![CDATA[<p>亚瑟·克拉克说过，任何足够先进的技术，皆与魔法无异。其实同理亦可以说，任何不太酷炫的魔法，皆与技术无异。在进入全民被 AI 服侍的时代之前，在因果模糊的奇迹时刻里，我们是否已经先把 AI 宠溺——或者也可能是崇拜——得过了头？</p>
+
+<p>Show Notes:</p>
+
+<ul>
+<li><a href="http://www.bjnews.com.cn/news/2019/02/15/547447.html" rel="nofollow">王洪春的文章《中国企业获设计「剽窃奖」被质疑》</a></li>
+<li><a href="https://thispersondoesnotexist.com" rel="nofollow">Philip Wang 的网站 ThisPersonDoesNotExist.com</a></li>
+<li><a href="https://movie.douban.com/subject/27089612" rel="nofollow">Woody Allen 的电影《A Rainy Day in New York》</a></li>
+<li><a href="https://podcast.weareones.com/117" rel="nofollow">《迟早更新》#117 期《轻微程度的重复说明》</a></li>
+<li><a href="https://book.douban.com/subject/5256405" rel="nofollow">赵汝珍的书《古董辨疑》</a></li>
+<li><a href="https://book.douban.com/subject/5256403" rel="nofollow">赵汝珍的书《古玩指南续编》</a></li>
+<li><a href="https://www.youtube.com/watch?v=wjXuppfsvG8" rel="nofollow">李世乭的 JTBC 电视访谈</a></li>
+<li><a href="https://book.douban.com/subject/10568296" rel="nofollow">安贝托·艾柯的书《倒退的年代：跟着大师看世界》</a></li>
+<li><a href="https://podcast.weareones.com/104" rel="nofollow">《迟早更新》#104 期《「迟早过年」·关于历史和故事的烟霞》</a></li>
+<li><a href="https://book.douban.com/subject/1794589" rel="nofollow">李零的书《中国方术续考》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Clarke%27s_three_laws" rel="nofollow">亚瑟·克拉克的「Clarke&#39;s Three Laws」</a></li>
+<li><a href="https://www.youtube.com/watch?time_continue=14&v=2GwzlT2M59A" rel="nofollow">Siraj Raval 的说唱视频《Data Lit》</a></li>
+<li><a href="https://research.google/people/jeff/" rel="nofollow">Google AI 的负责人 Jeffrey Dean 的介绍页面</a></li>
+<li><a href="https://iois.me/ai-insider-faq" rel="nofollow">赵赛坡的「AI Insider」订阅计划</a></li>
+<li><a href="https://book.douban.com/subject/26308917" rel="nofollow">尼克·波斯特罗姆（Nick Bostrom）的书《超级智能：路线图、危险性与应对策略》（Superintelligence : Paths, Dangers, Strategies）</a></li>
+<li><a href="https://www.wired.com/2016/04/openai-elon-musk-sam-altman-plan-to-set-artificial-intelligence-free" rel="nofollow">Cade Metz 的文章《Inside OpenAI, Elon Musk&#39;s Wild Plan to Set Artificial Intelligence Free》</a></li>
+<li><a href="https://twitter.com/elonmusk/status/495759307346952192?lang=en" rel="nofollow">Elon Musk 推荐 Nick Bostrom 的书的 Tweet</a></li>
+<li><a href="https://www.newyorker.com/magazine/2015/11/23/doomsday-invention-artificial-intelligence-nick-bostrom" rel="nofollow">Raffi Khatchadourian 的文章《The Doomsday Invention》</a></li>
+<li><a href="https://www.businessinsider.com/artificial-intelligence-has-become-religion-2016-3" rel="nofollow">Drake Baer 的文章《Artificial Intelligence isn’t Just Technology — it’s Also a Religion》</a></li>
+<li><a href="https://tezukaosamu.net/jp/manga/399.html" rel="nofollow">手冢治虫的漫画《火之鸟（未来篇）》（火の鳥（未来編））</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Garden_city_movement" rel="nofollow">霍华德（Ebenezer Howard）的「田园都市运动」（Garden City Movement）</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Athens_Charter" rel="nofollow">勒·柯布西耶在 1933 年领头提出的《雅典宪章》</a></li>
+<li><a href="https://www.washingtonpost.com/archive/lifestyle/1978/08/12/humanizing-the-city/3bc8bc5a-454d-4775-a8f1-a15c202722dd" rel="nofollow">Wolf Von Eckardt 关于《马丘比丘宪章》的文章《Humanizing the City》</a></li>
+<li><a href="https://book.douban.com/subject/1508648" rel="nofollow">吴良镛起草的国际建协《北京宪章》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Ulysses_pact" rel="nofollow">「尤利西斯契约」（Ulysses Pact）</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E8%8D%B7%E9%A9%AC%E5%8F%B2%E8%AF%97" rel="nofollow">荷马史诗《奥德赛》</a></li>
+<li><a href="https://book.douban.com/subject/2305071" rel="nofollow">大卫·休谟的书《人性论》</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Fran%C3%A7ois_Jullien" rel="nofollow">Francois Jullien 的维基百科页面</a></li>
+<li><a href="http://atsunawai.blogspot.com/2011/05/blog-post_01.html" rel="nofollow">许煜在《亚洲周刊》上的文章《走出半唐番需要創造新能量》</a></li>
+</ul>
+
+<p>主播：任宁</p>
+
+<hr>
+
+<p>「迟早更新」是一档探讨科技、商业、设计和生活之间混沌关系的播客节目，也是风险基金 ONES Ventures 关于热情、趣味和好奇心的音频记录。我们希望通过这档播客，能让熟悉的事物变得新鲜，让新鲜的事物变得熟悉。</p>
+
+<p>官网：<a href="https://podcast.weareones.com" rel="nofollow">https://podcast.weareones.com</a><br>
+微博：<a href="http://weibo.com/chizaogengxin" rel="nofollow">http://weibo.com/chizaogengxin</a></p>
+
+<p>如果有任何问题或反馈，欢迎发电子邮件至 <a href="mailto:embrace@weareones.com" rel="nofollow">embrace@weareones.com</a>。</p>]]>
+      </itunes:summary>
+    </item>
     <item>
       <title>Episode 120: 「这是一种夺权还是赋能？」</title>
       <link>https://podcast.weareones.com/120</link>

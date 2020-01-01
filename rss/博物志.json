@@ -5,7 +5,7 @@
     "desc": "一档关于博物馆的播客",
     "rss": "https://feeds.fireside.fm/museelogue/rss"
   },
-  "lastUpdated": 1577821603839,
+  "lastUpdated": 1577870403069,
   "categories": [
     {
       "id": "culture",
@@ -16,13 +16,14 @@
   "basicInfo": {
     "title": "博物志",
     "link": "https://bowuzhi.fm",
-    "description": "bowuzhi.fm 一档关于博物馆的播客。\n",
     "language": "zh-cn",
+    "description": "bowuzhi.fm 一档关于博物馆的播客。\n",
     "author": "bowuzhi",
     "ituneCategory": "Society & Culture",
     "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/c/c31bea1c-0034-4381-9ad0-89823ce4540b/cover.jpg?v=2",
     "episodeNumber": 165,
     "averageDuration": 4082,
+    "averageDurationFormated": "01:08:02",
     "latestEpisode": {
       "title": "#157. 圣诞闲聊与北京看展简报",
       "link": "https://bowuzhi.fm/157",

@@ -5,7 +5,7 @@
     "desc": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客",
     "rss": "https://crazy.capital/feed"
   },
-  "lastUpdated": 1577821603322,
+  "lastUpdated": 1577870402547,
   "categories": [
     {
       "id": "tech",
@@ -21,14 +21,15 @@
   "basicInfo": {
     "title": "疯投圈",
     "link": "https://crazy.capital",
-    "description": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客。",
     "language": "zh-CN",
+    "description": "从投资视角探讨商业现象背后的本质。做最好的中文商业类播客。",
     "keywords": "风险投资,风投,VC,venture capital,疯投圈,疯投,crazy capital,crazy,capital",
     "author": "黄海, Rio",
     "ituneCategory": "Business",
     "image": "https://crazy.capital/assets/icon-crazycapital-1800.png",
     "episodeNumber": 40,
     "averageDuration": 4236,
+    "averageDurationFormated": "01:10:36",
     "latestEpisode": {
       "title": "40. 疯投圈的未来",
       "itunes:episode": "40",

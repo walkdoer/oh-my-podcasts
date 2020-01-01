@@ -4,7 +4,7 @@
     "cate": "tech",
     "rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
   },
-  "lastUpdated": 1577821605850,
+  "lastUpdated": 1577870405262,
   "categories": [
     {
       "id": "tech",
@@ -15,12 +15,13 @@
   "basicInfo": {
     "title": "硅谷早知道",
     "link": "http://shengfm.cn",
-    "description": "「硅谷早知道」是由资深商业记者，七年硅谷驻站记者徐涛为您带来的节目，让你与全球创新第一时间同步。更新时间，每周五中午。欢迎在微信群中和我们讨论，添加微信号 shengfm1 入群。「硅谷早知道」为「声动活泼」传媒旗下节目。\n",
     "language": "zh-cn",
+    "description": "「硅谷早知道」是由资深商业记者，七年硅谷驻站记者徐涛为您带来的节目，让你与全球创新第一时间同步。更新时间，每周五中午。欢迎在微信群中和我们讨论，添加微信号 shengfm1 入群。「硅谷早知道」为「声动活泼」传媒旗下节目。\n",
     "author": "声动活泼",
     "image": "https://assets.fireside.fm/file/fireside-images/podcasts/images/4/4931937e-0184-4c61-a658-6b03c254754d/cover.jpg?v=3",
     "episodeNumber": 40,
     "averageDuration": 2248,
+    "averageDurationFormated": "37:28",
     "latestEpisode": {
       "title": "我们的年终盘点和推荐，第四季2020年见！",
       "link": "http://shengfm.cn/s3e40",

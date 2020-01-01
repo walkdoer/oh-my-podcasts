@@ -4,7 +4,7 @@
     "cate": "tech",
     "rss": "https://doko.com/podcasts/feed.xml"
   },
-  "lastUpdated": 1577821607938,
+  "lastUpdated": 1577870407737,
   "categories": [
     {
       "id": "tech",
@@ -15,12 +15,13 @@
   "basicInfo": {
     "title": "追科技撩艺术",
     "link": "http://www.doko.com/podcasts/",
-    "description": "2019 Apple 最佳播客\n海内外华人科学家、开发者、艺术家等创造创新人士带来的有趣视角、观点和趋势。听听激发你思考的诙谐对话。",
     "language": "zh",
+    "description": "2019 Apple 最佳播客\n海内外华人科学家、开发者、艺术家等创造创新人士带来的有趣视角、观点和趋势。听听激发你思考的诙谐对话。",
     "author": "doko.com",
     "image": "http://doko.com/podcasts/doko-podcast_cn.png",
     "episodeNumber": 42,
     "averageDuration": 2151,
+    "averageDurationFormated": "35:51",
     "latestEpisode": {
       "itunes:episodeType": "full",
       "itunes:title": "iOS 11 中 3 个被忽略的颠覆性功能",

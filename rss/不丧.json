@@ -5,7 +5,7 @@
     "desc": "「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。",
     "rss": "https://feeds.simplecast.com/_duqOpEq"
   },
-  "lastUpdated": 1577821605350,
+  "lastUpdated": 1577870404593,
   "categories": [
     {
       "id": "culture",
@@ -16,13 +16,14 @@
   "basicInfo": {
     "title": "不丧",
     "link": "https://busangpodcast.simplecast.fm",
-    "description": "「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。",
     "language": "zh-cn",
+    "description": "「不丧」是一档文化类夫妻夜间谈话节目，我们每周分享让自己快乐的文化类产品，可能是一篇文章，一本书，一部电影或一部电视剧，再随便扯扯闲篇。力求在维护婚姻和谐的同时，以一己之力抵抗丧文化。",
     "keywords": "文化，电影，音乐，读书，生活，播客",
     "author": "好小气，乔老师",
     "image": "https://cdn.simplecast.com/images/4122da35-393c-41d3-9acb-758e0f7ae88c/0f300841-38cb-456d-9fb8-5e771e2cdf7c/3000x3000/1517031591artwork.jpg?&aid=rss_feed",
     "episodeNumber": 67,
     "averageDuration": 4168,
+    "averageDurationFormated": "01:09:28",
     "latestEpisode": {
       "guid": {
         "_": "25fb3da9-17f9-4468-8a3c-4a10d84b7ca3",

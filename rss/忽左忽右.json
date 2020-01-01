@@ -4,7 +4,7 @@
     "cate": "culture",
     "rss": "http://www.ximalaya.com/album/12817863.xml"
   },
-  "lastUpdated": 1577821607099,
+  "lastUpdated": 1577870406692,
   "categories": [
     {
       "id": "culture",
@@ -15,14 +15,15 @@
   "basicInfo": {
     "title": "忽左忽右",
     "link": "http://www.ximalaya.com",
-    "description": "苹果播客2019年度最佳播客\r\n\r\n这是一档JustPod旗下的沙龙访谈类播客节目，每周更新，试图为中文播客听众提供更多高质量的内容。JustPod是一家专注数字音频内容的初创企业，已陆续推出多档原创及品牌播客节目，包括《忽左忽右》《创业内幕》《贝望录》《转折点》。\r\n\r\n节目主持：程衍樑，杨一\r\n\r\n新浪微博: @忽左忽右leftright",
     "language": "zh-cn",
+    "description": "苹果播客2019年度最佳播客\r\n\r\n这是一档JustPod旗下的沙龙访谈类播客节目，每周更新，试图为中文播客听众提供更多高质量的内容。JustPod是一家专注数字音频内容的初创企业，已陆续推出多档原创及品牌播客节目，包括《忽左忽右》《创业内幕》《贝望录》《转折点》。\r\n\r\n节目主持：程衍樑，杨一\r\n\r\n新浪微博: @忽左忽右leftright",
     "keywords": "",
     "author": "JustPod",
     "ituneCategory": "Society & Culture",
     "image": "https://imagev2.xmcdn.com/group65/M04/90/78/wKgMdF2jnK2T50jGAAFqDBlL87s965.jpg!op_type=5&upload_type=album&device_type=ios&name=web_large&strip=0&quality=7",
     "episodeNumber": 73,
     "averageDuration": 2935,
+    "averageDurationFormated": "48:55",
     "latestEpisode": {
       "title": "69 “龙虾教授”乔丹·彼得森和他掀起的巨浪",
       "itunes:author": "JustPod",
