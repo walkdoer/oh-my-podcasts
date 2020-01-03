@@ -109,5 +109,5 @@ tmp/
 temp/
 data/
 rss/
-
+public/index.html
 # End of https://www.gitignore.io/api/node

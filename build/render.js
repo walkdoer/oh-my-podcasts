@@ -47,6 +47,7 @@ function genReadme(siteData, content) {
 
 async function render() {
   const siteData = readSiteData();
+  siteData.year = new Date().getFullYear();
   const content = await readContentData();
   genHtml(siteData, content);
   genReadme(siteData, content);
