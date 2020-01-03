@@ -31,7 +31,7 @@ function genHtml(siteData, content) {
   const tplContent = fs.readFileSync(tplPath, 'utf-8');
   const renderedHtml = Mustache.render(tplContent, { site: siteData, content });
   // create index.html
-  const indexPath = path.resolve(currentWorkDirectory, './index.html');
+  const indexPath = path.resolve(currentWorkDirectory, './public/index.html');
   fs.writeFileSync(indexPath, renderedHtml);
 }
 

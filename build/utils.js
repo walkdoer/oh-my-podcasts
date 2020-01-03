@@ -11,7 +11,13 @@ const writeFilePromise = util.promisify(fs.writeFile);
 const readFilePromise = util.promisify(fs.readFile);
 const DATA_RSS_PATH = path.resolve(dataDir, 'rss.json');
 
+if (!fs.existsSync(rssDir)) {
+  fs.mkdirSync(rssDir);
+}
 
+if (!fs.existsSync(dataDir)) {
+  fs.mkdirSync(dataDir);
+}
 function readTomlData(filePath) {
   const dataPath = path.resolve(currentWorkDirectory, filePath);
   const tomlContent = fs.readFileSync(dataPath);
