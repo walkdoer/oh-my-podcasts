@@ -35,6 +35,11 @@ id = "history"
 cn = "历史"
 en = "History"
 
+[[categories]]
+id = "architecture"
+cn = "建筑"
+en = "Architecture"
+
 
 # End of Category List }}}}}}
 
@@ -123,6 +128,16 @@ rss="http://womenpodcast.libsyn.com/rss"
 name="Round Table China"
 cate="culture"
 rss="https://aezfm.meldingcloud.com/rss/program/11"
+
+[[podcasts]]
+name="所建所闻"
+cate="architecture"
+rss="https://feeds.fireside.fm/architalk/rss"
+
+[[podcasts]]
+name="不丧"
+cate="culture"
+rss="https://feeds.simplecast.com/_duqOpEq"
 
 
 # End of Podcasts }}}}}}}}}
