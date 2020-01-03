@@ -114,5 +114,9 @@ name="科技島讀"
 cate="tech"
 rss="http://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss"
 
+[[podcasts]]
+name="Wo Men Podcast"
+cate="culture"
+rss="http://womenpodcast.libsyn.com/rss"
 
 # End of Podcasts }}}}}}}}}
