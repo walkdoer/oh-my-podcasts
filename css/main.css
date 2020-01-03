@@ -250,6 +250,7 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   padding: 1rem;
   font-size: 1rem;
   width: 100%;
+  box-sizing: border-box;
 }
 .podcast-info-group {
   display: flex;
