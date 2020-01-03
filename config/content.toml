@@ -108,4 +108,11 @@ rss="https://doko.com/podcasts/feed.xml"
 name="Digital China"
 cate="tech"
 rss="https://rss.acast.com/digitallychina"
+
+[[podcasts]]
+name="科技島讀"
+cate="tech"
+rss="http://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss"
+
+
 # End of Podcasts }}}}}}}}}
