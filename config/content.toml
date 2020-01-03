@@ -119,4 +119,10 @@ name="Wo Men Podcast"
 cate="culture"
 rss="http://womenpodcast.libsyn.com/rss"
 
+[[podcasts]]
+name="Round Table China"
+cate="culture"
+rss="https://aezfm.meldingcloud.com/rss/program/11"
+
+
 # End of Podcasts }}}}}}}}}
