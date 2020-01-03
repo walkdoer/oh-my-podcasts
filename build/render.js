@@ -32,7 +32,9 @@ function genHtml(siteData, content) {
   const renderedHtml = Mustache.render(tplContent, { site: siteData, content });
   // create index.html
   const indexPath = path.resolve(currentWorkDirectory, './public/index.html');
+  console.log(renderedHtml);
   fs.writeFileSync(indexPath, renderedHtml);
+  console.log(`page created in ${indexPath}`);
 }
 
 function genReadme(siteData, content) {
