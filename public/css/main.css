@@ -276,6 +276,12 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   border-radius: 0.2rem;
   font-size: 0.8rem;
 }
+.episode-number {
+  font-size: 0.9rem;
+  font-weight: normal;
+  margin-left: 0.5rem;
+  color: #b2b2b2;
+}
 
 
 /* ==========================================================================

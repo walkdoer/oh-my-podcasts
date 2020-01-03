@@ -32,13 +32,13 @@
               <img class="podcast-img" src="{{basicInfo.image}}"/>
             </div>
             <div class="podcast-info">
-              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">{{basicInfo.title}}</a>
+              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">{{basicInfo.title}}<span class="episode-number">共{{episodeNumber}}集</span></a>
               <p class="podcast-info-group">
-                <span class="podcast-info-author">作者: {{basicInfo.author}}</span>
+                <span class="podcast-info-author">{{basicInfo.author}}</span>
                 <span class="podcast-info-lang">语言: {{basicInfo.language}}</span>
                 <span class="podcast-info-duration">平均时长: {{averageDurationFormated}}</span>
               </p>
-              {{#keywords}}<p class="podcast-info-keywords">关键字: {{keywords}}</p>{{/keywords}}
+              {{#keywords}}<p class="podcast-info-keywords">{{keywords}}</p>{{/keywords}}
               
               <p class="podcast-info-desc">{{basicInfo.description}}</p>
               {{#latestEpisode}}
