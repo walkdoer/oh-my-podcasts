@@ -3,16 +3,32 @@
 
 <head>
   <meta charset="utf-8">
-  <title>{{ title }}</title>
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-
   <link rel="manifest" href="site.webmanifest">
   <link rel="apple-touch-icon" href="icon.png">
   <!-- Place favicon.ico in the root directory -->
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/main.css">
   <meta name="theme-color" content="#fafafa">
+  <!-- Primary Meta Tags -->
+  <title>{{ site.title }}</title>
+  <meta name="title" content="{{ site.title }}">
+  <meta name="description" content="{{ site.subtitle }}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://walkdoer.me/oh-my-podcasts/">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.subtitle }}">
+  <meta property="og:image" content="">
+
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://walkdoer.me/oh-my-podcasts/">
+  <meta property="twitter:title" content="{{ site.title }}">
+  <meta property="twitter:description" content="{{ site.subtitle }}">
+  <meta property="twitter:image" content="">
 </head>
 
 <body>
