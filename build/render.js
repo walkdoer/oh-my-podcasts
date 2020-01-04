@@ -21,18 +21,23 @@ function readSiteData() {
 }
 
 async function readContentData() {
-  return {
-    podcasts: await util.getRSSJsonList(),
+  const result = await util.getRSSJsonList();
+  return result;
+}
+
+function formateDate() {
+  return function formatter(rawDate, r) {
+    const t = parseInt(r(rawDate), 10);
+    return new Date(t).toLocaleString();
   };
 }
 
 function genHtml(siteData, content) {
   const tplPath = readTpl('index.mustache');
   const tplContent = fs.readFileSync(tplPath, 'utf-8');
-  const renderedHtml = Mustache.render(tplContent, { site: siteData, content });
+  const renderedHtml = Mustache.render(tplContent, { site: siteData, content, formateDate });
   // create index.html
   const indexPath = path.resolve(currentWorkDirectory, './public/index.html');
-  console.log(renderedHtml);
   fs.writeFileSync(indexPath, renderedHtml);
   console.log(`page created in ${indexPath}`);
 }
@@ -40,7 +45,7 @@ function genHtml(siteData, content) {
 function genReadme(siteData, content) {
   const tplPath = readTpl('readme.mustache');
   const tplContent = fs.readFileSync(tplPath, 'utf-8');
-  const renderedContent = Mustache.render(tplContent, { site: siteData, content });
+  const renderedContent = Mustache.render(tplContent, { site: siteData, content, formateDate });
   // create readme.md
   fs.writeFileSync(path.resolve(currentWorkDirectory, './readme.md'), renderedContent);
 }

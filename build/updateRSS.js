@@ -8,19 +8,17 @@ async function readRSS(rssUrl) {
   return utils.getUrl(rssUrl);
 }
 const get$Val = (v, key) => v.$ && v.$[key];
-const pickVal = (obj, keyList) => {
-  return keyList.reduce(
-    (result, key) => {
-      let pair = key;
-      if (typeof key === 'string') {
-        pair = { from: key, to: key };
-      }
-      const handle = pair.handle || ((v) => v);
-      return { ...result, [pair.to]: handle(obj[pair.from]) };
-    },
-    {},
-  );
-};
+const pickVal = (obj, keyList) => keyList.reduce(
+  (result, key) => {
+    let pair = key;
+    if (typeof key === 'string') {
+      pair = { from: key, to: key };
+    }
+    const handle = pair.handle || ((v) => v);
+    return { ...result, [pair.to]: handle(obj[pair.from]) };
+  },
+  {},
+);
 
 function getAverageDuration(episodes) {
   if (!episodes || episodes.length === 0) {
@@ -51,17 +49,21 @@ function getAverageDuration(episodes) {
   return Math.round(durations.reduce((total, val) => total + val, 0) / durations.length);
 }
 
-function extractBasicInfo(rssObj) {
+function extractBasicInfo(podcastConfig, rssObj) {
   let basicInfo = {};
   const { channel } = rssObj;
   if (channel) {
     const allEpisode = channel.item || [];
-    const latestEpisode = allEpisode[0];
+    let latestEpisode = allEpisode[0];
+    if (podcastConfig.sort === 'asc') {
+      latestEpisode = allEpisode[allEpisode.length - 1];
+    }
     const averageDuration = getAverageDuration(allEpisode);
+    const pubDate = (latestEpisode && latestEpisode.pubDate) || channel.pubDate;
     basicInfo = {
       ...basicInfo,
       ...pickVal(channel, [
-        'title', 'link', 'language',
+        'title', 'link', 'language', 'pubDate',
         { from: 'description', to: 'description', handle: (str) => str.replace(/<[^>]*>?/gm, '') },
         { from: 'itunes:keywords', to: 'keywords' },
         { from: 'itunes:author', to: 'author' },
@@ -69,6 +71,7 @@ function extractBasicInfo(rssObj) {
       ituneCategory: get$Val(channel['itunes:category'], 'text'),
       image: get$Val(channel['itunes:image'], 'href'),
       episodeNumber: allEpisode.length,
+      lastUpdated: pubDate ? new Date(pubDate).toLocaleDateString() : null,
       averageDuration,
       averageDurationFormated: utils.secondsToHMS(averageDuration),
       latestEpisode,
@@ -110,9 +113,8 @@ async function updateRSS() {
         const originRssObj = await xml2js.parseStringPromise(rssXml, { explicitArray: false });
         jsonObj = {
           ...jsonObj,
-          lastUpdated: Date.now(),
           categories: fullCategories,
-          basicInfo: extractBasicInfo(originRssObj.rss),
+          basicInfo: extractBasicInfo(podcast, originRssObj.rss),
         };
       } catch (err) {
         failed.push(podcast);
@@ -133,7 +135,7 @@ async function updateRSS() {
     result.push(jsonObj);
     spinner.succeed(prefix('updated'));
   }
-  return { podcasts: result, failed };
+  return { podcasts: result, failed, lastUpdated: Date.now() };
 }
 
 module.exports = updateRSS;

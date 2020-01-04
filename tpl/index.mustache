@@ -45,6 +45,9 @@
   </header>
   <article>
     <ul class="podcast-list">
+      <!--<div class="introduction">
+        <p class="total-number">一共有播客{{ content.podcasts.length }}个</p>
+      </div>-->
       {{#content.podcasts}}
           {{#basicInfo}}
           <li class="podcast">
@@ -52,11 +55,14 @@
               <img class="podcast-img" src="{{basicInfo.image}}"/>
             </div>
             <div class="podcast-info">
-              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">{{basicInfo.title}}<span class="episode-number">共{{episodeNumber}}集</span></a>
+              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">
+                {{basicInfo.title}}<span class="episode-number">共{{episodeNumber}}集</span>
+              </a>
               <p class="podcast-info-group">
                 <span class="podcast-info-author">{{basicInfo.author}}</span>
                 <span class="podcast-info-lang">语言: {{basicInfo.language}}</span>
                 <span class="podcast-info-duration">平均时长: {{averageDurationFormated}}</span>
+               {{#lastUpdated}} <span class="podcast-info-lastestUpdated">更新时间: {{lastUpdated}}</span>{{/lastUpdated}}
               </p>
               {{#keywords}}<p class="podcast-info-keywords">{{keywords}}</p>{{/keywords}}
               
@@ -73,7 +79,10 @@
       {{/content.podcasts}}
     </ul>
   </article>
-  <footer class="footer">Created by: <a href="https://walkdoer.me/about">Andrew Zhange(walkdoer)</a> Copyright {{ site.year }}</footer>
+  <footer class="footer">
+    <p class="latestUpdate">数据最后更新时间: {{#formateDate}} {{content.lastUpdated}} {{/formateDate}} </p>
+    <p class="copywrite">Created by: <a href="https://walkdoer.me/about">Andrew Zhang(walkdoer)</a> Copyright {{ site.year }}</p>
+  </footer>
 
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>

@@ -17,7 +17,7 @@ if (renderOnly) {
     ${chalk.green.bold('Success')}: ${result.podcasts.length - result.failed.length}
     ${chalk.red.bold('Failed')}: ${result.failed.length}
       `);
-      return utils.saveRSSJsonList(JSON.stringify(result.podcasts, null, 2));
+      return utils.saveRSSJsonList(JSON.stringify(result, null, 2));
     })
     .then(render)
     .then(renderFinish)

@@ -108,6 +108,7 @@ rss="https://theue.me/feed/podcast"
 name="追科技撩艺术"
 cate="tech"
 rss="https://doko.com/podcasts/feed.xml"
+sort="asc"
 
 [[podcasts]]
 name="Digital China"

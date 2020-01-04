@@ -204,8 +204,8 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   margin-bottom: 0.8rem;
 }
 .header-desc {
-  color: #333;
-  font-size: 1.2rem;
+  color: #6d6d6d;
+  font-size: 1rem;
   text-align: center;
 }
 .podcast-list {
@@ -213,6 +213,10 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   flex-direction: column;
   width: 960px;
   margin: 1.2rem auto;
+}
+.introduction {
+  margin-bottom: 0.6rem;
+  text-align: right;
 }
 .podcast {
   display: flex;
@@ -293,6 +297,12 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
 .footer {
   text-align: center;
   margin-bottom: 4rem;
+}
+.latestUpdate {
+  color: #6d6d6d;
+}
+.copywrite {
+  margin-top: 2rem;
 }
 
 
