@@ -40,6 +40,11 @@ id = "architecture"
 cn = "建筑"
 en = "Architecture"
 
+[[categories]]
+id = "language"
+cn = "语言"
+en = "Language"
+
 
 # End of Category List }}}}}}
 
@@ -111,7 +116,7 @@ rss="https://doko.com/podcasts/feed.xml"
 sort="asc"
 
 [[podcasts]]
-name="Digital China"
+name="Digitally China"
 cate="tech"
 rss="https://rss.acast.com/digitallychina"
 
@@ -139,6 +144,16 @@ rss="https://feeds.fireside.fm/architalk/rss"
 name="不丧"
 cate="culture"
 rss="https://feeds.simplecast.com/_duqOpEq"
+
+[[podcasts]]
+name="看理想电台"
+cate="culture"
+rss="http://www.ximalaya.com/album/12608947.xml"
+
+[[podcasts]]
+name="潘吉jenny告诉你"
+cate="language"
+rss="https://openlanguage.com/ez/podcast/learn-english/pj"
 
 
 # End of Podcasts }}}}}}}}}
