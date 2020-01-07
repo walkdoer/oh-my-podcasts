@@ -299,10 +299,11 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   margin-bottom: 4rem;
 }
 .latestUpdate {
-  color: #6d6d6d;
+  color: #9e9e9e;
 }
 .copywrite {
   margin-top: 2rem;
+  color: #6d6d6d;
 }
 
 
