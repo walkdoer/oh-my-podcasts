@@ -52,7 +52,14 @@
           {{#basicInfo}}
           <li class="podcast">
             <div class="podcast-img-holder">
-              <img class="podcast-img" src="{{basicInfo.image}}"/>
+              {{#basicInfo.link}}
+              <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">
+                <img class="podcast-img" src="{{basicInfo.image}}"/>
+              </a>
+              {{/basicInfo.link}}
+              {{^basicInfo.link}}
+                <img class="podcast-img" src="{{basicInfo.image}}"/>
+              {{/basicInfo.link}}
             </div>
             <div class="podcast-info">
               <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">
@@ -80,7 +87,7 @@
     </ul>
   </article>
   <footer class="footer">
-    <p class="latestUpdate">数据最后更新时间: {{#formateDate}} {{content.lastUpdated}} {{/formateDate}} </p>
+    <p class="latestUpdate">数据最后更新时间: {{#formateDate}} {{content.lastUpdated}} {{/formateDate}} ，  播客总数: {{content.podcasts.length}},  有{{ content.failed.length }}个更新失败</p>
     <p class="copywrite">Created by: <a href="https://walkdoer.me/about">Andrew Zhang(walkdoer)</a> Copyright {{ site.year }}</p>
   </footer>
 
