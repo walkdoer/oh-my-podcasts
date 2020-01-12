@@ -21,11 +21,6 @@ cn = "金融"
 en = "Finance"
 
 [[categories]]
-id = "society"
-cn = "金融"
-en = "Society"
-
-[[categories]]
 id = "culture"
 cn = "文化"
 en = "Culture"

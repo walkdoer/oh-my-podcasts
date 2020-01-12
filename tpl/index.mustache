@@ -43,6 +43,11 @@
     <h1 class="header-title">{{ site.title }}</h1>
     <p class="header-desc">{{ site.subtitle }}</p>
   </header>
+  <ul class="category-list">
+    {{#content.categories}}
+    <li class="category-item" data-id="{{id}}">{{cn}}</li>
+    {{/content.categories}}
+  </ul>
   <article>
     <ul class="podcast-list">
       <!--<div class="introduction">

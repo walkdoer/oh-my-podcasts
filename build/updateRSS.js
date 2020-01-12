@@ -7,7 +7,7 @@ const findCategory = (categories, id) => categories.find((cate) => cate.id === i
 async function readRSS(rssUrl) {
   return utils.getUrl(rssUrl);
 }
-const get$Val = (v, key) => v.$ && v.$[key];
+const get$Val = (v, key) => v && v.$ && v.$[key];
 const pickVal = (obj, keyList) => keyList.reduce(
   (result, key) => {
     let pair = key;
@@ -24,7 +24,12 @@ function getAverageDuration(episodes) {
   if (!episodes || episodes.length === 0) {
     return null;
   }
-  const getSeconds = (str) => {
+  const getSeconds = (inputStr) => {
+    if (!inputStr) { return null; }
+    let str = inputStr;
+    if (typeof str === 'object') {
+      str = str._;
+    }
     let s = 0;
     if (str.indexOf(':') >= 0) {
       const p = str.split(':');
@@ -135,7 +140,9 @@ async function updateRSS() {
     result.push(jsonObj);
     spinner.succeed(prefix('updated'));
   }
-  return { podcasts: result, failed, lastUpdated: Date.now() };
+  return {
+    podcasts: result, failed, lastUpdated: Date.now(), categories,
+  };
 }
 
 module.exports = updateRSS;
