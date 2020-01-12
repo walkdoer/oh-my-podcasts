@@ -44,18 +44,19 @@
     <p class="header-desc">{{ site.subtitle }}</p>
   </header>
   <ul class="category-list">
+    <li class="category-item active" data-id="all">全部</li>
     {{#content.categories}}
     <li class="category-item" data-id="{{id}}">{{cn}}</li>
     {{/content.categories}}
   </ul>
-  <article>
+  <article class="main">
     <ul class="podcast-list">
       <!--<div class="introduction">
         <p class="total-number">一共有播客{{ content.podcasts.length }}个</p>
       </div>-->
       {{#content.podcasts}}
           {{#basicInfo}}
-          <li class="podcast">
+          <li class="podcast" data-category="{{config.cate}}">
             <div class="podcast-img-holder">
               {{#basicInfo.link}}
               <a class="podcast-info-title" target="_blank" href="{{basicInfo.link}}">

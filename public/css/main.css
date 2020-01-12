@@ -195,7 +195,7 @@ body {
 }
 ul,ol,li, h1, p { margin: 0; padding: 0;}
 .header {
-  padding: 1.5rem 1.5rem 0.5rem;
+  padding: 3.5rem 1.5rem 2rem;
   background: #ffdf60;
 }
 .header-title {
@@ -232,7 +232,12 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   color: #FFF;
   border-radius: 0.35rem;
 }
-
+.category-item.active {
+  background: rgba(0, 0, 0, 0.75); 
+}
+.main {
+  margin-top: 2rem;
+}
 .podcast-list {
   display: flex;
   flex-direction: column;
