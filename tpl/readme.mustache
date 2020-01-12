@@ -5,12 +5,14 @@
 # Podcasts
 
 {{#content.podcasts}}
+  {{#basicInfo}}
   <li>
-    {{#name}}
-      <p><strong>{{name}}</strong></p>
-    {{/name}}
-    {{#desc}}
-      <p>{{desc}}</p>
-    {{/desc}}
+      <p>
+        <strong>{{title}}</strong>
+        <span class="episode-number">(共{{episodeNumber}}集) </span>
+        <span class="podcast-info-duration">平均时长: {{averageDurationFormated}}</span>
+        {{#lastUpdated}}<span class="podcast-info-lastestUpdated">更新时间: {{lastUpdated}}</span>{{/lastUpdated}}
+      </p>
   </li>
+  {{/basicInfo}}
 {{/content.podcasts}}
