@@ -195,7 +195,8 @@ body {
 }
 ul,ol,li, h1, p { margin: 0; padding: 0;}
 .header {
-  padding: 1.5rem;
+  padding: 3.5rem 1.5rem 2rem;
+  background: #ffdf60;
 }
 .header-title {
   font-weight: bold;
@@ -204,9 +205,38 @@ ul,ol,li, h1, p { margin: 0; padding: 0;}
   margin-bottom: 0.8rem;
 }
 .header-desc {
-  color: #6d6d6d;
+  color: rgba(0, 0, 0, 0.53);
   font-size: 1rem;
   text-align: center;
+}
+.category-list {
+  display: flex;
+  justify-content: center;
+  flex-flow: wrap;
+  position: sticky;
+  position: -webkit-sticky; /* Safari */
+  top: 0;
+  background-color: #ffdf60;
+  box-shadow: 0 3px 4px rgba(0, 0, 0, 0.0784313725490)
+}
+
+.category-item {
+  list-style: none;
+  padding: 0.5rem 1.2rem;
+  background: rgba(0, 0, 0, 0.35);
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+  white-space: nowrap;
+  margin-bottom: 0.5rem;
+  cursor: pointer;
+  color: #FFF;
+  border-radius: 0.35rem;
+}
+.category-item.active {
+  background: rgba(0, 0, 0, 0.75); 
+}
+.main {
+  margin-top: 2rem;
 }
 .podcast-list {
   display: flex;
