@@ -161,4 +161,10 @@ name="99% Invisible"
 cate="en-podcast,culture"
 rss="http://feeds.99percentinvisible.org/99percentinvisible?format=xml"
 
+[[podcasts]]
+name="文化土豆 Culture Potato"
+cate="culture"
+rss="https://feed.pippa.io/public/shows/culturepotato"
+website="http://www.culturepotato.com/"
+
 # End of Podcasts }}}}}}}}}
