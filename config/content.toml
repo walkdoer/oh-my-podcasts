@@ -40,16 +40,27 @@ id = "language"
 cn = "语言"
 en = "Language"
 
+[[categories]]
+id = "en-podcast"
+cn = "英文播客"
+en = "En"
+
 
 # End of Category List }}}}}}
 
 # Podcast List
 
 [[podcasts]]
-name="味之道"
-cate="foods"
-desc="《味之道》是由席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。"
-rss="https://feeds.fireside.fm/wzd/rss"
+name="硅谷早知道"
+cate="tech"
+rss="https://feeds.fireside.fm/guiguzaozhidao/rss"
+
+
+[[podcasts]]
+name="Wo Men Podcast"
+cate="culture,en-podcast"
+rss="http://womenpodcast.libsyn.com/rss"
+
 
 
 [[podcasts]]
@@ -76,12 +87,6 @@ rss="https://feeds.simplecast.com/_duqOpEq"
 name="迟早更新"
 cate="culture"
 rss="https://feeds.fireside.fm/czgx/rss"
-
-
-[[podcasts]]
-name="硅谷早知道"
-cate="tech"
-rss="https://feeds.fireside.fm/guiguzaozhidao/rss"
 
 
 [[podcasts]]
@@ -112,7 +117,7 @@ sort="asc"
 
 [[podcasts]]
 name="Digitally China"
-cate="tech"
+cate="tech,en-podcast"
 rss="https://rss.acast.com/digitallychina"
 
 [[podcasts]]
@@ -121,13 +126,8 @@ cate="tech"
 rss="http://feeds.soundcloud.com/users/soundcloud:users:322164009/sounds.rss"
 
 [[podcasts]]
-name="Wo Men Podcast"
-cate="culture"
-rss="http://womenpodcast.libsyn.com/rss"
-
-[[podcasts]]
 name="Round Table China"
-cate="culture"
+cate="culture,en-podcast"
 rss="https://aezfm.meldingcloud.com/rss/program/11"
 
 [[podcasts]]
@@ -150,5 +150,15 @@ name="潘吉jenny告诉你"
 cate="language"
 rss="https://openlanguage.com/ez/podcast/learn-english/pj"
 
+[[podcasts]]
+name="味之道"
+cate="foods"
+desc="《味之道》是由席妙雅主持的美食播客。美味是感性的体验，但同时需要开放的心态和眼界，以及精准的判断力。用味道来检验美食，不谈风月，不聊情怀。"
+rss="https://feeds.fireside.fm/wzd/rss"
+
+[[podcasts]]
+name="99% Invisible"
+cate="en-podcast,culture"
+rss="http://feeds.99percentinvisible.org/99percentinvisible?format=xml"
 
 # End of Podcasts }}}}}}}}}
