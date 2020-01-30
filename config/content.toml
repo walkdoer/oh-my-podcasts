@@ -167,4 +167,9 @@ cate="culture"
 rss="https://feed.pippa.io/public/shows/culturepotato"
 website="http://www.culturepotato.com/"
 
+[[podcasts]]
+name="Blow Your Mind"
+cate="culture"
+rss="http://rss.lizhi.fm/rss/14774.xml"
+
 # End of Podcasts }}}}}}}}}
