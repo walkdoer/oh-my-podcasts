@@ -16,9 +16,9 @@ cn = "音乐"
 en = "Music"
 
 [[categories]]
-id = "finance"
-cn = "金融"
-en = "Finance"
+id = "business"
+cn = "商业"
+en = "Business"
 
 [[categories]]
 id = "culture"
@@ -65,7 +65,7 @@ rss="http://womenpodcast.libsyn.com/rss"
 
 [[podcasts]]
 name="疯投圈"
-cate="tech,finance"
+cate="tech,business"
 desc="从投资视角探讨商业现象背后的本质。做最好的中文商业类播客"
 rss="https://crazy.capital/feed"
 
@@ -180,6 +180,11 @@ rss="https://feeds.jjldbk.com/all.xml"
 website="https://dao.fm/"
 desc="津津乐道播客是各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界"
 
+[[podcasts]]
+name="a16z"
+cate="tech,business"
+rss="https://feeds.simplecast.com/JGE3yC0V"
+website="https://a16z.com/"
 
 
 # End of Podcasts }}}}}}}}}
