@@ -37,13 +37,13 @@ en = "Architecture"
 
 [[categories]]
 id = "language"
-cn = "语言"
+cn = "语言学习"
 en = "Language"
 
 [[categories]]
 id = "en-podcast"
 cn = "英文播客"
-en = "En"
+en = "English Podcast"
 
 
 # End of Category List }}}}}}
@@ -182,9 +182,14 @@ desc="津津乐道播客是各领域达人联手制作的多档高质量播客�
 
 [[podcasts]]
 name="a16z"
-cate="tech,business"
+cate="tech,business,en"
 rss="https://feeds.simplecast.com/JGE3yC0V"
 website="https://a16z.com/"
 
+[[podcasts]]
+name="WSJ Tech News Briefing"
+cate="tech,en"
+rss="https://feeds.megaphone.fm/WSJ8523681216?limit=20"
+website="https://www.wsj.com/podcasts/tech-news-briefing"
 
 # End of Podcasts }}}}}}}}}
