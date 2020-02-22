@@ -172,4 +172,14 @@ name="Blow Your Mind"
 cate="culture"
 rss="http://rss.lizhi.fm/rss/14774.xml"
 
+
+[[podcasts]]
+name="津津乐道"
+cate="tech,culture"
+rss="https://feeds.jjldbk.com/all.xml"
+website="https://dao.fm/"
+desc="津津乐道播客是各领域达人联手制作的多档高质量播客，分享经验、传播体验。每周日早八点，我们一起用耳朵体验世界"
+
+
+
 # End of Podcasts }}}}}}}}}
