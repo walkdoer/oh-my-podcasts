@@ -192,4 +192,10 @@ cate="tech,en"
 rss="https://feeds.megaphone.fm/WSJ8523681216?limit=20"
 website="https://www.wsj.com/podcasts/tech-news-briefing"
 
+[[podcasts]]
+name="Casticle"
+cate="tech,culture"
+rss="https://feeds.fireside.fm/casticle/rss"
+website="https://casticle.fm/"
+
 # End of Podcasts }}}}}}}}}
